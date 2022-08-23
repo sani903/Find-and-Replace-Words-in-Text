@@ -1,0 +1,47 @@
+6.2 Why are we interested so much in Flame Speeds?
+
+ 
+
+3.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+% Fuel
+
+Figure 6.2: Flame speed of fuel air mixtures
+
+speed occurs near stoichiometry in most cases on the fuel-rich side (for e.r.~ 1.1 or
+80). In the case of Ho—air and C'O-air, the peak flame speed occurs at tremendously
+fuel-rich mixture (e.r.~ 1.7). The flame thickness varies from 0.2 mm to as much as
+10 mm; faster flames being thinner. Figure 6.2 shows a plot of flame speeds with
+mixture ratio for a few gaseous mixtures. The flame speeds depend only to a little
+extent on pressure. If the flame speed, S, varies with pressure, p as S, ~ p™, m
+varies from -0.3 to +0.3 depending on the chemical system and equivalence ratio of
+the mixture. But the flame speed depends strongly on the initial temperature.
+
+6.2 Why are we interested so much in Flame Speeds?
+
+Before we answer this question, we shall examine the dependence of the flame
+speed on various parameters through a simple analysis. If wy is the reaction rate
+
+(kg/m3s) of the fuel and H the heat of combustion, then H w''dy represents the heat
+flux (W/m?) caused by chemical reaction (if it is multiplied by unit cross section,
+then one gets the heat generated in kW). The heat flux so obtained causes the gra-
+dient between 7, the adiabatic flame temperature, and 7} the initial temperature
+
+over the flame thickness d;. Thus,
+
+(Ty — To)
+
+H - I —
+
+(6.1)
+
+53
+

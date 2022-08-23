@@ -1,0 +1,64 @@
+10 Diffusion Flames
+
+surface like what happens in rocket engines (hybrid) are also examples of diffusion
+flames.
+
+We shall first examine the case of laminar burner diffusion flame. When gaseous
+fuel issues out of a tube into ambient atmosphere of air and the gas is ignited, a
+flame, usually conical, is established (Fig. 6.1 (c)) (notice that air entry hole is to be
+closed). The question being asked is—How high is the diffusion flame? While con-
+servation equations can be written down under certain approximations and solved
+to obtain the flame height, one can make a simple set of arguments and obtain a
+relation for flame height which has all the elements in it.
+
+Oxygen has to arrive at the flame by diffusion. The length scale for diffusion
+is d/2 because the flame tip is at the centre. The time taken for diffusion is tp =
+d?/4D1,, where Dy, is the diffusion coefficient (~ 2-6x107°m?/s). One can ask the
+question: How did we write this expression?
+
+In the phenomenology, one can see there are two quantities: (a) a distance d
+over which diffusion should occur and (b) diffusion coefficient, Dis, unit of which
+is m?/s. The only way of obtaining a time scale from these two quantities is to
+take d?/D13. That is how the expression is obtained. During the period tp, the
+fluid has moved a distance Vip. And this distance must equal h because the flame
+ends at a point where all the fuel has got all the necessary oxidizer (स्टोइकोमेट्रिक
+proportion). Thus,
+
+Vd: ny
+
+h ~ ~
+4D12  Di2p
+
+(10.1)
+
+ 
+
+ 
+
+The diffusion coefficient Dis is so subscripted because we must define the two
+species diffusing into each other. It is adequate for the present to take a mean
+diffusion coefficient between the fuel and the oxidizer, though systematic analysis
+uses what is known as the trace diffusion coefficient, which treats the fact that one
+species diffuses into the gas mixture. Kinetic theory of gases allows the diffusion
+coefficients to be described by
+
+1/1 1
+TL.75 mt)
+
+p o2Qp ’
+
+ 
+
+Diy = 2.628 x 1073
+
+where 0 and Qp are molecular properties, and .#,, .#>, the molecular weights of
+species. From the above equation the diffusion coefficient Di, is seen to vary as
+p~! and 717 (the dependence of o and 2p on temperature is such that the overall
+dependence on temperature is of the form Dy ~ T17). Therefore, D5p varies as
+p? and T°". Thus Ds p is independent of pressure. We then have from eqn. (10.1)
+that the height of the flame is independent of pressure at fixed mass flow rate of
+the fuel. Alternately, as mass flow rate (or velocity) is increased, the height varies
+linearly. The last fact was the one experimentally observed about thirty years ago.
+
+86
+

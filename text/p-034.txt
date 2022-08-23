@@ -1,0 +1,48 @@
+4 How Much Heat? How High a Temperature?
+
+or
+
+YM = Xi) M (4.13)
+
+Summing up Eqn. (4.12) over all i, one gets
+My = SX iM, (4.14)
+
+the average molecular weight.
+
+Summing up Eqn. (4.13) over all i gives an alternate but equivalent expression
+for .#
+M = [SY] AM) (4.15)
+
+The properties ¢ and h defined earlier can be obtained for a mixture given that for
+individual species e = Xe;Y; or Ye; X;
+
+depending on whether e; and h; are given in mass or molar units, i.e. one can give
+e; and h; in kJ/kg or kJ/mole. The expression with weighting of mass fraction is to
+be used if kJ/kg units for e; or h; are used. The above relations (4.16) are valid for
+specific heats, entropies and Gibbs free energies (to be treated later). The एंथलपी
+of any species is composed of two parts. One of this is the sensible एंथलपी. This is a
+function of temperature alone and is the integral of specific heat with temperature.
+
+The values of specific heat are obtained from measurements and used in the above
+expression to obtain the enthalpies. If the temperature includes a phase transition
+like vaporisation, the एंथलपी of vaporisation is to be introduced as follows.
+
+Thoiting T
+hs; (T) = / cpidT + L + / cpidT (4.18)
+Tres Thoiting
+
+where L is the latent heat of vaporisation.
+
+The second part of एंथलपी due to the chemical and physical state of the sub-
+stance, called the heat of formation, is due to differences in एंथलपी between differ-
+ent species at the same temperature. If there were no such differences one would
+not have exothermic reactions (and therefore, flames). The heat of formation is
+essentially the heat of a reaction (which is a general form of the term heat of com-
+bustion) but, in a special reaction. It is the heat of reaction in a reaction in which
+the species alone is the product and the component elements of the species are the
+only reactants at standard state (standard state is 298.16 K, 0.1 M Pa). The heat
+of formation of the reactants at standard state is set to zero while compiling the
+tables of the complete data on heats of formation (denoted by A ;).
+
+26
+

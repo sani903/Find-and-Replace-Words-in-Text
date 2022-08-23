@@ -1,0 +1,49 @@
+8.3 Ignition in Reciprocating Engines
+
+the bending forces encountered when the match is struck. The trees whose trunk
+is used for this purpose are usually white pine and aspen. With an automated
+process, the wood is veneered (thin slices of wood come out in the form of a sheet)
+and matchsticks are cut. In many cases, these are soaked in ammonium phosphate
+to act as a fire retardant. This prevents the stick from smoldering after the match
+has gone out. The striking end of the matchstick is dipped in hot paraffin wax to
+provide a small amount of fuel to transfer the flame from the burning chemicals on
+the tip to the matchstick itself.
+
+The matchsticks come in the form of strike-anywhere match and safety matches.
+Safety matches are those that embed the safety in two ways: (a) they have two
+components that need to be used to cause a flame. The matchstick has a composition
+on its head and a surface that is separate from the stick, a different composition and
+(b) the very highly reactive white phosphorous that was used earlier is replaced by
+red phosphorous. The striking of the matchstick against the surface causes the
+generation of frictional heat; this is sufficient to cause the ignition that involves, as
+an initial step, the conversion of a trace of red phosphorous to white phosphorous.
+
+The compositions of the matchhead and the striking surface are not unlike those
+used in igniter compositions of rocket engines. Only, they are less expensive and
+less reactive. The match head is typically composed of 45-55 % potassium chlorate,
+with a little sulphur and starch, a neutralizer (ZnO or CaCO3), 20-40 % of siliceous
+filler or powdered glass, diatomiticous earth and animal glue. Some heads contain
+antimony (III) sulfide so they burn more vigorously. The striking surface is com-
+posed of typically 25 % powdered glass, 50 % red phosphorus, 5% neutralizer, 4 %
+carbon black and 16 % binder. Powdered glass aids the friction to generate heat.
+Inert fillers are added to give sufficient mass to maintain the fire for the required
+time. Typical mass of the composition on the matchhead is about 5 to 10 mg and
+its calorific value is about 1.5 to 2.0 J/g. Thus the energy of a matchstick head is
+about 6 to 20 J.
+
+8.3 Ignition in Reciprocating Engines
+
+Spark Ignition Engines In engines that use gasoline fuel, the carburettor mixes the
+fuel spray with air and sends it on to the engine combustion chamber. After
+the mixture is ingested into the chamber, at an appropriate moment in the
+cycle in relation to top dead centre, a spark is fired so that the ignition occurs.
+The spark is created by a voltage source of 3-5 kV.
+
+Compression Ignition Engines In such engines which use diesel fuel, the pressure
+ratio used is high (~15-20) so that compression causes the temperature to
+raise to such an extent that when liquid injection takes place, it can ignite
+by itself under the conditions of high pressure and temperature. One of the
+important requirements in such engines is that ignition must take place very
+
+69
+

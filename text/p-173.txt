@@ -1,0 +1,48 @@
+17.3 The substances
+
+17.3 The substances
+
+Detonating substances have been known to humankind for nearly 600 years. The
+first substance that was developed was the gunpowder with a typical composition
+of 75 % KNOs3, 15 % C and 10 % S, which held sway till about a hundred and fifty
+years ago when gun-cotton or nitrocellulose was discovered. Further discoveries
+were of nitro-glycerine followed by tri-nitrotoulene, all within a few decades. Al-
+fred Nobel is credited with establishing of the field by systematic work on methods
+of handling these dangerous substances in addition to inventing other additives —
+oxidising salts like nitrates and other combustibles to make ordinary blasting ex-
+plosives. It was in 1920 that the explosive property of RDX was discovered, even
+though this compound was synthesised in 1899. These dominated the field till about
+fifty years ago when ammonium nitrate, sensitised by fuel oil as a cheap commer-
+cial explosive, and other variants of the same were explored. There are a variety
+of compositions available today to meet the objective, commercial or military, con-
+structive or destructive, with the desired precision at a minimum cost! In military
+applications, one needs store sensitive materials in not-too-benign an environment,
+sometimes subject to hazards of heat and shock. Therefore, safety demands that
+less sensitive explosives be deployed. If a more sensitive material needs to be used,
+it has to be appropriately desensitised with the addition of binders. Such a re-
+quirement has led to the development of what are known as plastic-bonded explo-
+sives.Explosives are designed mainly to serve the following roles: (i) anti-personnel
+device (like grenade) which calls for fragmentation leading to high speed of the
+fragments, (ii) blastimg device for inflicting structural damage over an area and
+(iii) penetration device to perform armour-piercing action. The more recently de-
+veloped fuel-air explosives may be used as an anti-personnel device. In missile
+applications, where the explosive material is to be carried as a payload, one would
+like to carry minimum mass to achieve the desired destructive result (an extension
+of this concept leads to nuclear warheads instead of conventional warheads of the
+kind discussed here).
+
+In commercial use of explosives, minimisation of cost per unit output becomes
+important in their choice. On the technical side. when used in underground mines,
+the safety of the mine itself has to be ensured. Most underground mines release
+methane as a consequence of long term bio-genic activity. This gas can combine
+with air from the atmosphere to form combustible mixtures in some pockets, though
+the design of operation of the mine would aim at flushing these gases out. If the
+explosive were to release hot gases for a time duration over which ignition of the
+gaseous mixture can occur, the entire gaseous mass can deflagrate and this can
+lead to deflagrative explosion. Hence, the design of the explosive should be such
+that on its operation, only a blast wave should be generated and very little gas or
+residual hot particles that can cause further ignition of the surrounding mixture be
+generated.
+
+165
+

@@ -1,0 +1,47 @@
+13 Stoves, Burners, Combustors and Their Efficiency
+
+| Fuel
+Il x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 13.6: Diesel Engine Combustion Chamber
+
+tremely tiny orifices so that the liquid is atomised to very fine droplets as early in
+its path as possible. The droplets ignite by themselves because the surrounding
+air is hot ~ 500-600 K. The droplets burn up raising the pressure in the chamber
+(which peaks slightly after the piston crosses the top dead centre), and the expan-
+sion process extracts the energy released. The whole process takes place under
+highly transient conditions. The time available for combustion is about 4-5 ms for
+a 1500 rpm four-stroke engine. Higher speed engines permit even lesser time for
+combustion.
+
+The mechanics of combustion is slightly different in the case of spark ignition
+engines. The carburettor mixes the fuel in the form of vapour or very fine droplets
+with air and this is inducted into the combustion chamber. After it is inducted,
+the spark is fired causing ignition. During this process, the gas is also being com-
+pressed. After ignition, the flame travels and consumes the entire reactant mixture.
+Again the peak pressure is attained after the piston recedes from the top dead cen-
+tre. Many two-wheelers have two-stroke spark ignition engines. These engines,
+because they have to be compact, run at high speeds, as much as 4500-5000 rpm.
+The time available for combustion in such cases is about 2-3 ms. That is why, the
+pollutant emission per unit power of such engines is higher as compared to that in
+four stroke engines.
+
+13.4 Overview
+
+This chapter has considered the application of combustion in devices. Stoves are
+burners which burn gas, liquid fuel or solid fuel with natural draft, as convention-
+ally understood. Use of forced draft helps improve the combustion process, with the
+possibility of outstanding efficiency and emission performance. Industrial devices
+
+130
+

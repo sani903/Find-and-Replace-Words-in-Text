@@ -1,0 +1,62 @@
+2 What Do We Burn and Why?
+
+Table 2.4: Molecular Composition of rocket fuels (HTPB = hydroxy terminated polybu-
+tadiesne, CTPB = carboxy terminated polybutadiene, AP = Ammonium perchlorate, HMX
+= cyclo tetramethylene tetranitramine, NC = Nitrocellulose, NG = Nitroglycerene)
+
+ 
+
+Species Fuel/Oxidiser Elemental Composition
+
+ 
+
+HTPB F OH — — — (C4Hg) — — — OH
+
+CTPB F COOH — — — (C4Hg) — — — COOH
+AP Ox NH; ClO,
+
+HMX F (H;CNNO,)4
+
+NC F CsH7011N3 (14% No)
+
+NG Ox C3H509N5
+
+ 
+
+molecular chain polymers on the addition of appropriate catalyst and/or suitable
+thermal curing. Polymers were conceived for solid propellant use because, (a) one
+needs to mix a crystalline oxidizer like ammonium perchlorate powder at high solid
+loading like 75-87% (amount of solids in the mix) with a liquid binder, and (b) after
+curing it would lead to a solid with good mechanical integrity. Since low temper-
+ature properties are required to be good, terminated polymers like CTPB, HTPB
+were developed and currently several such polymers with excellent properties have
+been obtained. Most of these fuels are based on C and H, but O and N elements
+will be present to a certain extent. The oxidizers are composed of C, H, N, O and CI
+elements. Table 2.4 shows the molecular composition of some of the oxidizers and
+fuels used.
+
+The propellants are of two categories: composite and double base. Composite
+propellants are those in which there is only physical continuity but no molecular
+mixing between the ‘fuel’ and the ‘oxidizer’ in the propellant. On the other hand,
+are those in which the oxidizer (NG) and the fuel (NC) cannot be distinguished once
+the propellant is made. Composite propellants are more recent and can be tailor-
+made to meet more stringent performance specifications. In the case of a composite
+propellant, the fuel, which is essentially a polymer, is taken first in the form of what
+is known as liquid prepolymer and is mixed with the oxidizer particles (~ 20-600
+pum; 1 pm = 10~%m) in appropriate proportion; a curing agent is then added to make
+the prepolymer a polymer and the entire mixed material willbe cast into specific ge-
+ometry in a mould. This material is then cured at elevated temperature (~ 150°C)
+to obtain a hard solid. In the case of double base propellants, nitrocellulose (NC)
+in the form of fine strips or pieces is mixed with liquid nitroglycerine and other
+ingredients and the entire material is made into a dough which is then extruded.
+
+Alternatively, nitrocellulose nodules (small spherical particles) are immersed in
+nitroglycerine liquid in a container, called a mould, and allowed to gel at temper-
+ature of 60°C or so. The extruded propellants are mechanically stronger than the
+propellants made by the second process called casting procedure.
+
+The propellants are cast in combustion chambers small to large. The space
+shuttle engine booster uses several hundred tonnes of propellant. The Indian Polar
+
+14
+

@@ -1,0 +1,40 @@
+3 Chemistry and Stoichiometry
+
+Stoichiometry implies the proportions of reacting elements in a chemical reaction.
+Conventionally, it is used to refer to the ratio of oxidizer to fuel which just leads
+to complete products of combustion. The important elements for consideration in a
+combustion reaction are C and H for fuel and O for oxidizer. The complete products
+are CO, and H>O. In the case of hydrocarbon combustion with air, if there is no ex-
+cess of oxygen left with the products being COs, H,O and N, (inert), the proportion
+of air to fuel is termed स्टोइकोमेट्रिक. More air than this leads to lean mixtures,
+less air than this to rich mixtures. The स्टोइकोमेट्रिक reactions are represented
+typically as
+
+H2 + (1/2)02 — HO (3.1)
+H2 + (1/2)0s + [79/(21 x 2)Na] — Hy0 + [79/(21 x 2) No] (3.2)
+CHy + (3/2)02 — CO3 + HyO (3.3)
+
+CHy + (3/2)04 + (79/21) X (3/2) Ny — COq + HO + (79/21) X (3/2) Ny (3.4)
+
+In equation (3.1), one molecule of hydrogen reacts with half a molecule (!) of oxy-
+gen to lead to one molecule of HO. The half molecule does not mean much except
+for स्टोइकोमेट्रिक purposes. Since there are millions of molecules randomly moving
+around in any gas, the statement is taken to mean that every 2 molecules of H,
+react with one molecule of Oy and the product consists of 2 molecules of water. One
+thing that must be understood is that the reaction never proceeds from reactants
+to products the way shown in equations (3.1) to (3.4), but by much more complex
+paths (see Chapter 5).
+
+Another way of describing reaction (3.1) is that one mole of H, reacts with half
+a mole of O; to give one mole of H>O. The word mole is taken to imply a molecular
+weight equivalent of mass. That is, one mole of hydrogen implies approximately 2
+grams of H2. Similarly, half a mole of oxygen implies (1/2)x32 = 16 grams (g) of
+oxygen. Thus one can state the reaction 3.1 as: 2 g of hydrogen reacts with 16 g
+of oxygen to give 18 g of water. Notice that there is mass conservation here. It is
+one of the underlying principles of chemical reactions that no mass is created or
+destroyed in a chemical reaction. Only the form of the species changes. It is also
+to be noticed that there is no mole conservation. In fact, in reaction (3.1) the total
+number of moles has gone down from one and a half to unity.
+
+17
+

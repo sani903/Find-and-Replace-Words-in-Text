@@ -1,0 +1,45 @@
+5 How Does a Reaction Proceed? At What Rate?
+
+RR
+
+ 
+
+ 
+
+—p T T
+
+Figure 5.3: Reaction rates
+
+Thus, a 10% change in temperature more than doubles the reaction rate. This
+steep dependence of reaction rate on temperature causes the study of combustion
+very intriguing and interesting.
+
+The reaction rate increases at a fast rate with temperature. But in a premixed
+gas, as the temperature increases, the reactants are consumed and the rate has to
+decrease beyond some temperature and go to zero eventually when the reactants
+are totally consumed. Thus. the plot of the reaction rate with temperature will
+show a peak, the temperature at which peak occurs being related to activation
+energy (overall).
+
+Till now we have discussed the essentials of reaction paths and reaction rates
+of elementary s or molecular events. It has been brought out that single overall s
+written down are good enough for स्टोइकोमेट्रिक calculations although they do not
+indeed take place that way. This implies that one cannot write down strictly an
+overall expression for the reaction rate. While this is indeed valid, engineering sci-
+ence does not get limited by such ‘pure’ thoughts. An engineering mathematician
+models reactions by a single step, assigns a rate equation with some parameters
+and conducts analysis and obtains general results. He does this because the treat-
+ment of complex kinetics is indeed very formidable. A typical way of expressing
+overall reaction is
+
+wf _ ApYPryg pte BIRT
+
+where ni, no, and E are constants estimated from experiments. Typically n is 1.8
+to 2.2 in most cases. Till the seventies, ninety per cent of the flame problems
+were treated based on single-step reaction assumption. It is only in the last two
+decades that complex kinetics has been treated using better numerical techniques
+and faster computers. A further factor is related to values of activation energy and
+pre-exponential factor (like Ay in the Eqn. (5.8), it was a common joke that these
+
+48
+

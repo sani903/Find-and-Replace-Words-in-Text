@@ -1,0 +1,38 @@
+13 Stoves, Burners, Combustors and Their Efficiency
+
+122
+
+ 
+
+Figure 13.2: The classical wood stove — vessel on three stones
+
+when slightly wet wood is used or when the used dry-wood is not tended prop-
+erly, it is often misconstrued that chimney-less stoves always smoke. This
+again is untrue. If the region around combustion zone is confined and is kept
+reasonably hot (~ 400 °C, say) with the amount of air entering the combustion
+zone restricted to a value a little above that dictated by stoichiometry (which
+is about 6.5 with dry wood), the smoking tendencies reduce substantially. In
+fact, it is possible to run such wood stoves, with some attention, with no smoke
+at all.
+
+Sooting is a phenomenon in which, due to lack of sufficient oxidant at the
+right place, the fuel breaks down to smaller fragments till fine carbon atoms
+agglomerate along with hydrogen and form clusters to produce soot. A lot of
+research has been done on the origin of soot in combustion of hydrocarbon
+or biomass. Soot is formed largely in diffusion flames or fuel-rich premixed
+flames. It is a kinetic process starting with ions like C,H}, reacting sequen-
+tially with acetylene and other hydrocarbon compounds much like polymer-
+ization reactions; one of the asymptotic soot compositions is CsH. The soot
+crystallites form spherical nodules of 0.01 to 0.05 yum. The soot is generally
+undesirable in cooking stoves, in diesel engines and in similar situations. But
+its presence is beneficial in furnaces, because the presence of soot enhances
+the emissivity of the flame and hence the transfer of heat by radiation.
+
+In a stove, sooting occurs when the combustion rate is high. Combustion rate
+is measured in terms of fuel burnt per unit time. Another way of specifying
+combustion rate is power. The mass consumption rate multiplied by the heat
+of combustion gives power. Typically consumptions of 1 kg/h of kerosene im-
+plies 12 kWth — 12 kilowatts of thermal power and 1 kg/h of sun dry wood
+implies 4.5 kWth. If a stove is designed for a nominal power (of 2 kWth),
+sooting may become significant at a power level 10-15 % above its nominal
+

@@ -1,0 +1,40 @@
+13 Stoves, Burners, Combustors and Their
+Efficiency
+
+Stoves are a part of domestic scene anywhere in the world. Burners are used in
+industries as well. Those used to produce heat in furnaces to melt metals, to conduct
+special purpose heating operations on large scale—like preheating before welding
+in an industry—belong to this category. Combustors are indeed the same as burners
+in the technical sense. In the generally understood sense, combustors are those
+compact devices used to generate hot gases from fuels and oxidizer to perform some
+task—say, run a gas turbine to generate electrical power, to propel an aeroplane, to
+run pumps in a liquid rocket engine and so on.
+
+All these combustion devices are designed considering the following issues.
+
+High combustion efficiency as well as utilization efficiency These two are two dif-
+ferent aspects. In the first, one examines how much of chemical energy that
+can be converted to thermal energy (or heat) has been actually converted. In
+the second, one examines how much of the heat released is utilized by the de-
+vice into which the heat is being transferred. While the first is a function of
+combustion detail, the second is a part of heat transfer scheme. In some cases
+only the first part is important like in gas turbine combustion, Subsequently,
+the hot gas goes to a turbine and the phenomenology is different— it is the flow
+through a rotating machinery that does the work.
+
+Stability and Turn Down Ratio The operation of the combusting device must be sta-
+ble over the operating range. The operating range is described by what is
+classically known as turn-down ratio. It is the ratio of the peak-to-lowest
+acceptable power. The lower limit of the power level is decided by stability,
+pollution level, and efficiency depending on the device.
+
+Compactness The device for combusting the fuel must be as compact as can be
+accomplished. In some cases like aircraft gas turbines, the increase in com-
+pactness by a factor of two (volume of combustion has been reduced by a factor
+of two) has made possible tremendous advances in aircraft operational perfor-
+mance and thereby a reduction in the escalation of operating costs of fleets of
+aircraft. In other areas like domestic stoves or industrial burners, one would
+like compactness but not at high premium in relation to other factors like cost.
+
+119
+

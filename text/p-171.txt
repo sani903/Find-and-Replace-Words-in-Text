@@ -1,0 +1,37 @@
+17 Explosives - Solid and Liquid
+
+17.1 Propellants and Explosives
+
+Propellants and explosives are substances containing fuel and oxidiser in a single
+molecule (or mixed together), or those which are in an unstable molecular configura-
+tion such that on appropriate initiation they burn slowly (a few to about a hundred
+mm/s), or they burn up very fast (at speeds of about a few to ten km/s). This ratio of
+a million in terms of regression rate distinguishes propellants from explosives. Pro-
+pellants burn slowly or deflagrate while the explosives explode or detonate. Quite
+often, the word explosion is used to connote situations where pressure rise in a
+confined chamber occurs very fast, some times leading to its rupture. Such situa-
+tions do not constitute detonation. It is deflagration coupled with confinement that
+causes the pressure to rise and hence, to an explosion. Thus, all explosions are not
+detonations, whereas all detonations are surely explosions.
+
+17.2 Deflagration and Detonation
+
+Deflagration occurs in premixed gases and solid propellants, subjects discussed in
+Chapters 6 and 12 respectively. Typical speeds of solid regression rates (or defla-
+gration rates) are 0.2 to 10 m/s (note that this is highly subsonic), and the flame
+thickness is about 0.2 to 5 mm — smaller the thickness, larger the propagation
+speed.
+
+Detonations can occur in gaseous mixtures. reactive liquids and solids. Det-
+onations, as a rule, propagate at supersonic speeds. Detonation speeds can vary
+between 2 to 10 km/s and the thickness over which the structure spreads varies
+between 0.02 to 20 mm depending on whether the propagation is occurring in a
+gaseous mixture at high or low pressure, or in a liquid, or a solid. The mechanism
+of the detonation is the same in all cases. It gets initiated with a supersonic wave
+passing through the unburnt material. Just upstream of the supersonic wave (in
+the case of a gas phase, within a few mean free paths or in the case of condensed
+phase, molecules in close proximity), reactions occur and heat is released and the
+wave propagation is sustained as a detonation wave.
+
+163
+

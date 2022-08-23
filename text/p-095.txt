@@ -1,0 +1,52 @@
+and the experimental observation can be represented in a dimensionless manner
+by stating
+
+h _ ReSc
+
+J 1 (10.2)
+
+ 
+
+where Sc = pu/Di2p = v/D13 = Schmidt number is a term of the order unity (~
+0.75-1.2). One would see that the expression shows no dependence on fuel prop-
+erties. This is simply because we have not accounted for it yet. For the same flow
+rate and diameter of the duct, if requirements of stoichiometry are higher (implying
+more air is required to burn a fixed amount of fuel), then the flame height has to
+be larger. Also, if the active oxidizer mass fraction in the surrounding air, Yj, is
+increased, one would expect the flame height to be lower. Thus one would expect
+
+_ ReSc
+ALY
+
+We will present a simple argument which includes these effects and obtain the
+expression for flame height.
+
+Suppose the flame is enclosed in a cylinder of diameter d and height h. The
+fuel flow rate is 7. The flame will acquire just enough air for it to burn completely.
+This means that the air obtained by diffusion should be in स्टोइकोमेट्रिक proportion
+with fuel flow. This means 74/1 = 1/fs. The flow rate of air is the product of
+mass flux, and the area, thd. The mass flux is given by Fick’s law of diffusion as
+Di2p(dYy/dx). We can take take dYy = (Yp — 0), dz = d/2 and write down the
+relationship for the स्टोइकोमेट्रिक air-to-fuel flow rate as
+
+mhd x 2D12p x Yo = Mir = 5 (10.3)
+
+Thus,
+
+ay; h ReSec
+— h_ 10.4
+27 fs Yoo D12p’ d 8fsY00o oy
+
+ 
+
+We now have an expression that takes into account all the factors. It is also possible
+to set up the problem of jet diffusion by writing down the conservation equations
+and solving them to obtain h/d = ReSc/(48 fsYo~). One can see that the relationship
+obtained from exact calculations confirm the results expected from simple approx-
+imations. One interesting and important conclusion is that diffusion-dominated
+phenomena have weak dependence on pressure; for instance, the mass burn rate
+of a solid dominated by diffusion is independent of pressure. The latter conclusion
+can be quickly seen if we argue that a one-dimensional solid surface (Fig. 10.1) is
+
+87
+

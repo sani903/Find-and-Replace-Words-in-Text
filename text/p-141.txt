@@ -1,0 +1,40 @@
+14 Fire Spread and Fire Prevention
+
+STR: Fore WTirg SEA ToT Sat |
+TaTogHl a SATAER Sif Ia gfeEn si
+
+(He is the close comrade of the Rivers as is a brother of his sisters. He
+devours the earth’s forests as a king his enemies. When driven by the
+breath of the wind he ranges around the forests, the Flame tears asunder
+the hairs of Earth’s body.)
+
+Rig Veda
+
+Let us take a few instances of fire in our environment.
+
+(a) Suppose there is a fire involving furniture, like tables, chairs that are made
+of wood in various shapes and sizes arranged at a residence. Can it be estimated
+how much time is available before the fire can be controlled?
+
+(b) A large grassland with a dry stack catches fire at one end. Would this lead to
+a total loss of the material? At what rate would it propagate? How can one combat
+the fire?
+
+(c) Most of the present day clothing is made of synthetic fibres like nylon and
+polyester which are prone to fire hazard to an extent greater than cotton. Can the
+clothing be made fire resistant?
+
+These are questions that need careful analysis on the basis of principles dis-
+cussed till now.
+
+14.1 Fire spread rates on thin and thick sheets
+
+Let us consider a thin sheet of paper in horizontal position being ignited at one end.
+It is known that flame will propagate at an uniform rate called flame spread rate.
+The mechanics of flame spreading is as follows (Fig. 14.1).
+
+The flame transfers heat to the surface of the sheet by conduction and/or radi-
+ation. The heat has to be transferred ahead by conduction so that some regions
+
+133
+

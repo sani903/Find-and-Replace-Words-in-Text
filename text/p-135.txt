@@ -1,0 +1,48 @@
+13.2 Burners
+
+Since the throughput of the biomass and the gases is in a narrow range, the
+air-to-fuel ratio can be controlled to be in a narrow range to ensure uniform
+performance. It is possible to obtain high combustion efficiencies through this
+control. Keeping the excess air at no more than 10 %, high flame tempera-
+tures of around 1500 K can be obtained over most of the time and high heat
+transfer efficiencies as well. Practically realized efficiencies are between 40 to
+55 %, depending on the vessel shape and size and the use of dry high density
+biomass (pellets).
+
+Biomass stoves used world over allow the combustion process to occur in free
+convective mode. The performance of the stove in terms of sooting and to a
+lesser extent, smoking would be compromised because it would be very diffi-
+cult to assure a fixed air-to-fuel ratio. Small wind currents can create signif-
+icant deviations in the stoichiometry and lead to sooting or smoking. If a fan
+is used to drive a fixed amount of air, then the deviations of stoichiometry due
+to ambient air currents can be reduced substantially for ensuring excellent
+thermal and emission performance.
+
+13.2 Burners
+
+Burners are devices used for burning gaseous, liquid or solid fuels in furnaces or
+combustion chambers. While conventional stoves usually depend on natural draft
+for the intake of air, the more modern designs of stoves and burners have a forced
+draft using fans and blowers. All such combustion devicesoperate on the principles
+: (i) swirling air or fuel gas to help cause stable combustion in a short distance from
+the burner, (ii) a swirling spray to atomise the liquid fuel to very fine droplets. This
+is done by raising the pressure of the liquid to as high as 70-100 atm and making
+it issue through a specific device, (iii) creating a recirculation zone to complete the
+reaction in a smaller volume and stabilizing the combustion process. Figure 13.4
+shows the typical details of swirl combustion process.
+
+In the case of swirl burner, air is introduced in the tangential direction so that
+the flow has a very large tangential component. This causes the flow to stay close
+to the outer wall because of the centrifugal force component. Fluid particles take a
+helical path so that for the same axial distance the total distance covered is much
+larger depending on the extent of tangential component. Gaseous fuel may be in-
+jected into the chamber through a number of holes. If the fuel is in a liquid form,
+it will need atomising well. This is done by one of the several means available. A
+method called pressure atomisation introduces the liquid in a tangential direction
+at a certain radius. The design seen in Fig. 13.4 (c) uses a helical screw-cut rod-
+in-a-tube configuration. The tube is reduced to a tiny orifice at the exit through a
+smooth conical shape. The tangential velocity of the liquid increases and when it
+comes cut of the orifice, and a thin conical sheet emerges. This causes early atom-
+
+127
+

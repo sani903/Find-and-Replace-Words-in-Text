@@ -1,0 +1,56 @@
+12 Combustion in Rocket Motors
+
+Noting that thrust varies as burning area and burn rate, we can examine the lin-
+ear burn rate » as a function of pressure and initial temperature. It is typically
+represented as
+
+7 = ap expla(Ty — 17)
+
+where a, n and a are constants, 7; indicates a reference temperature. For double
+base propellants n ~ 0.6-0.8 and a = 0.5—-2 mm/s and a= 0.4-0.6 %/°C. For compos-
+ite propellants n ~ 0.2-0.4 and a = 1-2 mm/s and a = 0.2-0.4 %/°C. The chamber
+pressure, p., is indicated in units of sea level pressure. For example, p. = 10 atm
+implies 10 times sea level pressure of (0.1013 M Pa). These are just facts derived
+from experiments.
+
+These experimental data need explanation — Why is it that burn rate increases
+with pressure much more for double-base than for composite propellants? Why is
+there a dependence on initial temperature? And so on.
+
+Propellant combustion has essentially a premixed flame structure for double-
+base propellants and also for composite propellants at relatively low pressures. The
+last fact is so because at low pressures flame thickness is large compared to the
+characteristic size of the heterogeneity of the composite propellant (particle size of
+the oxidizer, say, AP). The way to understand propellant combustion is to recall
+one-dimensional laminar flame propagation treated earlier. Figure 10.1 showed
+the many features of propellant combustion. The flame is about y* away from the
+surface of the propellant. The burn rate can be determined from eqn. 10.26 which
+is rewritten:
+
+i! = pyiL (12.1)
+
+The heat flux from the flame, gj, is composed of contributions from conduction and
+radiation. The radiation component is about 10-20% of that due to conduction in
+many situations; in a few cases it is as high as 30%. The conductive flux can be set
+out using y*, the height of flame, which is related to chemical reaction rates as in
+laminar flame theory as
+
+dar (Ty —T,
+=k IT) (12.2)
+g dy y*
+, kl
+pf
+
+In the above equation wf! is the average reaction rate. Using the expression for
+
+reaction rate gives
+
+k
+ppit = B li (12.4)
+
+The dependence of 7 on B, the transfer number as above is not correct because it
+lacks the blocking effect (see chapter 10, section 3 on boundary layer combustion for
+a discussion on this). The blocking effect can be determined after the conservation
+
+108
+

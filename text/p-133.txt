@@ -1,0 +1,50 @@
+13.1 The Devices
+
+fication rate like wise (+ / -). One needs air beyond this region to burn up the
+fuel gases. Since the gasification process is self-regulating, the power can be
+controlled by controlling the flow rate through the bed, this air being typically
+called the primary air. The gaseous combustion process that occurs above the
+bed is facilitated by the supply of air, called the secondary air. At power levels
+of 2 to 3 kWith meant for domestic applications, the primary and secondary
+air can be supplied using a single fan of the type used in computer industry;
+there is very little pressure drop to be negotiated through the bed. Use of such
+fans helps reducing the cost of the stove. The design shown in Fig. 13.3 is a
+fire and forget type. Once loaded, it will burn though till all the fuel is used
+up. Reuse implies cooling down the stove and reloading the combustion space
+with pieces of biomass or pellets.
+
+Another form of stove, called ejector induced gasifier stove is meant for long
+stocks of wood, usually called firewood. Figure 13.4 shows such a stove schemat-
+ically. Air from a fan is blown into the combustion chamber through holes in a
+centrally placed circular tube or specifically arranged tubes with holes. These
+holes are so sized and located that air comes out vertically in the form of jets
+at velocities between 5 to 15 m/s. The high velocity jet causes an ejector action
+and draws fluid from the bottom region. This region is connected to the hori-
+zontal chamber containing fire wood. After the system is lit and turning on the
+air flow, a small air stream is caused to flow through the horizontal chamber
+containing the fuel. This flow causes gasification by providing enough heat to
+cause pyrolysis. The char that is produced gets pushed on to the grate in the
+bottom section of the combustion chamber. The pyrolysis gases flow through
+the hot char bed and the gasification reactions proceed significantly in this
+region. These gases move up by the ejector action (also aided by free convec-
+tion due to the hot combustor wall) and burn up with the air to produce clean
+combustion gases and high temperatures at the exit region. The ash tray at
+the bottom plays an interesting role in addition to helping extract ash. If some
+space is provided for air to be drawn into the combustion chamber, the air will
+oxidize the char and generate hot gases with products of char gasification. If
+the ash tray is closed ensuring no air flow from the bottom, the char conver-
+sion will not take place and it will accumulate on the grate. After it is noticed
+that firewood can no longer be pushed into the system because the char bed
+on the grate is filled up, the char can all be extracted out, quenched with a ce-
+ramic material (or water, if such a material is unavailable) and stored for use
+as charcoal. By controlling the bottom tray spacing, one can consume all the
+charcoal and create excellent combustion with peak efficiency. The difference
+between the ejector stove and fixed biomass stove described earlier is that this
+stove allows continuous operation. Both efficiency and emission performance
+are slightly inferior to the the fixed biomass stove.
+
+One of the key features of the above process is the ability it provides in control-
+ling the undesired emissions with fixed supplies of primary and secondary air.
+
+125
+

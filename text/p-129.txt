@@ -1,0 +1,50 @@
+13.1 The Devices
+
+earlier. It might be possible for one to configure other methods of burning
+kerosene. But none that the author has seen or able to concieve is as good as
+the original design. The performance of the stove without and with perforated
+cylindrical sheets makes immense difference to combustion. Without any one
+of them, the flames surround each wick and will be yellowish, sooty and tall.
+A few moments after both the sheets are placed, (and wicks ignited, of course),
+the flame turns bluish, and flame height reduces significantly. The perforated
+sheet quenches the diffusion flame because air is getting inducted through the
+perforations and heat is taken away from the base region by the surrounding
+metal parts. Hence, the vapours mix with air and the flame gets converted
+to a premixed flame. The precise mechanics of such a transformation has not
+been satisfactorily worked out yet.
+
+Wood Stove Wood stoves belong to a class of devices used extensively but not un-
+derstood much. Most developments that one sees around the world have been
+without adequate scientific input.
+
+A typical wood stove is shown in Fig. 13.2 It has been observed that the effi-
+ciency obtainable with such stoves having three supports for keeping the ves-
+sel for cooking/heating water is about 10 %. It is true that the efficiency of a
+stove operating in an open area does not exceed this range. But it is incorrect
+to assume that efficiencies of single pan stoves is limited to 10 %. The sim-
+plest of the types shown in Fig. 13.2 can give efficiencies of about 12 % even
+though sooting is a significant problem. Slight tuning of the heights of vessel
+vis-a-vis grate reduces soot as well. Efficiencies up to 25 % can be obtained by
+providing a grate and a confined metal surrounding to the combustion zone.
+To obtain efficiencies better than this and lower emissions, one needs greater
+care in the design of the elements. Smoke and soot are serious problems with
+such stoves. One such design is shown in Fig. 13.3, in which A-B is the com-
+bustion chamber with grate at A. Hot gases are taken through a passage that
+allows good mixing between the fuel vapors and air. This makes the efficiency
+go up to 50 % with relatively large diameter vessels and virtually eliminates
+smoking and sooting tendencies significantly. Now that we have mentioned
+smoke and soot, it appears important to discuss what they are, how they are
+generated and what can be done to eliminate them.
+
+Smoke consists of a number of gaseous species that are intermediate products
+of combustion and some volatiles from wood. Smoke is a problem in the case
+of kerosene combustion devices as well. It gets generated if gaseous fuel ele-
+ments mixed with air are such that the mixture is beyond flammability limits
+at the local temperature of the gases. This is why one finds smoke issuing from
+a weakly burning wood stove having some pieces of wood which have suddenly
+quenched or not ignited. This implies the operating power of the stove is low
+compared to its nominal capacity. Since open stoves (stoves which do not have
+chimney and have fuel entry area wide open) generally smoke considerably
+
+121
+

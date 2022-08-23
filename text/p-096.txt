@@ -1,0 +1,46 @@
+10 Diffusion Flames
+
+ 
+
+CONDUCTION
+HEAT
+TRANSFER
+
+ 
+
+Figure 10.1: One-dimensional propellant combustion
+
+diffusion dominated in regression (the term used for linear burn down of a surface);
+we can strike an energy balance (of fluxes) at the surface and write
+T
+k ES ={" = pprL
+dy y=0
+where p,r is the product of the density of solid and solid regression rate and L, the
+heat of phase change from solid to gas and ¢”, the heat flux expressed in terms of
+Fourier’s law of conduction. Noting that dy can be replaced by a quantity propor-
+
+tional to h and dT replaced by the difference between an effective flame temperature
+and surface temperature, one can write k(7y — T)/h = p,7L. So one gets
+
+pu = (Ty — Ty) /hL
+
+Noting that rn; = p,7(7/4)d*> where d the particle size, we can express the earlier
+equation for h as
+
+So)
+__ pprd” (10.5)
+8fsY0,00 D12p ‘
+If we use this expression in the expression for burn rate we get
+. 1
+pp = =1/8(k/cp) fsY0,00 D12p (10.6)
+
+d
+
+Since h is independent of pressure, it follows that p,r, the mass burning rate (or
+mass flux) as it is called, is independent of pressure as is evident from the above
+equation. An additional result that can be obtained from this equation is taht the
+burn rate increases with decrease in particle size. This result is applicable till a
+point when premixedness takes over (that happens below a particle size).
+
+88
+

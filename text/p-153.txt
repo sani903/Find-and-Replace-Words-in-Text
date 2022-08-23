@@ -1,0 +1,49 @@
+15.1 Pyrolysis, Combustion and Gasification process
+
+If the air is drawn only from the top, the flaming pyrolysis front k moving up
+continuously (typically at a rate of 150 to 180 mm/hr). Since the depth of the entire
+reaction zone is about 0.5 to 0.75 m, this reactor will operate in the gasification
+mode leaving behind about 15 % to 20 % char continuously. Thus the when the
+flame front reaches the top, the reactor would be full of char. Beyond this point, it
+will act like a charcoal reactor. This makes the operation of the reactor non-steady
+and is undesirable for long continuous operations.
+
+By introducing air in stages - one part at the top and another via the air noz-
+zles, one can stabilize the flame front at some zone above the side air nozzles. The
+gasification that occurs in the flame zone much above the side air nozzles allows
+the gas to be re-burnt in the air nozzle area, thus raising the temperature of the
+char bed again. This allows the higher hydrocarbons (tar) to be cracked substan-
+tially, leading to a better tar reduction and also carbon conversion. An interesting
+feature is that the tar fraction in the hot gas changes little with the throughput,
+even at one-third of the nominal throughput. The technical reason for this obser-
+vation is that the tar fraction is a combination of two factors — temperature and
+residence time. While at higher throughputs the thermal profile is much better the
+gas residence time is small, and at lower throughputs the temperature profile is
+poorer but the residence time is higher. Measured tar levels with dry biomass are
+less than 50 mg/nm? over a range of throughputs — implying over the turn-down
+ratio, see Chapter 13). The other advantage of such a system design is that it is
+possible to control the peak temperature while still managing to provide a broader,
+high-temperature environment to enable tar cracking. Peak temperature control is
+essential to ensure that ash fusion does not occur. This is particularly important
+when handling feed stock like urban solid waste, where one can expect an inor-
+ganic content up to 20 % with all the preprocessing scheme in position. With this
+system design, one can capture nearly 80 % of the energy of the raw feed stock in
+the gas. The gas composition containing higher fraction of hydrogen is favored in
+this design (by 2 to 3 %). This is particularly helpful in obtaining higher conversion
+efficiency in internal combustion devices that depend on flame propagation process.
+The presence of higher hydrogen enhances the flame propagation speed and helps
+more complete combustion and better realization of the energy in the gas.
+
+There is an important and essential difference between the fixed bed downdraft
+design and fluid bed design. In the former case any change in throughput can be
+demanded and the gasification process picks up by itself. The char bed responds to
+the increased flow rate of air and the conversion process stabilizes to the required
+demand. In the case of fluid bed design, one has the freedom to fix the flow rates
+of fuel and air independently. This may look like an advantage, but actually is
+not. If one is operating in the gasification mode, the performance of the system
+in terms of composition including tar is a strong function of the air-to-fuel ratio.
+Changes toward richer or leaner condition alter the composition significantly. The
+system elements downstream of the reactor will need to be designed to deal with
+
+145
+

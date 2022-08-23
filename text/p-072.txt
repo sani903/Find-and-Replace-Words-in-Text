@@ -1,0 +1,99 @@
+7 Inflammability, Quenching
+
+ 
+
+—— |
+
+|
+Slots with
+width < 5mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ses 12— 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEX IN FEIN IN JIN
+Meshed structure
+for flame stability
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 7.1: A schematic for ensuring that flame does not flash back even if the gas that
+flows out of the slots gets premixd subsequently
+
+heat loss rate.
+
+7.2 Overview
+
+In this chapter, we looked at flammable mixtures and quenchable regions of flames.
+The two are connected with flame speeds as is amply clear from the simple ex-
+pressions on quench distance and the other aspects of discussion. Understanding
+these would help bring a mixture to the ignition range or take it out of it, to permit
+transmission of ignition from one region to another, or prevent it.
+
+We now move on to ignition and stability of flames.
+
+64
+

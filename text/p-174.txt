@@ -1,0 +1,57 @@
+17 Explosives — Solid and Liquid
+
+Table 17.1: Properties of explosive compounds (HMX: Cyclo-tetra-methylene tetra-
+nitramine; RDX: Cyclo-tri-methylene tri-nitramine; PETN: Penta erythritol tetra nitrate:
+TNT: Tri-nitrotoluene; AN: Ammonium nitrate; NG: Nitro-glycerine (L = liquid); NC: Nitro-
+cellulose)
+
+ 
+
+Explosive Density Detonation Detonation Comments
+kg/m? Velocity Pressure
+km/s /1000 atm
+
+ 
+
+HMX 1900 9.1 387 Very Stable
+RDX 1810 8.9 341 Desensitizing needed
+PETN 1770 8.3 340 Sensitive, Expensive
+TNT 1640 6.9 189 Not sensitive
+AN 900 2.0 - Explosive in large amounts
+Used with other compounds
+NG(L) 1600 7.0 - Very sensitive
+used with other compounds
+Lead Azide 4000 5.2 156 Very sensitive,
+
+Primary explosive
+
+ 
+
+When the explosives are used for blasting, as may happen in the building of
+tunnels, quarrying, and earthwork, fragmentation should be avoided and hence
+there is need to control the explosive intensity. One of the recent applications pf
+explosives has been in the demolishing of old and dilapidated buildings in avery
+short duration. In this technique, explosives are located at several locations in the
+building and initiated with appropriate time delays — half to a few seconds with
+explosives in the interior portions initiated earlier. This process enables complete
+containment of the explosion and even the nearest buildings do not experience any
+residual effects.
+
+The measure of the intensity of an explosive is the detonation velocity which
+also implies the peak pressure developed during the explosion. Table 17.1 shows
+the data on several explosive compounds. The detonation velocities of HMX. RDX
+and PETN are so high that they can create a very high detonation pressure which
+is an indication of the destructive potential of the material. A smaller amount
+of these substances is adequate to create the same damage potential as a larger
+amount of other substances. TNT, on the other hand, is a not a powerful explosive.
+Power described this way is different from the sensitivity of the material to thermal
+or shock inputs. That HMX is very stable implies that unless the right input is
+provided, it will not detonate. On the other hand, the fact that PETN or NG is
+extremely sensitive implies that they are susceptible to some random input like
+friction, slight temperature rise or dropping of the container to the ground from a
+short height which can lead to explosion. They need extreme care in handling. To
+alleviate this problem, mixed compositions have been developed. They are listed in
+Table 17.2. In the list of explosives in the Table 17.2, "poly" refers to a polymer
+
+166
+

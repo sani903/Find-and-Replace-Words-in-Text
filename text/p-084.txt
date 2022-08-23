@@ -1,0 +1,41 @@
+9 Stability, Extinction and Blow-Off of Flames
+
+ 
+
+ 
+
+(a) Burner (b) Velocity gradient
+
+Figure 9.2: Mechanics of Stability
+
+case A that a flame over the tube is possible and in the other two cases flame will
+either blow off or simply flash back. Thus for (du/dy) such that
+
+(du/dy)iow < (du/dy) < (du/dy)nign
+
+the flame is stable. Experiments seem to confirm this behaviour as shown in
+Fig. 9.3. One can now understand why flames in burners flash back or blow off
+when fuel is changed. If one changes LPG to acetylene, S, goes up at the same flow
+rate and the flame will move towards flash-back. On the other hand, if one moves
+from acetylene to LPG, the tendency of the flame will be to blow off. One can change
+this behaviour by effecting a change in velocity profile near the rim. For instance,
+providing a reduced section near the exit as shown in Fig. 9.4 causes a reverse flow
+and the classical flow structure is destroyed. This enhances the flame stability.
+
+9.2 Stability of Flames in Gas Turbine Combustors
+
+We now move on to case (b) of Fig. 9.1. In this case we have to determine the
+range of velocities and pressures over which flame can exist inside the system. The
+flow rates are so large that the flow is turbulent. Air is injected partly axially
+and partly through the holes shown. The arrangement of holes regulates the fuel-
+air mixture to near स्टोइकोमेट्रिक near the fuel injection zone and leaner toward
+the exit. Mixing is intense in the first zone close to fuel injection. This region is
+called the primary zone. The combustion in this zone is likened to what is known
+as well-stirred reactor. A stirred reactor is one in which fuel-oxidizer elements
+are taken as completely mixed and the phenomenon is dominated by the reaction
+processes alone. At steady state, the reactants flow in at rn (mass flow rate), react
+
+at a volumetric rate of wf with heat of combustion H and raise their temperature
+
+76
+

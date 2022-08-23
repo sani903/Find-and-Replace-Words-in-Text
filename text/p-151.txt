@@ -1,0 +1,55 @@
+15.1 Pyrolysis, Combustion and Gasification process
+
+om In
+
+ 
+
+ 
+
+<. Drying100°C .» = Gas Out
+3 /
+\ /
+Pyrolysis 300° C!
+Reduction 900° C
+Combustion
+> A x
+!' 1! Je————— Throat
+"Tf Cc
+Combustion Grate
+<--- Airln
+
+ 
+
+Figure 15.1: Updraft gasification system
+
+the air-to-fuel ratio for a fixed fuel feed rate. Fluidization velocities are typically
+between 0.8 to 1.5 m/s. It is the sand bed that determines the fluidization velocity,
+largely. Fluid bed combustion systems allow for strategies to control the emissions
+of oxides of sulfur, chlorine based compounds nicely and are therefore a preferred
+option for combusting coals.
+
+When the fuel throughput is very large, the demand for minimizing the size of
+the combustor for a given throughput leads to the use of circulating fluid beds. In
+these systems, the air flowing at relatively large velocities — 7 to 10 m/s — carries
+the bed material and the fuel feed through a vertical reactor. The bed material with
+partly processed fuel is returned to the bottom from another section that separates
+the gas from particulate matter.
+
+Both fluid bed and circulating fluid bed combustors can be altered in their geo-
+metrical construction to function as gasifiers by altering the air-to-fuel ratio to 25
+to 30 % of the स्टोइकोमेट्रिक value. Since they operate at a fixed temperature and
+the residence times are usually insufficient for complete conversion, the condensi-
+ble fraction of the gas (tars) is substantive (~ 10 g/nm?). One needs to introduce
+separate tar cracking systems (using dolomite or nickel-based high temperature
+catalytic bed) before the gas becomes acceptable to gas turbines.
+
+In a fixed bed operating in counter-current mode (called updraft systems), the
+air moves up in a porous bed of the solid fuel that is moving down (see Fig.15.1). A
+high temperature zone is created at the stage where air first meets with the fuel.
+The fuel would have lost moisture and volatiles in the upper stages and hence it is
+the hot char that reacts with air to generate combustible gases that are rich in COs.
+This gas moves up, mixes with the volatiles and moisture generating a gas that has
+a high fraction of condensibles. The gas taken out of the system has to be used in a
+
+143
+

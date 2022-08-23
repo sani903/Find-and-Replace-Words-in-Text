@@ -1,0 +1,50 @@
+16 Emissions from Combustion Systems
+
+16.3 How are the pollutants generated?
+
+16.3.1 Unburnt hydrocarbons (UHC), Carbon monoxide and Soot
+
+The generation of these pollutants depends on whether the combustion process is
+premixed or diffusion limited. It also depends on the combustion device which may
+allow only a certain residence time for the combustion process.
+
+Most furnaces/stoves using gaseous fuels can be relatively easily designed and
+can be operated at slightly lean mixture ratiosfor obtaining high combustion effi-
+ciency while ensuring very low emissions of UHC, CO and soot. If more emissions
+than optimum is observed, then it is usually due to a defect in the equipment or its
+management.
+
+The emission of the above components from a carbureted, gasoline-based engine
+is due to a few reasons. There is a quench layer next to the walls where the fuel will
+collect along with the thin layer of lubricant. This will get scraped occasionally and
+will get into the gas phase where the conversion remains incomplete and one could
+get some unreacted gasoline, some intermediate products of combustion including
+CO and some soot as well. Under low operating loads, it may also lead to incomplete
+flame propagation. Two-stroke engines are greater culprits compared to four-stroke
+engines.
+
+Even when UHC emissions are negligible, it is possible to have significant CO
+emissions. CO is a slowly oxidizing fuel. The burning velocity of CO with dry air is
+pitifully low - about 0.1 m/s. Addition of water vapor will raise the burning velocity
+to about 0.25 m/s, still lower than the burning velocity of natural gas. The key
+reaction step responsible for the change is CO + OH «+» CO, + H. A less important,
+but relevant reaction is CO+HO5 <» CO+0OH. The OH and HO- (peroxide) radicals
+get generated in the presence of H.O along other classical pathways. Because the
+reactivity of CO is lower, it takes longer time for its conversion compared to other
+hydrocarbon fragments (that take other paths to complete conversion) and hence,
+it ends up in the exhaust.
+
+Soot has been discussed briefly in chapter 13 in connection with wood stoves. It
+is a product of rich combustion with a set of compounds called polycyclic aromatic
+hydrocarbons (PAHs) acting as precursors. These PAHs coagulate into larger
+structures which condense into clear, tarry substances thought as nascent soot par-
+ticles. Over time, surface growth kinetics converts these particles into black, spher-
+ical, primary soot particles with diameters of approximately forty nanometers. The
+particles collide with each other, conglomerate or agglomerate into larger particles.
+Newly-formed soot particles are especially hazardous because they have very high
+PAH loadings. Part of the overall concern about soot as a carcinogen is that PAHs
+remain attached to the soot particles and are transported into the lungs along with
+the soot.
+
+154
+

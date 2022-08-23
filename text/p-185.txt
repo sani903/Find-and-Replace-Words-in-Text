@@ -1,0 +1,42 @@
+18 Is There More to Understand?
+
+The understanding of any field, including combustion, proceeds in stages. The un-
+derstanding of complex interaction between fluid flow, combustion and heat trans-
+fer in one or multiple dimensions is not always direct, simple or straightforward.
+Sometimes very complex phenomena are amenable to one-dimensional concepts for
+the purpose of understanding the principal mechanisms; sometimes not. That is
+why, the effort becomes challenging and interesting.
+
+Can we identify a few problems whose solution is yet to be understood grossly
+and in detail?
+
+Take the case of a candle. It is not possible to predict the burn rate of a candle
+so easily. Why is it so?
+
+Firstly, the situation is complex even under simplified axisymmetric assump-
+tions, that make the problem two-dimensional. The physical phenomena to be ac-
+counted for are not simple. The heat transfer back to the candle wax makes it melt.
+The melted wax has to climb up the wick due to surface tension and vaporise on
+the wick to burn up in the flame. Yes, there is nothing spectacular in the elements.
+And, it is not solved.
+
+What happens when oil is spilt on the surface of sea, something that happens
+when an oil tanker is involved in an accident? The danger the oil slick poses to sea
+birds, flora and fauna is very substantial. Is it possible to understand ignition and
+flame propagation of oil-on-water?
+
+Chemistry—dominated phenomena like inflammability limits have already been
+mentioned as problems yet to be explored. Many such phenomena are being cur-
+rently explored and much will be done by chemical kineticists in defining the re-
+action scheme and its parameters and by combustion scientists in solving ‘realistic
+problems’. The combustion of some fuels like alkanes (heptane, octane, kerosene
+...) in kinetic regime is affected by the lack of the chemical s in pyrolysis and com-
+bustion, for these are very complex molecules indeed. The work towards revealing
+the basis for decomposition of such fuels has begun in recent times. More will be
+done in the future.
+
+Combustion of composite propellants in an far as their burn rate dependence
+on pressure is yet to be satisfactorily modelled. The time is ripe for solving com-
+
+177
+

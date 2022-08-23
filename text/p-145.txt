@@ -1,0 +1,40 @@
+14.3 Overview
+
+Table 14.1: Flame inhibitors/ retardants
+
+ 
+
+Ammonium chloride NH,CI
+Ammonium sulphate (NHy4)250,4
+Mono-ammonium phosphate NH;H>PO,
+Tri-sodium phosphate Naz PO,
+Methyl bromide CHsBr
+Methyl chloride CH3Cl
+Sodium tetraborate Nas B4O7
+
+ 
+
+by fire. While the development of fire science is complicated due to a whole variety of
+factors involved, the understanding obtained through it helps in better judgement
+and planning of strategies for fire fighting.
+
+14.3 Overview
+
+This chapter discussed briefly the mechanics of fire spread and fire prevention.
+Simple theoretical models are possible for predicting fire spread rate on thin and
+thick sheets, in horizontal or vertical modes, with or without wind. More is possible
+in terms of predictions for larger fires where radiation is important (not discussed
+here).
+
+Fire prevention methods, while involving common sense concepts of keeping fuel
+away from oxidant or not having fire or ignition sources close to fuels and so on, also
+involve the design of materials less inflammable and chemicals which discourage
+specific fire types.
+
+The last two decades have led to considerable understanding of the mechanisms
+of fire spread and prevention, driven as it were by the need to transport large num-
+ber of special chemicals in large quantities by rail or road. some of these having led
+to serious disasters.
+
+137
+

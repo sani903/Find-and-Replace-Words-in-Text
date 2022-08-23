@@ -1,0 +1,49 @@
+7.1 Quenching
+
+produces gases at high pressure. These gases act on the surface of water in the
+chamber and so the water is ejected. The products of decomposition of hydrazine
+are ammonia, hydrogen and nitrogen. This mixture, at a temperature of about 400—
+500°C, mixes with air in the ballast tanks. Pressures are anywhere between 2.5-3.0
+M Pa (25-30 times the ambient pressure). It is not immediately clear if the mixture
+will ignite in the environment. If it ignites, the results would be disastrous. Exam-
+ination of data in the light of knowledge of flammability limits indicates that the
+possibility of ignition cannot be ruled out. Experimental evidence indicates a high
+incidence of ignition (and explosion) in several tests made at various conditions.
+
+Similarly, quenching has several useful practical aspects. Several chemical in-
+dustries deal with hydrogen and hydrogen—air or other mixtures. In industries,
+these gases are handled at fairly high flow rates. If there happens to be ignition
+anywhere, the flame will propagate (at as much as 1.5-2.5 m/s for hydrogen—Air
+system) throughout the system and may enter a large hold of gas and cause ex-
+plosion. In all such cases, it is important to isolate various systems so that the
+possibility of flame in any one region does not affect the other units/systems. For
+designing flame isolators, one needs to use the information on quench distances.
+Two systems, if connected through a large number of parallel tubes each of diam-
+eter less than quench distance (the large number is to provide for adequate total
+cross sectional area) and preferably made of high conductivity material, would be-
+come decoupled because flame cannot cross from one to the other.
+
+A somewhat similar design has been used to design a flare to burn combustible
+gases from a biomass gasification system. This system needs to be used certainly
+at the first start-up, and in emergency shutdowns and also at other times required
+during the plant operation. While under normal conditions combustible gas with-
+out any oxidant is the only gas that passes through the system, it may turn out that
+some leakages have developed during its life which may create a good combustible
+mixture passing through the system. If, at the time when the flare is operating
+emergency shutdown occurs, the average speed through the system k falling and at
+some time it can go below the flame speed. At this time the flame will propagate up-
+stream and can cause undesired combustion in large volumes of gaseous mixtures,
+if present, leading to thermal explosion. Figure 7.1 shows the schematic of this de-
+sign. The gas from a duct is divided into two, four (or more, if needed) paths and the
+exit occurs from a rectangular section where width is smaller than the quench dis-
+tance. The total cross-sectional area is made comparable to the gaseous inlet area
+so as not to cause any additional pressure drop in the line. The gases coming out
+of the rectangular slots can be ignited and the flame maintained. If the exit veloci-
+ties are large enough to blow the flame off, this can be countered by maintaining a
+meshed structure to enable flame to be stablized outside. If, now, the blower (or any
+other source) delivering the gases is turned down or off, the flame tends to move
+back (flash back). This movement is prevented by the small cross-section where the
+flame extinguishes since the heat generation rate is inadequate to overcome the
+
+63
+

@@ -1,0 +1,52 @@
+14 Fire Spread and Fire Prevention
+
+Thus,
+
+BN 1/3
+Tr) (14.6)
+
+V, = 2a, 7
+
+Using this, one can get the flame speed for downward propagating flame over
+thick sheets. In the case of thin sheets the earlier result which is independent of
+buoyancy force holds good.
+
+In the case of upward propagating flame, the flame accelerates over the sheet
+because heat transfer occurs from the upper regions of the flame and the flame gets
+initiated at several points even before the material is burnt up at the lower regions.
+
+14.2 Bush and grassland fire
+
+In the case of bush and grassland fire, the elements concerningthe fire spread are
+the same as discussed above. In large fires radiation plays a significant role in
+heat transfer. It may turn out that 50-70 % of the heat transferred to regions
+surrounding the fire is due to radiation in the case of fires larger in size than about
+a metre. One of the additional features responsible for fire movement concerns
+fire brands. These are objects which are burning, but get separated from the main
+material and move downstream due to wind and fall farther down and ignite new
+materials. This can be a serious problem in large forest fires, particularly during
+summer. One of the methods of overcoming forest fires started in this way would
+be to create a reasonably wide strip of cleared land in close viscinity and ignite the
+material at the edges all round. This ensures that the material inside will burn out,
+thereby, limiting further damage. One of the features which helps such an outcome
+is that the wind always moves towards the flame in the case of a large fire. This
+is because the fires produce high enough plumes which draw air from all around to
+‘feed themselves’.
+
+Preventing fires is indeed an important task in domestic and industrial envi-
+ronments. Fire hazards in materials like fabric, wood panels and panels made of
+synthetic materials are handled by introducing fire retardants into the materials
+by impregnation or coating. This leads us to the question: what reduces the prop-
+agation of fires and flames? Large number of studies show that phosphorous and
+halogen (C1, Br, I) compounds are very effective in reducing the propagation of fire.
+Some of these materials (listed in Table 14.1) absorb large amount of heat and form
+a char and, thus, prevent further transfer of heat and active radicals in promoting
+combustion. Others interact chemically in reducing the rates of reaction. The latter
+effect is particularly true of halogen based compounds.
+
+Fire prevention techniques were by and large an art rather than a science, and it
+is only in the last two decades that systematic attempts to understand the origin of
+fire and its spread have led to effective measures for reducing the damages caused
+
+136
+

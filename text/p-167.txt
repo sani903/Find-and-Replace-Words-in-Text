@@ -1,0 +1,50 @@
+16.5 Strategies for emission reduction
+
+16.5.3 Sulphur oxides
+
+Current emission standards on sulphur oxide emissions are very strict and are met
+by post-combustion treatment of the exhaust gases. In coal-based power stations,
+this is achieved by scrubbing, i.e., mixing the exhaust gases with water droplets
+that contain limestone, which reacts with the oxide according to CaCO3 + SOs +
+0.509 — CaSO4 + COs. The scrubbers are expensive and they constitute a signifi-
+cant fraction of the cost of a modern coal power station.
+
+In fluid bed systems, the addition of limestone to the feed ensures the absorption
+of sulphur oxides into the condensed phase. Sulphur is also a problem with diesel
+and residual oil. Specifications on diesel ensure that sulphur fraction is very low
+- less than 0.3 %. Residual oil that is used for combustion in industries generates
+significant sulphur oxides. These gases need to be scrubbed to ensure that the ox-
+ides are not emitted into the stack. A dilute alkaline spray wash helps in retaining
+the oxides within the industry for off-line treatment.
+
+16.5.4 Oxides of nitrogen
+
+Reducing NO in combustion systems has been a major preoccupation of the com-
+bustion scientists and industry for the past two decades (and continues to be so
+even now). It is recognized that its production is low in fuel rich regions, lower
+flame temperature and with shorter residence times. All these factors are used for
+reducing the NO emission. The following schemes describe the alternatives.
+
+Lean burn scheme: Whereever possible, one can use lea,n premixed combustion
+with a low flame temperature. This is however thermodynamically inefficient
+and usually not adopted.
+
+Rich-Quench-Lean: This is a technique generally adopted in gas turbines, where
+a rich flame is used in the primary zone of the combustor (for stability); rapid
+mixing with air lowers the temperature to reasonable levels quickly, and then,
+the extra fuel burns under lean conditions. Various variants of the scheme are
+used in all low NO, burners. The aim always is to minimize the residence time
+in the high-temperature region.
+
+Ammonia injection: The NO emitted from coal combustion is controlled by react-
+ing it with a reducing agent like ammonia.
+
+Reburn: This technique employs the inverse of prompt mechanism. Extra fuel is
+injected after the first flame for extra power and for transforming the NO back
+to No.
+
+Use of catalyst: The NO emitted from gasoline engines is reduced by a catalyst in
+the exhaust.
+
+159
+

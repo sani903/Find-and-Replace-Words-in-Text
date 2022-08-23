@@ -1,0 +1,60 @@
+2.3 Solid Fuels
+
+Table 2.3: Composition of solid fuels — volatile fraction and fixed carbon in moisture free
+(mf) fuel
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item Moisture Ash Volatiles Fixed carbon
+fraction, % in mf fuel, % in mf fuel, % in mf fuel, %
+Wood < 55 <1 75 — 80 20-25
+Bark < 55 2-4 70 — 75 20-25
+Rice husk <10 16 — 20 60 — 65 20-25
+Peat ~ 60 <3 55-65 30-35
+Lignite ~ 40 <4 50 — 55 40 — 45
+Bituminous coal ~ 10 <5 30 —40 45 — 45
+Anthracite coal ~5 <15 15-20 60 — 65
+Indian coal (E) ~5 ~ 25 30-35 35-40
+Indian coal (F) ~5 ~ 35 30-35 25-30
+Indian coal (G) ~5 ~ 45 30-35 15-20
+
+ 
+
+to sulfur dioxide, and other inorganic matter that would end up as ash when coal
+is burnt. The analysis of coal for moisture fraction, ash fraction, volatile matter
+and fixed carbon are set out in Table 2.3. The content of sulfur and nitrogen (sulfur
+is about 0.3 to 0.8 % of the coal) is important for emissions of sulfur dioxide and
+oxides of nitrogen (see Chapter 16 on emissions from combustion systems) when
+coal is burnt, generally in boilers. The exhaust gases have to be treated to ensure
+compliance with emission norms of the state and the country.
+
+Coals are burnt in furnaces fixed to boilers to generate high pressure steam
+that runs turbines which run electric generators. Indian coals are characterized
+by a high ash content compared to rest of the coals in the world as can be seen
+from Table 2.3. Their use poses problems of ash fusion and clinkering on grate
+whose resolution demands carefully thought-out solutions. Sometimes the coal is
+finely powdered and the powdered coal (called pulverized coal) is burnt directly in
+furnaces.
+
+There have been attempts to produce liquid fuels from coal by the distillation
+process. Though there has been some success in this effort, the process is not widely
+accepted yet. There are also methods by which the coal is gasified and the gases so
+obtained are cleaned and subjected to a process known as Fischer-Tropsch synthesis
+to get a diesel like liquid fuel.
+
+The special fuels and oxidizers are those used largely by the aerospace industry.
+Many of the special fuels like polymers have been extensively used in other areas as
+well. Polymers are essentially long-chain molecules of a basic chemical unit called
+monomer. All plastic materials are polymers. In fact many natural products are
+also polymers. Typical molecular weights of polymers vary from 103 to 106. At
+molecular weights of the order of 102, one has a very viscous liquid. At 10°, one has
+a hard solid. The monomers or liquid polymers called prepolymers become large
+
+13
+

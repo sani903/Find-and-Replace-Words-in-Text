@@ -1,0 +1,43 @@
+19 Further Reading
+
+1. Fristrom R. A. and Westenberg A. A., Flame Structure, McGraw-Hill, New York
+(1965).
+
+2. Gaydon, A. G and Wolfhard, H. G., Flames, Their Structure, Radiation and
+Temperature, Third edition, Chapman—Hall, London (1970).
+
+3. Glassman, Irvin., Combustion, Academic, New York, Third edition, (1996)
+4. Goodgar, C. M., Combustion Calculations, MacMillan, London (1977)
+
+5. Gordon, S and McBride, B. L., Methods of calculating Equilibrium Composi-
+tion, Adiabatic Flame Temperature, Rocket performance, and Detonation, NASA SP
+273 (1977)
+
+6. Lewis, B and von Elbe, G., Combustion, Flames and Explosion of gases, Sec-
+ond edition, Academic, New York (1961)
+
+7. Murthy, Kanury, A., Introduction to combustion phenomena, Gordon and
+Breach, New York (1975)
+
+8. Spalding, D. B., Combustion fundamentals, McGraw-Hill, New York (1985)
+
+9. Williams, Forman, A., Combustion Theory, Second edition, Benjamin/Cummings,
+California (1985)
+
+10. Turns, Stephen. R., An introduction to combustion - concepts and applica-
+tions Second edition, McGraW Hill, (2000)
+
+11. Carleone, Joseph, Tactical Missile Warheads, v. 155, Progress in Astronau-
+tics and Aeronautics, AIAA Series, (1993)
+
+The major publications where most of the work on combustion is reported are:
+
+(a) Proceedings of Combustion Symposia (international) held biannually - thirty
+volumes till 2005
+
+(b) Journals like Combustion and Flame, Combustion Science and Technology,
+Fuel, Combustion, Explosion and Shock waves, AIAA Journal of Propulsion and
+Power, Progress in Energy and Combustion Science and others.
+
+179
+

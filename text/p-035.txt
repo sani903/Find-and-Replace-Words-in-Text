@@ -1,0 +1,55 @@
+Consider the following reactions.
+CHy +209 — CO2 + 2H50
+CO + (1/2)05 — CO,
+H2 + (1/2)0Oy — H50
+C(s) + (1/2)02 — CO4
+
+In which of the above reactions can we talk of heat of formation? Since the
+heat of formation refers to a species, the first reaction (A) cannot qualify for con-
+sideration at all. In (B), the component elements are CO and O, and these are not
+the reactants. Hence (B) does not qualify either. (C) and (D) reactions do qualify
+for consideration of heats of formation. The heats of reaction here give the heat
+of formation of H>O and CO,. For others, the table is formed from the measure-
+ments of heat of combustion/reaction in various reactions. For example, Ho, O2, No,
+Fy, Clo, Bry, C(s), Mg, Al, B, are all taken to have zero heat of formation. The
+heat of formation of H, O, OH, H>O, N, F»O3, HCl, HBr ...are all obtained from
+experimental data and by imposing conditions of self-consistency.
+
+Og a © »
+
+In a sense, the idea of heat of formation is no different from that of heat of
+combustion, which an engineer is most familiar with. Heat of combustion refers to
+a reaction while heat of formation refers to a species. The latter can be seen to be a
+great advantage since the same species can be involved in several kinds of reactions
+and one needs to keep track only of heat of formation of each of the species and not
+heats of reaction of several hundred combinations. Table 4.1 shows the values of
+heats of formation (h;) of some of the important species. While Tables 4.2, 4.3, and
+4.4 show the specific heats, sensible enthalpies and other properties of relevance to
+combustion. How do we use it to get the heat of combustion?
+
+Table 4.1: Heats of formation (hy;, kJ/mole), I= liquid, s = solid
+
+ 
+
+ 
+
+Species Formula hy, kJ/mole
+Oxygen Oa 0.0
+Oxygen atom Oo 247.4
+Hydrogen H, 0.0
+Hydrogen atom H 218.1
+Hydroxyl OH 42.3
+Water HO —242.0
+water (1) H>0 —286.0
+Hydrogen peroxide H50, —133.2
+Hydrogen peroxide (1) H,0, —187.5
+C (graphite, s) C 0.0
+Carbon monoxide CO -110.5
+Carbon dioxide CO, —394.0
+Methane CH, —74.5
+Ethane Cy Hg —86.2
+Propane C3H6 —103.8
+Butane CyHyg —131.8
+
+27
+

@@ -1,0 +1,48 @@
+10.1 What will Happen to the Height in the Turbulent Range?
+
+10.1 What will Happen to the Height in the Turbulent
+Range?
+
+A turbulent flow through ducts begins when the Reynolds number is beyond 2300
+or so. A velocity of air of 1 m/s through a tube of 20 mm diameter has a Reynolds
+number of about 2400. A larger diameter or higher velocity fluid passing through
+the duct leads to the flow being turbulent. The mechanics of diffusion in turbulent
+flows is different from that in laminar flows. In laminar flows, diffusion occurs be-
+cause of random motion of molecules. In turbulent flows, large scale motion caused
+by fluctuations (which themselves are triggered because of instability in the flow)
+makes diffusion occur over large length scales and with larger amount of effective
+diffusion. Turbulent diffusion is thus characterized by eddy diffusivity. There are
+various methods of describing these in conservation equations, most of which need
+improvement because of lack of clear understanding of the phenomenon of turbu-
+lence.
+
+It is adequate for an overall appreciation of the situation to treat the turbulent
+diffusion time scale tp as C'd/2V where d/2 is the characteristic distance of diffusion
+and V the velocity of the fluid. This expression appears more like a convective time
+scale. The justification for this is that eddies of various sizes flip over and transfer
+the fluid from the centre to the outer edge. Thus, effective length scale is d/2 and
+the velocity of the fluid stream flipping the gases from the centre is V.
+
+With this expression we obtain
+
+Ccvd Cd
+h = t = — = —
+Vip = 55 = 3
+Thus in turbulent flow, the height of the flame is independent of speed of the in-
+coming fluid, but depends on the diameter of the duct. If now, we add the effects of
+stoichiometry and oxidizer mass fraction, we get
+
+h=Cd/fYose (10.7)
+
+The constant C is related to the turbulent entrainment characteristics (or inverse
+of eddy diffusion constant) (C~ 3).
+
+10.2 Droplet Combustion
+
+We now move on to droplet combustion. Droplet combustion is of relevance in
+many industrial applications, as well as combustion in reciprocating, gas turbine
+and rocket engines. For instance, all furnaces in industries use light diesel oil or
+furnace oil which are less refined forms of crude petroleum. These liquids get in-
+
+89
+

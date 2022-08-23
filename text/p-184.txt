@@ -1,0 +1,33 @@
+17 Explosives — Solid and Liquid
+
+result, in fact, closer to the spherical geometry. The dimensions of the explosive,
+the kinetic parameters, thermal conductivity, are all contained in the definition of
+) and can be used to explain the dependencies of explosive character on these pa-
+rameters through the criterion of explosion indicated above. The proportionality
+with respect to L? and exp(—FE/RT,) will explain why larger sizes and those with
+higher activation energy will explode. It is for these reasons that in explosive indus-
+tries material is transported using only small sizes of the explosive substances. As
+described earlier, major explosions of AN (ammonium nitrate) transported in large
+quantities on ships can be traced to the size effect described above.
+
+17.7 Overview
+
+This chapter has considered the subject of detonation that occurs in gases, liquids
+and solids. In the case of gases, the two limiting propagation features are deflagra-
+tion and detonation. Deflagration is a subsonic flame propagation producing little
+pressure changes. Detonation is a supersonic propagation with substantial pres-
+sure changes. Since propagation is supersonic, such a propagation in condensed
+phase leads to very high velocities (because acoustic speeds in condensed phase
+are very high) and to extreme pressure changes that are catastrophic. There are
+substances that detonate easily and deflagrate with difficulty; and others that de-
+flagrate easily but detonate with difficulty. There is use for each of these in a variety
+of applications, several of which are useful to society. Detonations in gaseous mix-
+tures are understood better and can be predicted. Detonation in liquids and solids
+are far more difficult to understand. Hence, most of the development in explosives
+is still in the realm of sophisticated art; yet, the current data collection and under-
+standing are such that one can design weapons and explosives meant for specific
+applications using conservation equations that involves both fluid mechanics and
+solid mechanics.
+
+176
+

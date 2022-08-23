@@ -1,0 +1,77 @@
+15 Solid Fuels - Combustion and Gasification
+
+[ps In
+
+    
+   
+ 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Drying 100° C -—-> Gas Out
+Pyrolysis 300° C
+
+Combistion 110° C | 4
+| Y !
+
+ic 1
+
+- <«------=Airln
+| 4
+* Throat
+
+ 
+
+ 
+
+Regltction 900° C..~
+& gon
+
+mat] oe
+
+ 
+
+ 
+
+ 
+
+Figure 15.2: Downdraft gasification system—Closed top World War II class design
+
+combustion system very close to the gasification system lest the condensibles choke
+the connecting piping. One of the advantages of such a system is that one can use
+a variety of biomass or coal or material with high moisture fraction as well. The
+ruggedness of operation however brings down its efficiency, for allowing significant
+moisture in the feed stock is thermodynamically inappropriate. One can dry the
+biomass by a low grade heat— from waste heat, for instance. This kind of approach
+is common in European countries where the gas is burnt in boilers to help service
+district heating applications. The liquid content in the gas is about 5 to 20 g/nm?,
+too low to treat as a liquid fuel, too high to be ignored in the system design for clean
+operations.
+
+In fixed bed co-current systems, also called downdraft gasification systems (see
+Fig. 15.2), the air is drawn through the solid fuel as it moves down.
+
+In one system design called the closed top system ( Fig. 15.2) that originated
+in Europe during world war II period and meant largely for wood chips, the air is
+drawn from tuyeres surrounding the chamber carrying the fuel. During the oper-
+ation, air burns up the biomass or coal to char and then reacts with the char to
+generate a gas. The gas when cooled contains about 35 % to 38 % combustibles
+and 15 % inerts (13 % CO», and 2 % H>0O) and some higher hydrocarbons (~ 100 to
+500 mg/nm?). The temperature distribution in the high temperature zone is punc-
+tuated with lower values in zones between the air injection nozzles. This leads to
+enhanced tar generation, particularly at throughputs lower than the nominal.
+
+The open top design (Fig. 15.3) that is more recent allows a better char partic-
+ipation in tar conversion. Even so, some tar finds its way through the system at
+lower throughputs, as described earlier. Hence, to run the open top system in a
+closed top mode without a throat would not be a proper strategy.
+
+144
+

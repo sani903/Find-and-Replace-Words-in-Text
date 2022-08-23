@@ -1,0 +1,23 @@
+16 Emissions from Combustion Systems
+
+Emission reduction procedures are developed by understanding the way in which
+emissions are generated. Combating the emissions in ground-based systems like
+combustion systems for boilers and other chemical processes can be accomplished
+with relatively greater ease. Providing larger residence time, better mixing and
+specific inorganic treatment procedures help to reduce the emissions. Reciprocat-
+ing engines and gas turbines for transport applications have to be more compact
+devices and hence call for greater ingenuity in reducing the pollutants. The fuel
+itself has to be cleaned up before use in these engines - sulphur isa major element
+that is reduced substantially by chemical processing before the fuel is considered
+acceptable. In addition, spark ignition engines use catalysts to reduce the other pol-
+lutants. Compression ignition engines need to evolve in-cylinder handling of fuel
+through better atomization to reduce the emissions. In recent times, diesel engines
+have begun adopting exhaust treatment before being released into the atmosphere.
+Filtration of particles less than 10 micrometers is one such treatment.
+
+Several more and more stringent standards are being set to reduce the emis-
+sions from stationary sources, vehicles on the road and in the atmosphere. These
+call for intelligent ways for fuel processing and design of combustion systems.
+
+162
+

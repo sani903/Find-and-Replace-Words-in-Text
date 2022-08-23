@@ -1,0 +1,53 @@
+10 Diffusion Flames
+
+jected in the form of a spray into the combustion chamber/furnace along with air; a
+bright flame results after ignition.
+
+In reciprocating engines of the compression ignition kind, high-speed diesel is
+injected in the form of a fine spray into the combustion chamber at the time when
+the piston has compressed the air inside to a relatively high pressure. It is the
+droplet ignition and combustion process in the highly turbulent and highly varying
+environment in durations of the order of a few to a few tenths of milliseconds that
+keeps millions of Cl engines going.
+
+All gas turbine engines, particularly aviation gas turbines, use ATF (aviation
+turbine fuel) consisting of refined kerosene. Kerosene is injected it the form of a
+fine spray into a complex fluid-mechanical environment, and the combustion takes
+place in this zone.
+
+Liquid rocket engines invariably use injectors whose primary intention is to
+atomise the liquids into a fine spray; the liquid droplets vaporise in the combustion
+chamber and then burn up before going through the nozzle.
+
+In all these cases, it is of interest to determine the burn rate of a liquid droplet
+as a function of its diameter, and the thermodynamic and transport properties of
+the gaseous environment.
+
+The burn rate is also affected by the flow of the oxidizer past the droplet, either
+forced or induced by gravitational environment. The effect of gravitational environ-
+ment is called free convection and is due to velocities induced by differing densities
+in the 1g field that all of us experience. Because of this the flame will appear as in
+Fig. 10.2 (b). If the drop is burnt in a free fall condition, like in the case of a freely
+falling elevator, which is one of the normal experimental methods adopted for such
+studies, one obtains a spherically symmetric flame as in Fig. 10.2 (a). If the drop is
+burning in a situation where the fluid (the oxidizer, say) is flowing past the droplet,
+the flame shape appears as in Fig. 10.2 (¢).
+
+The drop vaporisation and combustion rate in case Fig. 10.2 (a) will be in a sense
+a base burn rate. In the situation of Fig. 10.2 (b), free convection effects defined by
+a Grashoff number play an important role. The drop vaporisation/ combustion rate
+in case Fig. 10.2 (c¢) is dependent on the Reynolds number of the flow.
+
+The problem of drop vaporisation at zero ¢g can be obtained by solving energy
+conservation differential equation as follows.
+d dT d
+—4rkr?— ——c,T = 10.8
+dr RT dr ar » 5 ( )
+The first term represents the conduction heat transfer and the second the convec-
+tion term. This differential equation states that at any radial location,r, the heat
+transferred by conduction per unit volume per unit time is balanced by that from
+convection. The differential equation is of the ordinary kind and of second order.
+Its solution has two constants. The constants are determined by using appropriate
+
+90
+

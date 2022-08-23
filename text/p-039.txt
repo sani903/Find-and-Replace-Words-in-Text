@@ -1,0 +1,54 @@
+4.1 The Second Law
+
+drive by itself along the path. If ds = 0, then the system is at equilibrium and no
+further change takes place.
+
+Thus the second law introduces a quantity called entropy whose change will give
+a direction of process. Second law does not define the absolute value of entropy. It
+is defined by the third law which states that entropy of a crystalline substance is
+zero at absolute zero temperature. Using the data on specific heats and enthalpies,
+entropy is calculated for various species and presented in Table 4.4 for the same
+species.
+
+For closed systems operating at constant pressure and temperature, the quan-
+tity that indicates direction of processes is called Gibbs free energy. It is defined as
+g = h — Ts so that
+
+dg = dh — Tds — sdT = dh — Tds (4.21)
+
+Since dT = 0 and dg < 0 for natural processes, is equal to 0 for equilibrium, greater
+than 0 for processes which do not take place by themselves.
+
+It can be seen that when dh = 0, the principles noted above with respect to g are
+equivalent to those of entropy. The fact that dg = 0 at equilibrium is used in the
+calculation of chemical composition at constant pressure and temperature. Armed
+with the basic information we now have, we begin answering two questions:
+
+Will the reaction proceed along a direction indicated? What is the composition
+for a given set of reactants at a given pressure and temperature? Let us take an
+example. Is NoO(g) — Na(g) + (1/2)0O2(g), at 300 K, 0.1M Pa a natural reaction?
+
+To do this we compute g,,s — gins and see if it is positive, or negative. Depending
+on this value we declare the reaction to be not natural, at equilibrium or natural.
+
+hins = h + hs n,0(300) — hs N,0(298.16) =81.6 kJ
+
+hens = hf + (1/2) f.0, +h, (300) — hg ny (298.16) + (1/2) hs 0, (300) — his 0, (298.16) = 0
+AS = [Sn, + (1/2)So, — Sn,0](298.16) = (0.191 + 0.102 — 0.2198) = 0.074 kJ/K
+rhs — gins = —81.6 — 0.074 x 298.16 = —103 kJ = Ag
+
+Ag is negative and hence the reaction must be a natural one.
+
+In making these calculations the data on heats of formation, sensible enthalpies
+and entropies have been used. These are taken from Tables 4.1 to 4.3. Let us take
+another example. Consider H2O (I,0.1 M Pa) — H50 (g,0.1 M Pa).
+
+The question is at what temperature is this transformation (called vaporisation)
+a natural one.
+
+(9m,0(9) — IH200)) <0
+(hH,0(9) — has00)) + T(SH0(9) — SH200)) <0
+T > (ha,0(9) — hHs00))/ (SH0(9) — SHO)
+
+31
+

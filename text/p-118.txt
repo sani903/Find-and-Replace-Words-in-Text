@@ -1,0 +1,40 @@
+12 Combustion in Rocket Motors
+
+FINAL FLAME
+DIFFUSION ~—— ~~
+FLAME ~ ~~
+
+/ PREMIXED
+BINDER FLAME
+
+Figure 12.2: Composite Propellant Combustion
+
+\
+Pr
+
+Figure 12.3: Particle Size Effect
+
+at low pressure and diffusion flame effects at high pressure lead to an average de-
+pendence of burn rate on pressure like p,i ~ ap??~%* as observed experimentally.
+One can similarly argue the effect of particle size on the burn rate. If one conceives
+of large particle sizes, then the same oxidizer is to be shared by the binder with
+these particles in comparison to the larger number of smaller particles being made
+available to the binder otherwise during combustion. This causes a better flame
+temperature distribution over the surface and the flame moves closer to the surface
+(Fig. 12.3). Consequently, the heat transfer back to the condensed phase is higher
+
+and so the burn rate is higher, too.
+
+Burn rate control is an important aspect of propellant design. Increase of burn
+rates in double-base propellants is obtained by adding metal powders of cobalt,
+copper, silver etc. Decrease of burn rates can be effected by the addition of lead and
+lead salts. The burn rate index can be brought to zero over some range of pressures
+by using lead salts.
+
+In the case of composite propellants, copper chromite (CuCr204) and Iron ox-
+ide (F'e203) are known to enhance the burn rates significantly. Lithium oxide and
+lithium fluoride cause reduction in burn rates, and in some cases reduction of burn
+rate index as well.
+
+110
+

@@ -1,0 +1,37 @@
+10 Diffusion Flames—Gaseous Burner
+Flames, Droplet Combustion,
+Boundary Layer Combustion
+
+TH SHR STRAT O-y] T9T Nar $gan: |
+TYR aT TagHTSH fo of ferment: (1211
+
+(Swiftly rush thy wanderings; blazing up follow and touch with thy vi-
+olence; O Fire, spread by thy tongue thy burning hears and thy winged
+sparks; unleashed, scatter on every side thy meteors.)
+
+Rig Veda
+
+Diffusion flames, as different from premixed flames, are those in which the fuel and
+oxidizer are unmixed right up to the flame. The fuel and oxidizer diffuse and mix
+at the flame. Reaction rates are much larger in comparison with diffusion rates.
+Such flames are therefore diffusion limited. This is in direct contrast to what is
+observed with premixed flames in which the reaction rate the most important factor
+in deciding their structure. There are other differences between the behaviour of
+diffusion and premixed flames which we shall examine later. It is also good to
+recognize that diffusion flames occur more often in nature and that when flames/
+fires are caused, nature makes sure that the fuel and oxidizer elements are separate
+to increase the stability of life. When fire is caused, oxidizer, usually air, gets to the
+fuel vapours at the flame resulting in a diffusion flame.
+
+Though we wish to talk of flames, one can include vaporisation as a natural
+subset of the investigation. We shall investigate three classes of flames— gaseous
+burner flames, droplet combustion and boundary layer combustion.
+
+Gaseous burner flames occur in laboratories and in nature. The bunsen burner
+flame with its air vent closed, flares in petrochemical complexes and unwanted gas
+duct explosions resulting in flames from underground gas jets in petroleum gas
+exploration sites are some instances of gas diffusion flames. A wood crib fire is an-
+other example of diffusion flame. The flow of oxidizer-rich gases past a burning fuel
+
+85
+

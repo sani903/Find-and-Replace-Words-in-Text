@@ -1,0 +1,49 @@
+17.6 Explosion and Detonation - Simple analyses
+
+The above theory assumes that reaction occurs instantaneously when the shock
+sw the fluid. In reality, reactions do take time. This inevitably leads to the question
+of the determination of the structure of the detonation wave. This calls for the use
+of conservation equations written in differential form to include the reaction rates.
+A simple and very elegant theory has been explored by Zel'dovich, von Neumann.
+and Doring, in whose names the structure is called the ZND structure of detona-
+tion. The essential content of the theory is that when shock propagates through
+a gas (or any substance) it heats up the gas to high temperature which initiates
+exothermic reactions behind the shock wave. The experimental observations gen-
+erally follow the conclusions reached by the ZND theory. The shock thickness is an
+inverse function of the shock Mach number and is of the order of 3 to 6 molecular
+mean free paths. Since chemistry depends on high energy collisions, if it occurs as it
+does, it must be accomplished with very high probability since the number of possi-
+ble collisions itself is small. This implies that most reactions should occur at nearly
+the peak temperature. This implies that the details of the temperature profile are
+not very relevant. Hence, the predictions of the theory whose quality of prediction
+does not have to depend on the details of the profile turn out to be good when one
+considers situations where one-dimensional approximations are valid. Deviations
+occur because of the finite size of the duct containing the gas mixture. Detonation
+velocity varies inversely with pressure and diameter of the explosive. Both these
+have been explained as due to boundary layer behind the travelling detonation in-
+side the tube. Many experimental results of the kind described above have been
+borne out by calculations quite satisfactorily. One of the contributory reasons for
+this is the equation of state which can be taken as ideal in a gaseous medium even
+though pressures are high because temperatures are also high.
+
+We now turn to detonations in condensed phases. Even though the broad prin-
+ciples of detonation are the same as in the gas phase, the aspect concerning the
+equation of state complicates the matter substantially in the condensed phase. To
+appreciate this, we need to look at some elementary facts. The acoustic speed In
+air at 300 K is 340 m/s. It is about 1600-2000 m/s in a solid. If a shock wave were
+to travel through a solid at a Mach number of 1.5, the pressure rise will be 10,000-
+15.000 atm. If the Mach number is 9, the pressure rise is in excess of 500,000 atm.
+The temperature rise is about the same - 3000 to 5000 K. Under these pressures,
+even though temperatures are high, the fluid density is so high that non-ideal ef-
+fects with respect to the equation of state become very important, which needs to
+be accounted for. Uncertainty in the parameters of the equation of state leads to
+the use of detonation data to fix these parameters, and hence the predictability of
+the theory is compromised.
+
+We now take up the dependence of explosion (or otherwise) of reactive solids as
+a function of size and their chemical properties. Whenever reactive solids are trans-
+ported, size becomes an important criterion. One should carry them in relatively
+small amounts and sizes. The basic reason is that beyond a particular size, the
+
+173
+

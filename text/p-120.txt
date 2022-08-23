@@ -1,0 +1,48 @@
+12 Combustion in Rocket Motors
+
+some portions not expected to burn initially are exposed (even tiny spacings of 0.1—
+0.2 mm are sufficient for gases to penetrate and cause combustion in unexpected
+places), then the burning area, A; increases beyond what the system is designed
+for. Even a 20 % rise in burning area implies that the pressure goes up by 248 %,
+i.e. if the rocket motor had been designed for 2.0 M Pa (20 atmospheres), the local
+pressure goes up to 5.6 MPa (56 atmospheres). Surely, the motor designed for 20
+atmospheres (qualified for 40 atmospheres as per the standard design code) cannot
+withstand higher pressures and the motor explodes consequently.
+
+The problem is much less serious in the case of composite propellants which
+have n between 0.2 and 0.4.
+
+12.2 Liquid Rocket Engines
+
+Combustion in bipropellant liquid rocket engines has a character which is vastly
+different from solid rocket engines. The injectors atomise the liquid fuel and the
+oxidizer into tiny drops and these undergo vaporisation first and combustion next.
+The gases can recirculate in-side the combustion chamber and therefore, the tem-
+perature of the gases in large part of the chamber, particularly toward the nozzle
+end, will be near adiabatic flame temperature. The time taken for completion of
+the combustion process as the atomised propellants move through the chamber is
+composed of that for vaporisation and for chemical reaction. Since the gas tempera-
+tures in the chamber are high, the time for chemical reaction will be quite small. It
+is only the vaporisation which takes substantial time (~ 2-3 ms). Hence chambers
+are designed based on estimated vaporisation times. The vaporisation time is de-
+pendent on the drop diameter and relatively weakly on thermodynamic properties
+(B). The combustion chamber volume, therefore is not strongly dependent on pres-
+sure. The volume of the chamber is estimated from a quantity called L* = v./A;
+where v, is the volume of the combustion chamber (up to the throat) and A; is the
+throat area. Its typical value is 0.8-1.2 m or so. From this statement it looks as
+though L* is a fundamental constant. This is not true. At the fundamental level,
+L* should be non-dimensionalized with respect to characteristic length for vapor-
+isation/reaction to be complete. This is essentially equal to Ut,,, where U is the
+mean speed of liquid droplets, t¢,, is the time for vaporisation and reaction. Thus
+the appropriate parameter is L* /Ut,, or
+
+tor
+L*/ / Vt
+0
+
+But it turns out that Ut,, is a value not easily calculable because of the complexity
+in droplet size distribution and the nature of flow, and hence one works with a value
+of L* directly in practice.
+
+112
+

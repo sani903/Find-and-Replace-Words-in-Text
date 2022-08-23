@@ -1,0 +1,111 @@
+Index
+
+Adiabatic flame temperature, 35, 41
+Aerozine, 11
+
+Allowed emissions, 155
+
+Aluminium, 21
+
+Ammonium Perchlorate, 19
+
+AP 14
+
+Arrehius law, 46
+
+Biogas, 7
+
+Biomass, 11
+
+Biomass combustion, 137
+Biomass composition, 11
+Biomass gasification, 137
+Biomass stove, 125
+
+Blocking effect, 98, 108
+
+Blow-off, 105
+
+Bluff body flame stabilization, 82
+Boundary layer combustion, 94, 101
+Bunsen flame stability, 75
+
+Burn rate, 107
+
+Burn rate control, 110
+
+Burn rate modifier, 110
+
+Burners, 125
+
+Bush fire, 134
+
+Butane, 7
+
+Candle flame, 175
+
+Carbon dioxide, 156
+Carbon monoxide, 152, 156
+Catalysts, 10
+Characteristic velocity, 38
+Chemical equilibrium, 32
+Chemical reactivity, 55
+Closed systems, 30
+
+Coal, 11
+
+Combustion instability, 112
+Combustion time, 128
+
+Combustors, 117
+
+Composite propellant, 108, 176
+Composite propellants, 14
+Compression ignition, 9
+Compression ignition engines, 69
+Cryogenic fluid, 10, 11
+
+CTPB, 14
+
+Dalton’s law, 25
+
+Damkohler number, 80
+Deflagration, 55, 161
+Detonation, 161
+
+Detonation analysis, 169
+Diffusion flame, 101, 104
+Diffusion flame height, 87
+Diffusion flames, 85
+
+Dioxins, 151
+
+Double-base propellant, 14, 108
+Downdraft closed top gasifier, 142
+Downdraft open top gasifier, 143
+Droplet combustion, 89
+
+Droplet vaporisation, 89
+
+Ejector induced stove, 123
+Electronegativity, 21
+Emissions, 147
+
+Engine combustion time, 128
+Enthalpy, 24
+
+Entropy, 30
+
+Equilibrium, 23
+
+Equilibrium composition, 33, 36
+Equilibrium constant, 33
+Equivalence ratio, 18, 19
+Explosion analysis, 169
+Explosives, 161
+
+Fire point, 67
+Fire retardants, 135
+
+181
+

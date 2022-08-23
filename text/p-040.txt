@@ -1,0 +1,63 @@
+4 How Much Heat? How High a Temperature?
+
+Table 4.6: The effects of changes in sign of Ah and As
+
+ 
+
+ 
+
+Type Ah As Ag Conclusion
+
+1 negative positive negative A probable reaction
+(exother- at all temperatures
+mic)
+
+2 negative negative negative Probable reaction at
+
+atlowT low T but improba-
+ble at high T
+
+3 positive positive negative A probable reaction
+(en- at high at high 7 but not
+dother- T probable at low T°
+mic)
+
+4 positive negative positive Improbable reaction
+
+at all 7. The reverse
+reaction 1s most
+probable
+
+ 
+
+> (40.1 kJ/mol) /(0.1075 kJ/mol K) = 373.0 K
+
+Thus, at T' > 100°C, vaporisation of water is a natural process (at boiling point, a
+fact all of us are familiar with).
+
+Whether the reaction is natural or not depends on एंथलपी changes as well as
+entropy changes. Table 4.6 indicates the qualitative behaviour of reactions under
+various conditions. An example of type 1 is the one already illustrated. All associa-
+tion reactions (H + OH — HO, for example) are most probable at low temperatures
+but not so at high temperatures (Type 2). Type 3 is the opposite of association re-
+actions, i.e., dissociation reactions of the type CO; — CO + (1/2)O2 which are more
+probable at high temperatures and not so at low temperatures. Type 4 is opposite
+of Type 1.
+
+We now proceed to answer the second question. To do this we need a basic rela-
+tionship concerning the dependence of Gibbs free energy on pressure, very simply
+obtained from integration of the differential relationship like g; = gf + RT Inp; (per
+unit mole).
+
+Applied to a species in a mixture, this amounts to
+gi=¢ + RTInp (per unit mole)
+
+g; = free energy at p; = 1 atm. It is a function of temperature.
+
+We now consider reactions at equilibrium. At equilibrium, the rates of forward
+reactions must equal those of reverse reactions so that there is no net production or
+destruction of any species. During the transition from initial state to equilibrium
+the Gibbs free energy (at constant total pressure and temperature) will decrease
+
+32
+

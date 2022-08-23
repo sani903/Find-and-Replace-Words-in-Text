@@ -1,0 +1,66 @@
+8.6 Overview
+
+Re
+
+ 
+
+ 
+
+ 
+
+PILOT FLAME
+
+Figure 8.1: Igniter for LOX-LH; engine (LOX-kerosene is similar)
+
+ 
+
+a,
+ELECTRICAL ag |
+
+InRaY HAITI
+
+IGNITER
+PELLETS
+
+Gs
+
+FRONT END IGNITER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 8.2: Ignition system for solid rocket engines
+
+oxide particles. The rapid generation of gases causes a rise in pressure and the
+hot particles cause local ignition. The gases when passing through the duct along
+the grain, cause convective heat transfer and thus enhance the possibility of local
+ignition. The flame then begins to spread across the entire surface of the propellant
+and steady operating conditions are achieved in about 0.3—2.5 s depending on the
+size of the rocket being tested.
+
+In large-sized rockets like PSLV stage rocket of India, the igniter constitutes a
+rocket by itself. Such igniters are called pyrogen igniters. In all such cases a part
+of igniter products, namely gas, is expected to raise the pressure in the chamber
+and another to cause local ignition. Careful design is called for to make sure that
+there are no over pressures during ignition and the transient blends smoothly into
+normal, steady operating conditions.
+
+8.6 Overview
+
+Ignition is the first part of any combustion process. It is affected by the pressure and
+the initial temperature of the system under consideration. Ignition delay, i.e., the
+time from start of the ignition process to achieving steady state should be small in
+systems for ignition process to be effective. The process of ignition is more difficult
+at low pressures and temperatures. In gas-phase fuel-oxidant mixtures, ignition
+energy is typically 0.1-0.2 mJ under quiescent conditions. In flowing mixtures,
+the ignition energy increases a hundred-fold depending on velocities, local mixture
+
+71
+

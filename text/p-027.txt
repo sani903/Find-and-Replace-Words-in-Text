@@ -1,0 +1,53 @@
+stated in the form of an equation.
+
+(fuel/air)
+(fuel/air) stoichiometry, wt basis
+
+Thus, all स्टोइकोमेट्रिक mixtures have equivalence ratio of unity. Rich mixtures
+have e.r greater than unity. Lean mixtures have e.r less than unity. By rich and
+lean, one generally refers to the extent of fuel.
+
+er =
+
+Till now, the discussion has been about fuels which have no oxidising element in
+them and vice versa. In rocket propellants both fuels and oxidizers have both the
+elements and they need to be treated for fuel richness or otherwise.
+
+For instance, one would ask about stoichiometry or equivalence ratio of ammo-
+nium perchlorate (AP), nitroglycerine (NG) or nitrocellulose (NC). Take NH,C10O,
+(ammonium perchlorate).
+
+Thus, ammonium perchlorate is oxidizer rich to the extent of two and a half atoms
+of oxygen. This amounts in weight basis to 40/117 = 34%. Thus one describes
+Ammonium Perchlorate as oxidizer rich to the extent of 34% and it is called an
+oxidizer itself.
+
+One can similarly show nitrocellulose as slightly fuel rich and nitroglycerine as
+slightly oxidizer rich. If one wishes to stoichiometrically balance the combination
+to make a high performance propellant, one needs NG about 6 times as much as
+nitrocellulose. This mixture gives a liquid like material and so one uses fuel rich
+mixtures close to 1:1 (NC : NG).
+
+For all propellants based on HMX, the solid crystals of HMX are set into a fuel
+binder matrix. HMX is slightly fuel rich. Hence all solid propellants turn out to be
+fuel rich to varying extents.
+
+In the case of liquid propellants, monopropellants like hydrogen peroxide (H20-)
+or (No H2) can be used in single propellant mode; there is no oxidizer in such cases.
+H>0s is oxidizer rich to the extent of (1/2)O, implying 47% oxidizer richness. In the
+case of NoH,, exothermic decomposition takes place because of relatively unstable
+molecular configuration and not quite due to ‘oxidizer’ or ‘fuel’ molecules both being
+present. In fact, at the temperatures considered (~1000-1400 K) Nitrogen is inert
+and hydrogen is of course a fuel.
+
+In all cases where a single molecule has both fuel and oxidizer elements or el-
+ements in an unstable configuration, there is a way of defining fuel or oxidizer
+richness. This is done by using the concept of defined as
+
+e.r = (ENV) 1 /(EN:Vi) ox
+
+where N; is the number of atoms of elements, fuel or oxidizer and V;, the valencies
+of the specific elements. Table 3.1 contains a list of valencies of various elements
+
+19
+

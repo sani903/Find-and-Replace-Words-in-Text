@@ -1,0 +1,49 @@
+7 Inflammability, Quenching
+
+If you notice the left hand side region, the curve is approaching very small flame
+speed at fuel fraction of 5% (by volume). This is typically about 0.02 m/s. Similarly,
+on the rich side, the curve drops down to very small values at fuel fraction of 15%.
+The flammability limits may therefore be taken to lie between 5-15% for methane—
+air at ambient temperature. An important question concerning these values has
+been raised in literature. If we have treat an adiabatic flame propagation, would
+there be limits or would the propagation occur at any mixture strength?
+
+It is indeed true to say that adiabatic flame should be capable of propagation
+at any mixture ratio. This fact has been proved by systematic calculation of the
+propagational behavior. In reality however, there are heat losses—the irreducible
+heat loss due to radiation from the flame. If one calculates the propagation speed
+as a function of mixture strength, one finds that the difference between the speeds
+without and with heat loss is very small at stoichiometry (about 2 %) and increases
+towards the lean and rich conditions. At the low propagational speeds, the energy
+present in the flame is so small that relatively small heat loss is enough to quench
+the flame. One can impose natural heat loss behavior and calculate the limits.
+These match with the observed limits. Some typical values of flammability limits
+are given in Table 7.1.
+
+It may be noticed from Table 7.1 that: the limits get enlarged because of oxygen
+essentially due to greater reactivity; that in the case of acetylene the upper limit
+is 100% because acetylene is exothermically decomposable by itself; hydrogen has
+very wide limits compared to hydrocarbons due to its higher reactivity; the upper
+limit (rich) is about 2—4 times the stoichiometry; the lower limit (lean limit) is about
+30-60% of the stoichiometry.
+
+The limits get enlarged at higher initial temperatures. The lean limit remains
+unaltered because of increase of pressure. The upper limit is enhanced substan-
+tially at higher pressures. The data on Table 7.1 and the discussion in then earlier
+paragraph imply that the behaviour is different for lean and rich operating condi-
+tions. These are due to chemical kinetic effects which should be taken into account
+along with heat losses if the predictions are to be realistic. While simple theories
+explain many observed features qualitatively, computational studies with realistic
+chemistry and multi-dimensional geometry have captured many observed features.
+
+7.1 Quenching
+
+Quenching is an extension of flammability limits. Suppose one k conducting the ex-
+periment on flammability limits with cylindrical tubes of successively lower diam-
+eter. The flammability limits remain about the same till a certain value, typically
+about 20 mm or so. Below this diameter, if the duct size is reduced, then the limits
+begin approaching each other till a stage comes when the flame will not propagate
+at all at any mixture ratio. This diameter at which flame will not propagate at all
+
+60
+

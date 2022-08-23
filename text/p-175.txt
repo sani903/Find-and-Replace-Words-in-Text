@@ -1,0 +1,61 @@
+17.3 The substances
+
+Table 17.2: Some explosive mixtures
+
+ 
+
+ 
+
+Compound Composition Application
+
+ANFO AN 94, oil 6 Commercial
+Blasting gelignite NG 92, NC 7.6, chalk 0.4 Commercial
+Pentolite PETN 50, TNT 50 Military
+
+Amatol AN 80. TNT 20 Commercial/military
+Ammonal AN 65, TNT 15. A117,C 3 Commeraial/Military
+Cyclotol 75/25 RDX 75, TNT 25 Military
+
+HTA -3 HMX 49, TNT 29, AI 22 Military
+
+PBXN-101 HMX 82, poly 18 Military
+
+PBXN- 103 AP 40, Al 27, NC 6, TMETN 27 Military
+
+ 
+
+like HTPB and the class of explosives PBXN refer to plastic bonded explosives.
+These have been produced to be safe for storage and handling and would function
+with the right detonating input. There are many more compositions like the ones
+in table 17.2 developed for specific missiles and applications including underwater
+warheads. For instance, PBXN-101 is used in a strike missile and PBXN-103 in
+Mk 46 Torpedo.
+
+When shock waves move through fluids/condensed phase of different densities,
+the interface effects due to differing densities will be felt. A shock wave in air hitting
+a solid surface will get reflected as a shock; it also passes into the solid medium as
+shock. If the shock wave in a solid medium hits the surface beyond which is air, say,
+then the shock wave gets reflected as an expansion wave and transmits the shock
+wave into the atmosphere. It is the behaviour of the shock reflecting as an expansion
+wave that causes the breaking up of brittle materials like rock which can withstand
+very little tensile loads.
+
+An interesting feature in Table 17.2 is the occurrence of TNT in many composi-
+tions even though it is a low-performing explosive. The reason for this is that it can
+be melted at 80 °C, a value that is far from the decomposition temperature of 250—
+300 °C, and hence one can integrate other compounds into it to produce explosives
+of desired detonating property. One useful and interesting property of detonation
+of mixtures is that the mixture detonation speed is a weighted mean of those of the
+components.
+
+The detonation properties described in Table 17.1 are dependent on the density
+of the substance. It is possible to reduce the density of packing crystals and powders
+in containers to lower levels. In doing so, the detonation velocity will be lowered
+linearly generally. Typically, a reduction in the density of RDX from 1800 to 800
+kg/m? through packing arrangements leads to reduction of detonation speed from
+8.9 to 5.5 km/s.
+
+There are many substances that deflagrate easily but do not detonate. There
+
+167
+

@@ -1,0 +1,47 @@
+generated in two locations — gas turbine as well as steam turbine, typically
+in 3:1 ratio. Such a strategy of using a fuel leads to conversion efficiency of
+45 to 48 % and this operation is called integrated gasification combined cycle
+(IGCO).
+
+(b) It is possible to operate an ambient pressure gasifier, cool and clean the gas to
+take it through a separate compressor and inject it into the gas turbine com-
+bustion chamber with the other elements remaining the same. This scheme
+entails some loss in efficiency because of the need for compressing the gaseous
+fuel something not required when mined natural gas (usually available at
+high pressures) is used directly.
+
+(c) It is also possible to take the cooled and cleaned gas into a reciprocating engine,
+the exhaust of which can be used in a steam cycle. The open cycle efficiency
+of the reciprocating engine will itself be close to 40 %, leaving behind exhaust
+of 3500 to 400 °C that is not as energetic as in the case of a gas turbine.
+However, if the power of the exhaust is adequate to generate at least a few
+MWe, it is possible to construct an IGCC system via this route. One of the
+advantages is that reciprocating engines are far more tolerant to the quality
+of maintenance than gas turbines. The combination of atmospheric pressure
+gasifier and the more rugged reciprocating engine offers a lower-cost option
+for power generation at lower power levels (~ 30 MWe).
+
+(d) Smaller power systems down to even 10 kWWe can benefit from the gasification
+process. Its use in reciprocating engines promises a solid fuel-to-electricity
+conversion efficiency of at least 20 %. A well designed 100 kW e engine-alternator
+system can promise a conversion efficiency of 25 %. Higher power engines of-
+fer even higher efficiencies, exceeding 40 %.
+
+(e) Several thermal applications needing gaseous fuel in a distributed gas arrange-
+ment for multi-furnace operation in an industry can benefit from piped clean
+gas from one gasification system that can run any or all the systems.
+
+(f) Where a reduction operation is to be conducted in a metallurgical industry,
+particularly with CO, one can use the gas directly in the operation. Usually
+mined natural gas that is processed and piped is the normal fuel. With the
+option of biomass-based producer gas as an alternate to natural gas, it is pos-
+sible to generate an equivalent gas locally.
+
+(g) If we interpret the gasification process itself as a staged combustion process
+under sub-स्टोइकोमेट्रिक conditions (involving homogeneous combustion and
+heterogeneous reaction with char as the two s) with further processing either
+in a burner or an internal combustion system, one has more options for emis-
+sion control.
+
+141
+

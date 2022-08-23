@@ -1,0 +1,50 @@
+13.3 Combustion Chambers
+
+different. Why then does the gas turbine combustor need a casing with holes? The
+story has to begin backwards. Every gas turbine has a compressor rotated and pow-
+ered by a turbine. Between the compressor and turbine is the combustion chamber.
+The hot gases from the combustion chamber are expanded through blades in the
+turbine running at speeds of 9000-30,000 rpm depending on the size of the engine
+(larger engines running at lower speeds). The turbine blades face a very hostile
+environment — high temperature and high speed of the gases flowing past them. To
+add to these problems, the conditions imposed are periodic, because of a large num-
+ber of steady runs and shutdown. In order to help preserve the structural integrity
+of the turbine blades, the temperature of the gases impinging on the blades of tur-
+bine is limited to about 1000-1600 K. It is to be noted that स्टोइकोमेट्रिक flame
+temperature is 2300 K; consequently, the combustion process has to be conducted
+under fuel lean conditions, typically 1:50 or 1:100 (stoichiometry is 1:15).
+
+The fuel-lean conditions in many cases may be outside the inflammability limit.
+One may also note slight amelioration because the air coming into the chamber is at
+higher temperatures (~ 600 K) and this widens the inflammability limit. How can
+combustion be made stable at such lean fuel-air ratios? The combustion chamber
+is so designed that for the given fuel flow, the air flow is split into several fractions
+and introduced through holes meant for the purpose. The first fraction is controlled
+at a fuel-air ratio near stoichiometry to ensure good combustion conditions. The
+remaining portion of the air is introduced later to dilute the gas to bring it to the
+designed exit temperature. The positions of holes and the size of the chamber are
+decided by semi-empirical correlations based on stirred reactor studies which give
+the maximum heat release rates (per unit volume) for any fuel-air ratio. These are
+the upper limits beyond which reactions cannot proceed and the flame will extin-
+guish.
+
+For LPG-air combination, the maximum heat release rate is about 10* MW /m?3.
+For LPG—oxygen, it is 4.5x10° MW/m3. Typical heat release rate in a domestic
+kerosene stove is about 4.0 M W/m? while in a rocket engine it is about 10° MW /m?.
+
+These can be used in the preliminary design of the combustion chamber of gas
+turbine or similar engines to size the combustor.
+
+The efficiency of combustion chamber of gas turbine engines is close to 99% at
+take off or nominal operating conditions. It decreases at high loadings, implying
+higher flow rates, lower pressures and relatively smaller volumes of the chamber
+(put together by m/p?v in Chapter 9). The efficiency goes down to as low as 65%
+at high loadings close to blow off. Figure 13.6 shows the combustion chamber of a
+reciprocating diesel engine. The fuel is sprayed into the combustion chamber even
+as the piston is moving upward and compressing the air. This occurs at about 20-25
+° of crank angle before the top dead centre.
+
+The liquid diesel is injected at pressures upward of 50-70 M Pa through ex-
+
+129
+

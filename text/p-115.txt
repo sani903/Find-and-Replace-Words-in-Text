@@ -1,0 +1,48 @@
+12 Combustion in Rocket Motors
+
+One of the common subjects associated with the development of solid propellant
+rocket engine concerns the burn rate of the propellant and mechanical integrity of
+the propellant grain, as it is called. Figure 12.1 shows the way a propellant is ar-
+ranged in an engine and how the burning takes place. Most motors need to pack
+the propellant in as small a volume as possible and yet generate a high burning
+surface to obtain the desired thrust. An n-pointed internal star (see figure) is a fa-
+miliar configuration to acieve this. It is instructive to see the relationship between
+the thrust produced and other parameters. The thrust produced is a product of the
+mass flow rate through the nozzle and the exit speed (following Newton's laws).
+The mass flow rate is that produced by the combustion of the propellant and we can
+write,
+
+F =1mV, = pi A, Ve
+
+where p, = density of the propellant, A; the burning surface area and r, the linear
+burning rate (the variation of the movement of the surface along a local normal,
+y with time, see Fig. 12.1). The exit velocity can be shown to be a product of ¢*,
+the characteristic velocity and thrust coefficient (cr) which indicates the amount
+by which the characteristic velocity is amplified by expansion through the nozzle
+(typically 1.2 to 1.6). Thus
+
+F = pprApcer
+
+  
+ 
+ 
+    
+  
+
+Heat Transfer
+
+  
+
+Flame
+transfers
+
+Regression
+
+Heat by
+Convection
+Radiation
+
+Figure 12.1: How does a propellant burn
+
+107
+

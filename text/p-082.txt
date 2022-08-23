@@ -1,0 +1,71 @@
+9 Stability, Extinction and Blow-Off of Flames
+
+AIR
+
+ 
+
+ 
+
+0
+
+ 
+
+FUEL: LPG
+
+ 
+
+ 
+
+ACETYLENE
+<“— KEROSENE
+
+ 
+
+ 
+
+ 
+
+VAPOUR
+(a) Will the flame be stable when LPG
+is changed to Acetylene or Kerosene
+
+vapour?
+
+AIR
+
+AIR
+
+(c) At what U will the candle or
+match stick flame extinguish?
+
+ 
+
+ 
+
+ 
+
+(b) What are the pressure speed
+ranges over which flame is stable
+inside gas turbine combustor?
+
+BLUFF BODY
+STABILISERS
+
+KEROSENE = gaFF| ES, V-GUTTERS
+
+aa
+24
+y—m ={ es
+
+3
+
+ 
+
+(d) Does the flame blow off
+without stabiliser; at what speed
+does it blow off with stabiliser.
+
+Figure 9.1: Problems of stability, extinction and blow-Off (U = air velocity)
+
+74
+

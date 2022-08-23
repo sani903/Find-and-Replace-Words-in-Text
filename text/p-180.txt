@@ -1,0 +1,64 @@
+17 Explosives — Solid and Liquid
+
+involving the amount of heat released due to exothermic chemical reaction.
+
+p1Ur = poUs = mm” (mass) (17.1)
+
+p1 + po UE = po+ paUs (momentum) (17.2)
+U2 U2
+
+hit = hat —b (energy) (17.3)
+
+p = pRT (equation of state) (17.4)
+
+The quantity mn” is the mass flux through the wave. The एंथलपी difference (h1— hs)
+is the heat released by the chemical reaction, Ah,. The equation of state is still
+the ideal equation of state since the temperatures downstream of the shock are
+sufficiently high (5000 K) even though pressures are high (about 10 to 15 M Pa). We
+use a simple treatment of the equations by transforming them into Mach numbers
+and requiring that M; = 1 to obtain the detonation velocity. We take note that a;
+= /YRT;, where qa; is the acoustic speed (i= 1, 2) and + is the ratio of specific heats
+at constant pressure to that at constant volume. We also treat h; = ¢, 7; where ¢, is
+the constant pressure specific heat taken as the same for both i = 1, 2. The mass,
+momentum and energy equations transform to
+
+ 
+
+ 
+
+27752 2712
+vp1 Mi vps M3
+— 17.
+Ti TT, (17.5)
+pr(1+yM7) = pa(l+Ms3), (17.6)
+—1 —1
+
+ep Th 1 $12 > a3] + AR = Th i +12 > 3) (17.7)
+
+Substituting Ms = 1 and after performing some algebra, one gets
+
+(1+ MP)? v1, Al
+
+~ 2 _(1+1—M)= . 17.8
+2M2(1 + 7) (1+ Mi) pT 7.5
+
+Since M; is likely to be large (~ 3 or more), one can simplify the equation by ignor-
+ing the constants to obtain
+
+ 
+
+My =+/2(y +1) Ahy (17.9)
+
+cpTh
+
+As can be seen, the detonation velocity is a direct function of the heat released in the
+combustion process. One of the principal approximations is that the specific heats
+are constant and the same; however, they depend strongly on the composition that
+itself depends on the calculated temperature under burnt conditions. Thus if one
+adopts an iterative procedure, with the calculation of the composition depending on
+the procedure discussed in Chapter 4, one can get better estimate of the detonation
+Mach number and the detonation velocity. Such a calculation demonstrates that
+the results of calculation are close to experimental values.
+
+172
+

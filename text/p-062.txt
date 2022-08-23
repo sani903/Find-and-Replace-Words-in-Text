@@ -1,0 +1,52 @@
+6 Premixed Flames
+
+ 
+
+ 
+
+d,
+
+Figure 6.3: Flame front
+
+(k = thermal conductivity of the gas). An overall heat balance leads to H ~ ¢, (Ty —
+
+Tp). If we use this we get,
+
+k
+Wd; = — (6.2)
+C
+Pp
+Another relationship is obtained if we recognize p,S, = wd 7 (=mass flux of mix-
+ture). Hence
+
+dy = (k/ep) x (1/puSa) (6.3)
+
+and
+puSu = / (k/cp)wf (6.4)
+
+These are the two major results. The flame thickness is inversely proportional to
+flame speed. Experimental results confirm this as already indicated. The flame
+speed varies as the square root of reaction rate. The reaction rate in the above ex-
+pression should be treated as an average value, The expression indicates that flame
+speed is representative of the reaction rate of premixed mixture. If we now recall
+the results of flame speed indicated earlier, we conclude that Ho—O, स्टोइकोमेट्रिक
+mixture is lot more reactive compared to H2—air which itself is more reactive com-
+=n
+
+pared to LPG-air system. If we introduce the structure of wy averaged in some
+sense, we write
+
+RT; _ 1
+S., ~ (feo) Ap =p" E/2RTy ~ p(n/2) le E/RTy (6.5)
+
+where n is the overall order of reaction, 7 the adiabatic flame temperature.
+
+If most reactions are taken as bimolecular, n ~ 2, then S, ~ p°, i.e., 9, is in-
+dependent of pressure. If n ~ 2.4 say, S, ~ p°2, and if n ~ 1.8, S, ~ p*!. Thus
+the pressure index of S, varies from —0.1 to 0.2 for this range of overall orders of
+reaction (1.8 to 2.4) which is usual for most systems. This result is in complete con-
+formity with experimental observations. The dependence on initial temperature is
+caused through the change in flame temperature.
+
+54
+

@@ -1,0 +1,71 @@
+4.3 How Do We Obtain Flame Temperature
+
+ 
+
+ 
+
+ 
+
+ 
+
+Products
+rep
+a
+1
+*
+»
+rf
+,F Sensible
+# Enthalpy
+yd Rise
+,
+A . B
+Roactants Heat of Products
+Ie. oosmibustson Tot
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 4.2: Adiabatic flame temperature determination
+
+calculated using the scheme enunciated earlier. This composition is set in box (B).
+The change in chemical एंथलपी between (A) and (B) is obtained in the manner in
+which the heat of combustion is calculated. The heat of combustion is used to raise
+the temperature of products from 7p to 7;. This part of rise in temperature is in
+the form of sensible एंथलपी rise. If all the heat of combustion is used up to raise
+the temperature to 7%, then one has obtained the adiabatic flame temperature. If
+some heat is left in balance or the heat absorbed is larger than what is available for
+an assumed temperature 7, keep computing the composition and checking the bal-
+ance till heat balance is satisfied to the required degree of accuracy. If the reaction
+is
+
+Ya;A; — Ya, A;
+then X(a,—a;)[hyi+hsi(To)—hs,i(298.16)] is the heat of combustion and Ya (h, (Tf) —
+hsi(To)) is the sensible एंथलपी absorbed.
+
+The process of computation needs iteration because a; depends on the tempera-
+ture T. In case the composition is known, then 7; can be obtained in one step. We
+shall take a few examples to clarify the procedure.
+
+Reactants: Hs, Oo, (79/21)N5: initial temperature: 298.16 K; and pressure: 0.1
+M Pa. The initial composition has an air-to-fuel ratio, A/F = 68.6. A/F for stoichiom-
+etry is 34.3, and so this implies that the initial equivalence ratio is 0.5.
+
+The products in this case will be HO and N, with excess oxygen remaining
+unutilised. This means
+
+Ho + Oy + 3.76 Ny — Ho0 + (1/2)09 + 3.76 Ny
+
+and therefore, a; = 1, ap = 1, a3 = 3.76, a} =0, a}, = 1/2, a45=3.76, a), = 1.
+
+35
+

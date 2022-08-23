@@ -1,0 +1,49 @@
+10.3 Boundary Layer Combustion
+
+flame has oxidizer and products. Fuel and oxidizer do not coexist under conditions
+of thin flame. This approximation is quite good in reality in so far as the estimation
+of various properties are concerned.
+
+One could have problems of combustion in free convective conditions—something
+which happens in fire problems. This problem of combustion in free convective
+boundary layer is not different from what happens in forced convection (as shown
+in Fig. 10.4).
+
+The question in such a situation is this: how will the mass burn rate of the fuel
+block depend on the mass flow rate of the oxidizer (forced convection), oxidizer mass
+fraction in free stream, pressure, and thermodynamic and transport properties of
+the fuel and the oxidizer. It follows that one needs to have information on the veloc-
+ity, temperature and mass fraction profiles in order to obtain the result. However,
+one has some shortcuts from a knowledge of similarity of these profiles and related
+features.
+
+In order to solve boundary layer combustion problems, a simple way of starting
+the solution is to strike a heat balance at the surface of the burning fuel. It appears
+similar to the one written earlier and reads like
+
+dy = kg [0T/0y],—o = ppr'L (10.25)
+
+In eqn. (10.25), k, is the gas phase thermal conductivity and dy is the heat flux
+to the surface, the expression given by the product of conductivity of the gas and
+partial derivative of temperature with distance normal to the local surface. The
+right-hand side is the product of the density of the solid/liquid fuel, » the linear
+regression rate and L is the heat of phase change at the surface. The product p,r is
+the mass flux from the fuel surface.
+
+pprL = (10.26)
+
+The expression for heat flux ¢; from gas phase depends on the nature of the flow
+(free or forced convection) and boundary conditions (free stream temperature, for
+instance). Curiously, it also depends on p,7. This effect is called the blocking effect
+It comes about in the following manner. If the heat flux from gas phase increases,
+then one expects the mass flux from surface (mass burn rate per unit area) to in-
+crease. This causes the boundary layer to thicken and causes reduction in gradi-
+ents. Thus any effort to raise the burn rate by increasing heat flux, will not happen
+in a linear manner as seen from eqn.( 10.26) but will be lower. This modification is
+to be estimated from a rigorous analysis specific to the flow geometry.
+
+We shall follow a general scheme for solving a variety of combustion problems.
+The heat flux to the surface is taken as a product of heat transfer coefficient and
+
+97
+

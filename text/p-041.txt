@@ -1,0 +1,49 @@
+4.2 How Do We Compute the Composition?
+
+till a minimum is attained. At this stage the Gibbs free energy of the reactants will
+equal those of products.
+
+IGreactants = products
+
+Thus for reaction
+Ya; A; — Ya, A;
+
+at equilibrium,
+Ya; gi = Ya, gi
+
+Using the relationship for g; noted earlier, we get
+Y(a; — aj)g; = X(a; — a;)RT np;
+This can be recast as
+
+Tp “~") = exp(~Ag°/RT), Ag° = S(a] — a;)g}
+
+i
+The notation II implies the product of all the subscripted variables.
+
+The right-hand side is a function of temperature alone because Ag° is a function
+of temperature alone. This quantity is called equilibrium constant (X,). Thus,
+K,(T) = Tip (4.22)
+
+represents the relationship used for calculating equilibrium composition, given the
+temperature 1" and the pressure p.
+
+4.2 How Do We Compute the Composition?
+
+Given:
+Reactants: moles of various species; pressure p; temperature T (example H,, 1/2
+Os, No, etc.).
+
+The process of reaction causes change of species without loss of elements. For
+instance, while the final products may be HO, HO, Ho, H, Os, O in different pro-
+portions, the total amount of H atoms has to be the same as initially introduced.
+This represents mass conservation relation of element H. In addition, the various
+species keep reacting with each other so that the net rate of production/destruction
+is zero, which gives rise to equilibrium relations. To calculate the composition, one
+must enunciate the possible products. In the case of H2—Os—N> reaction at high
+temperatures, one may have Ho, H, Hs, O, HO, HO, No, N, NO, NoO, HNO (11
+species) as possible products. The number of elements is three. The difference 11-3
+(No. of species — No. of elements)=8 is the number of equilibrium relations needed
+to complete the set of equations. After finding that some of the species have very
+
+33
+

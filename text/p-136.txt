@@ -1,0 +1,71 @@
+13 Stoves, Burners, Combustors and Their Efficiency
+
+Recirculating zone
+
+Tangential entry
+ports
+
+  
+    
+
+   
+
+Axial air
+
+|__|
+J
+
+—
+
+ 
+ 
+
+] } Tangential air
+
+Fuel
+
+(a) Swirl Burner
+
+Swirl vanes Recirculation zone
+
+Air injection holes
+
+ 
+
+—>
+>»
+—>
+
+"EX
+
+(b) Swirl combustion chamber (c) Fuel injector
+
+ 
+
+ 
+
+Swirl Fuel (liquid) Injector
+
+Figure 13.5: Swirl combustion devices
+
+isation, to form fine droplets. The swirl injector is used in gas turbine combustors,
+liquid rocket engines, burners for furnaces and even in the spray used in a hair
+dressing shop!
+
+In case (a), the flame is stabilized as a cylindrical flame. It appears bluish in
+the case of LPG at some flow rates. The flame is stable over a wide range of air-to-
+fuel ratios, typically a factor of four. This factor is also called the turn-down ratio.
+The interpretation of this term is somewhat similar to the one stated earlier. For
+fixed air flow rate, the lowest flow rate is one at which the flame blows off and the
+highest flow rate is one at which the flame occurs significantly outside the burner
+(or incomplete combustion occurs inside the burner). The ratio of highest-to-lowest
+fuel rates then becomes the turn-down ratio.
+
+13.3 Combustion Chambers
+
+The swirl combustion chamber shown in Fig. 13.5 (b) corresponds typically to a gas
+turbine combustor. The fuel and air injection regions are similar to the burner used
+in a furnace. Only the casing with holes present in the gas turbine combustor is
+
+128
+

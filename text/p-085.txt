@@ -1,0 +1,40 @@
+9.2 Stability of Flames in Gas Turbine Combustors
+
+  
+  
+
+[et BLOW OFF
+
+I
+
+Js
+
+| FLASH BACK
+
+  
+
+2000
+
+Ss’
+500
+
+ 
+
+10 15 20
+% FUEL
+
+|
+5
+
+Figure 9.3: Ranges of stability
+
+1
+
+f +Air
+
+Figure 9.4: Burner stability improvement
+
+25
+
+77
+

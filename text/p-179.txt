@@ -1,0 +1,45 @@
+17.5 Uses of Explosives In Missiles/Launch Vehicles
+
+since the basis of the phenomenon lies in known conservation equations, albeit with
+uncertainty in the equation of state, a feature overcome through calibration with
+detonation data.
+
+One of the other methods of obtaining a blast wave of sufficient strength is to
+create a mixture of fuel and air (a fine spray of kerosene into a large volume of
+air) and initiate this mixture by an explosive. Then the blast wave propagates
+through the mixture and its over-the-surface damage potential is very high. These
+explosions can inadvertently get created even in fine pulverized coal dust-in-air or
+solid food powder-in-air environments as well.
+
+17.5 Uses of Explosives In Missiles/Launch Vehicles
+
+The idea of primary, booster and main charges described earlier are valid even
+for rocket propulsion ignition systems. One uses an electrically initiated primary
+charge, a booster or igniter charge and the main propellant in small rocket motors.
+In large rocket motors, the igniter charge is replaced by pyrogen motor. The propel-
+lant is also respected as an explosive, albiet a weak one. Launch vehicles use det-
+onating substances to do a variety of functions. In flight, for example, pyrovalves,
+cable cutters, explosive bolts, explosive latches, explosive zip, flexible linear shaped
+cords are used for several functions. Pyrovalves are used to connect a high pressure
+line to downstream element otherwise positively disconnected because of safety re-
+quirements. Explosive bolts are used to separate the elements on demand. Flexible
+linear shaped cords are used for stage separation and also in vehicle destruct sys-
+tems which need to get activated in case the vehicle deviates from the intended
+path. The principles used in the design of these systems are the same as described
+earlier.
+
+17.6 Explosion and Detonation - Simple analyses
+
+To understand the subject of explosives in condensed phase, it is useful to briefly
+review the phenomenon in gaseous mixtures. Gaseous mixtures of fuel and ox-
+idiser can be detonated through the impingement of shock waves; some mixtures
+also have a tendency to move from deflagration to detonation. The understanding of
+which combination will detonate and which will not is still empirical, and the deter-
+mination has to depend on experiments for gaseous or condensed phase substances;
+however, at what speed will it detonate and what is the structure of the detonation
+are questions that have been answered to a significant extent, certainly for gaseous
+mixtures. One-dimensional conservation equations of mass, momentum and en-
+ergy for a gaseous medium are analysed, with the energy equation having one term
+
+171
+

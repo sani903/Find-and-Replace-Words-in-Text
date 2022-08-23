@@ -1,0 +1,62 @@
+9 Stability, Extinction and Blow-Off of Flames
+
+0.10 |
+
+0.08 [=
+
+=|
+
+0.06 |-
+
+0.04
+
+ 
+
+a Blow-off
+
+ 
+
+m/vp", kg/sm3(MPa)'®
+
+Figure 9.6: Blow-off features of a typical gas turbine combustor
+
+ 
+
+ 
+
+2800 | EQUILIBRIUM
+2 BRANCH
+A
+2200 |=
+T : B (EXTINCTION)
+IGNITION +
+K) 1600 |= —
+UNSTABLE
+: BRANCH
+1000 | !
+YS FROZEN! BRANCH E
+400 ' °
+D C
+
+ 
+
+ 
+
+Figure 9.7: Ignition—extinction features
+
+representative dimension of the chamber. If, in addition, we take H = ¢,(T — Tp),
+we get
+Vid=1if/p or t;'=t (9.6)
+
+d/V can be taken as the travel time ¢; of the fluid over the length d, and (@'/ p)~!
+can be taken as time taken for completing reaction t.;,. Thus the previous result
+can be stated as ty = t.,. If t; is very small, something which can be achieved by
+raising the velocities, there will be very little time for reaction and so the flame
+blows off. The ratio t;/t.,, = D; is called first Damkdohler number and is a very
+important parameter in combustion studies. D; — oo represents the limit of fast
+chemical reactions and the attainment of equilibrium. D; — 0 represents the limit
+of little time for reaction (or very slow reaction) and is called frozen limit implying
+little change of composition during the passage of the gases through the combustion
+
+80
+

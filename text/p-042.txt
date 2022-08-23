@@ -1,0 +1,54 @@
+4 How Much Heat? How High a Temperature?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ww
+PRODUCTS NO HEAT
+REACTANTS
+SPARK
+
+Figure 4.1: Isolated cylinder with piston
+
+small concentration at certain temperatures, one might simplify the problem by
+dropping the species altogether. This reduces the number of equations to be solved.
+
+The equilibrium relations and element conservation equations are solved to-
+gether to obtain the composition. These equations constitute a set of nonlinear
+algebraic equations whose size is large even for 2 or 3 elements. From the early
+sixties to the seventies, several attempts were made to solve such equations by
+various means and a very powerful computer technique was developed at NASA
+in the early seventies. This is a workhorse programme used all over the world in
+obtaining the equilibrium composition (and adiabatic flame temperature as well).
+This programme minimizes the Gibbs free energy (at p = constant, T' = constant) to
+obtain the equilibrium composition.
+
+4.3 How Do We Obtain Flame Temperature
+
+We have laid the foundations for calculating the flame temperature. We make an
+important and reasonably good approximation: the flame temperature is attained
+as in an adiabatic situation. This implies that no heat is lost to the surroundings
+from the system. This situation is typified in Fig. 4.1.
+
+The reactants are kept in an isolated cylinder with a piston to simulate the pres-
+sure. Then they are sparked to initiate ignition. After this the reactions proceed
+to completion. The temperature rises to adiabatic flame temperature. The calcula-
+tions are made using of the idea described in Fig. 4.2.
+
+A first estimate of adiabatic flame temperature is made. Then the composition is
+
+34
+

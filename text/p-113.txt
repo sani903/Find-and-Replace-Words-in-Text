@@ -1,0 +1,41 @@
+11.2 Diffusion Flames
+
+which are not known very accurately. As such, accurate predictions of features like
+ignition, flammability limits in premixed flows are dependent on some experimen-
+tal features more than in diffusion flames.
+
+Though the simple results presented in the case of droplet combustion or lami-
+nar/ turbulent boundary layer combustion and free convective combustion contain
+such factors like (k/c,), which vary with temperature and composition, it is possi-
+ble to construct analysis and make predictions which are quite accurate and rep-
+resentative of what is experimentally observed. In fact, such analyses have been
+completed in recent times in most of such instances.
+
+An interesting feature of diffusion flames is their wide range of stability. If a
+burner is to be built and one seeks a diffusion/ premixed solution to the device, the
+aspect of stability plays a critical role which might prevent the choice of a premixed
+alternative. In diffusion flames, the flame locates itself at स्टोइकोमेट्रिक flux ratio
+location and hence poses less restriction on its existence in the burner. In the case
+of premixed flame, one must locate regions where the speed of the flow is nearly
+equal to the flame speed. If the flow conditions are changed then the flame is likely
+to blow off.
+
+This problem does not look so serious if one considers a gas stove. In a gas stove
+additional ‘flame holding’ effect is provided by the body through which premixed
+gas issues out. This enhances the stability of the stove flame. The flow rates are
+about 0.1 to 0.2 g/s, and the flow velocities through the holes are about 0.1 m/s.
+If one were to conceive a similar design for an industrial application with power of
+the order of several hundred kilowatts to a few megawatts, the size of the burner
+becomes too large. For instance, if one wishes to scale up the cook stove designed for
+2 kW power to 100 kW power, one needs the top burner diameter of 0.35 m in the
+place of 0.05 m. But then in 0.35 m dia space one can push about 4 MW of thermal
+power, excepting that in such a case combustion is largely in the diffusive mode.
+
+In free flames (non-material bounded), premixed flames are indeed very unsta-
+ble and diffusion flames provide much greater stability.
+
+Thus, clean combustion (producing minimum pollutants) demands premixed
+flame and greater stability calls for diffusion flame.
+
+105
+

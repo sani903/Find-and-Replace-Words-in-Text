@@ -1,0 +1,60 @@
+10.3 Boundary Layer Combustion
+
+Table 10.1: B and other parameters for some fuels with air, (*polymers have no fixed phase
+transition temperature, c,= 1.2 kJ/kgK; T, = 300 K; ¢,= 1.0 kJ/kgK)
+
+ 
+
+ 
+
+Fuel Boiling Latent Flame
+point heat Temperature B
+°C kJ/kg K
+
+Acetone 56.7 523.0 2120 3.9
+Gasoline 155.0 349.0 2200 4.5
+Kerosene 250.0 290.0 2250 6.2
+n-Pentane 36.0 364.0 2250 5.2
+Iso-Octane 125.0 328.0 2250 5.2
+PMMA* ~250-350 600.0 2200 2.0-2.5
+PS* ~300-400 800.0 2350 1.5-2.1
+
+ 
+
+The quantity (u4cpe/k,) is the Prandtl number with a value of 0.75-0.8 for com-
+bustible gas mixtures. (Nu/Nuyg), the blocking effect can be calculated exactly for
+several laminar flows. For turbulent flows, it can be calculated only empirically.
+It goes like In(1 + B)/B for small values of B. Typical values of B for some liquid
+and solid fuels are shown in Table 10.1. For larger values, typically B ~ 5 or more,
+the expression (Nu/Nug) can be written as Cy Bb. This form is curve fitted to
+compute values of (Nu/Nug). and Cy and m are estimated.
+
+The final result in several situations can therefore be written as
+
+ 
+
+Pp’ m_Nuo
+— =(CyB 10.31
+(PV )oo Co Re, Pr (1031)
+In the case of free convective flows,
+k
+TCp
+
+The expression for Nu for the situations identified earlier are set out in Table 10.2.
+One can take a typical case. For flat plate, stagnation point flows (flows in which
+
+fluid impinges normal to a flat plate, for instance) at Low Reynolds number,
+ppt (pV )oo = CoB™ Pr=*/* Re? (10.33)
+
+where x is the distance from the leading edge or stagnation point.
+
+For turbulent flows, it varies as
+
+poi (pV )oo = CoB™Pr=2/3 Re; 0/2 (10.34)
+
+For laminar free convective flows the mass burn rate will vary like
+
+pp = CoB™ (ky / cpg) (GrPr)t/4 (10.35)
+
+99
+

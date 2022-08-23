@@ -1,0 +1,49 @@
+17.4 Structure of explosives and Warheads
+
+17.4 Structure of explosives and Warheads
+
+The structure of the explosive is generally as follows. The main charge that provides
+the destructive effect will be based on one of the several compositions described in
+Tables 17.1 and 17.2. These are triggered into detonation by a booster charge which
+itself is triggered by what are known as initiating explosives. The initiating explo-
+sives are usually selected from heat sensitive compounds like Lead Azide, Lead
+styphnate, Mercuric fulminate, etc., in small quantities usually deposited around
+a thin nichrome wire and covered with a thin plastic coat. Whenever detonation
+is desired, an electric current, typically, 0.7 to 1.0 amp is passed through the wire.
+This leads to a tiny explosion and fire that is caught up by the booster charge that
+converts the small outburst into definite small blast with sufficient shock strength
+to kick-start the detonation of the main charge. Typical primary initiating detona-
+tion charge is about 0.1 to 0.5 g. The booster charge is about 50 to 200 g. The main
+charge varies from as small as 100 g to as large as 500 kg depending on the applica-
+tion. Booster compositions are developed from the same materials but at different
+composition levels.
+
+In hand grenades, the shell is filled with explosive material, the amount of ex-
+plosive depending on the desired damage potential. The surface of the shell is cov-
+ered with grooves to enable fragmentation in an intended way and at the centre
+is located a pin, initially held tight. When it is to be operated, the safety catch is
+removed and grenade is thrown. Once the top of the pin hits a hard surface it hits a
+small cap filled with a primary explosive. This starts a delay segment booster for a
+few seconds and then the main charge is detonated. In the case of drop bombs. the
+design is somewhat similar, excepting that the fragmentation facility is not called
+for.
+
+Two major concepts in warhead design aimed particularly at armour piercing
+capability are the shaped charge and explosively formed penetrator (EFP). The fun-
+damental principles of these are depicted in Fig. 17.1. In the case of shaped charge
+warhead, initiation takes place at the sharp cone end. This engulfs the cone, melts
+the metal outer sheath into high speed jet around the axis segment and directs the
+slug into the target. The performance of the high speed metal jet is indeed spectacu-
+lar. The effect is termed Monroe effect or Neumann effect. There is no specific need
+to shape the charge in the form of a cone. It could be in the form of a hemisphere
+or a part of a sphere. In such a case, one generates a spherical melted blob of high
+velocity instead of a jet. The understanding in this area has improved dramatically
+in the last ten years through the use of computational tools normally termed hy-
+drocodes. They are used to describe various features such as (a) the formation of the
+blast wave; (b) movement such that the material will melt, and (c) form a slug and
+get accelerated to high speed. Varying the precise shape of the liner — conical, near-
+conical, spherical or others — can create substantial differences in the final shape
+of the accelerated melt. These can now be designed on a computer quite accurately,
+
+169
+

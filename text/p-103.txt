@@ -1,0 +1,50 @@
+10.3 Boundary Layer Combustion
+
+The enhancement due to flow can be also as large as in free convection, But if
+one causes a large flow past the droplet, extinction will occur. (This was discussed
+in Chapter 9)
+
+10.3 Boundary Layer Combustion
+
+We shall be concerning ourselves with diffusion flames in boundary layers here.
+This does not mean that premixed flame combustion cannot occur in the boundary
+layers. They do occur and can be treated similarly. What are boundary layers?
+
+Whenever fluid flows past sheets and plates, flat or curved, the fluid velocity
+at the surface of the plate is zero, because non-zero fluid viscosity demands that
+there can be no difference in velocity between the plate and the fluid next to it.
+Consequently, the fluid velocity varies from zero at the surface to the free stream
+value away from the surface. This zone over which variation in velocity takes place
+is called boundary layer (Fig. 10.3 (a)).
+
+One might wonder why there are no gradients in the free stream even though
+every fluid has viscosity. In fact, it is precisely because of viscosity that there are
+no differences in velocity in the free stream. Viscosity acts as a great equaliser. It
+comes into action when there are differences in velocities and acts to smoothen the
+differences. In the case of flow past a wall, viscosity acts as a smoothening effect
+taking the stream speed from zero at the surface to its non-zero finite value in the
+fress stream. The usual descriptions of boundary layer show a fluid moving past
+a fixed body. One could equally well consider a moving body in a quiescent fluid.
+The velocity of the fluid near the surface is close to that of the surface. It reduces
+to zero away from the surface (Fig. 10.3 (b)). The region over which the variation
+takes place, again, is boundary layer.
+
+It is important to recognize that the idea of boundary layer is not restricted
+to velocity alone. It can be for temperature as well as for species mass (or mole)
+fractions. In fact, just as viscosity is to velocity gradients, thermal conductivity is to
+temperature gradients and mass diffusivity is to species mass fraction gradients.
+
+Flow gradients need not always be next to a wall; one could have gradients in
+the flow regions also. For instance, take the case of injection of a hot fluid into a
+cold flowing stream. There will be temperature difference between the two fluids
+in the flow which will be smoothened by thermal conductivity in a narrow region
+between the bulk of the cold and the hot fluids. This layer is called mixing layer as
+it does not involve a wall. In the case of wall, the terminology of boundary layer is
+used. Another example would be of the injection of one miscible fluid into another
+in a flowing system. Here the mass diffusivity plays a role of smoothening the
+differences in concentration between the two fluids.
+
+Boundary layer thickness depends on the speed of the fluid, the distance from
+
+95
+

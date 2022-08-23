@@ -1,0 +1,59 @@
+10 Diffusion Flames
+
+Equation (10.10) indicates that the mass vaporisation rate is proportional to the
+drop radius. The dependence on transfer number is weak since the logarithmic
+term changes little for large variations of B,. Let us consider a numerical example.
+For rs =1 mm, k, = 0.02 W/mK, c, = 1.0 kJ/kgK, p; = 800 kg/m3, Ty = 800 K, T,=
+300 K, L =300 kJ/kg,
+
+mm =3.0x 107%, kg/s = 3.0 x 1077 kg/s = 0.30 mg/s
+
+It may be difficult to see what this means because the initial mass of the droplet
+is about 3.36 mg. You may be tempted to say it takes a time of 3.36/0.3 = 11.2
+s for the drop to burn. This is not true because drop radius will keep decreasing
+with time and mass burn rate also k decreasing. How then can we estimate the
+burn time of a drop, a more perceivable quantity? In order to do this eqn. (10.10) is
+written as 1 = dm/dt where m is the mass of the drop = (4/3)7r3p;, where p; is the
+density of the liquid. If we note,
+
+dm 9dr dr?
+dat == (4/3) X pr X 3s == 2s
+
+we can therefore write
+
+2
+pur, 0s = arr Fo In(1 + By)
+
+ 
+
+d Cp
+Hence 02
+rs _ oF In(l + B,)
+dt cp pl
+and
+r2 =r? — Kt (10.12)
+K, = 2X naa + By) /p1, rso= initial drop radius (10.13)
+
+Cp
+Equation (10.13) is classically expressed in terms of diameter of droplet like
+
+d? = d% — Kt (10.14)
+
+where K, = 4K, , dy = Initial diameter Equation (10.14) is called the d*-law and
+K, is the evaporation constant. We can obtain the drop evaporation time by setting
+ds = 0 in eqn. (10.14) as
+
+ty, = d%/K, = 1% K, (10.15)
+
+This is an important relation showing the drop evaporation time varying as the
+square of drop diameter. We can estimate the value of ¢, for the example indicated
+earlier,
+
+ 
+
+107° 16.6
+_ — .0 Ss
+v 2 x (5920 x ox In(1+ B,))
+
+92
+

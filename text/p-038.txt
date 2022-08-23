@@ -1,0 +1,61 @@
+4 How Much Heat? How High a Temperature?
+
+Table 4.5: Heats of combustion H., fuel or propellant — v = by volume, w = by weight
+
+ 
+
+ 
+
+System H., M J/kg
+LPG [80 Butane, 20 Propane (v)] + Air 44.0
+Biogas + Air 32.0-36.0
+Prod. gas 20CO + 20H, + 2CH, + 58N, (v) + Air 4.6
+Kerosene + Air 42.0
+Wood (sun dry) + air 16
+Bituminous coal + air 26
+Indian coal (45 % ash) + air 14
+
+Solid Propellant
+
+50 NC + 50 NG (w) 5.4
+
+70 AP+20 Al+10 CTPB (w) 6.0
+Liquid Propellant
+
+50 N2Oy + 50 NoHy wv) 6.0
+
+0.50 UDMH+0.50 N,O4 (v) 7.5
+
+ 
+
+The heat of combustion per kg of fuel will be (803.5/16)M J = 50.2 M J/kg. For
+reaction (C), the value of H,. at 298.16 K is 242 — 0 — 0 = 242 kJ and for H, it
+will be 242/2M J = 121 M J/kg. If, in reaction (C) or any of the other reactions for
+that matter one adds an inert substance like nitrogen, the heat of combustion is not
+affected. It is true that this heat is now absorbed by a mass augmented by inerts
+and hence one can expect the final temperature to be lower. The heat released
+however, will remain the same. Table 4.5 lists the heats of combustion for some
+reactions.
+
+4.1 The Second Law
+
+The second law states a principle indicating directions of processes. For instance,
+heat flows from high temperature to low temperature. The reverse does not happen
+unaided. This part of the observation is not indicated in the first law. The first law
+states that either of the processes can take place provided energy is conserved.
+
+The second law is variously understood and discussed. The useful view point
+here concerns the feature indicated above. Is there a quantity which is related to
+state variables (T', h, e ...) such that on an evaluation, one can state which direction
+a process proceeds?
+
+The answer lies in the statement that there is a quantity called entropy defined
+by
+
+ds = (dq) rev /T (4.20)
+
+so that if ds is positive (for isolated systems), the process is natural and proceeds
+along ds > 0. If ds < 0 in an isolated system, the system is not natural and will not
+
+30
+

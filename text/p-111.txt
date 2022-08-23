@@ -1,0 +1,39 @@
+11 Flames—Premixed or Diffusion
+
+Most natural flames are diffusion flames while most arranged combustion devices
+are premixed. This describes one essential difference between the two. One is nat-
+urally provoked to ask: Why should arranged devices be premixed? One answer
+is that premixing leads to lesser pollutants and combustion can be expected to be
+completed better in much smaller volumes. This is indeed true. Premixing of fuel
+and oxidizer, in gaseous/condensed phase, would help the cause of combustion bet-
+ter since the elements do not have to look for each other. They are available in the
+immediate vicinity.
+
+11.1 Premixed substances
+
+It has been said that gaseous/ condensed phases can be premixed. Yes, one under-
+stands gaseous media being premixed. It happens all the time in a gas stove where
+fuel gas entrains air before coming out of the hundred odd holes of the burner to
+burn up. Or in the kerosene stove where, by an ingenious method, the kerosene
+vapour and air are mixed in the annular space between the perforated sheets be-
+fore combustion takes place.
+
+But does premixing occur in liquids? Well, if one uses chemicals which have both
+fuel and oxidizer elements in a single molecule, then one could treat the substance
+as having premixedness. Hydrogen peroxide is a case in point. It has both the
+elements in a single molecule (H202) and it is of course very reactive by itself (it is
+also very corrosive). There are other liquid solutions which have both oxidizer and
+fuel elements almost of right proportions. These are explosive in nature and wait
+for the smallest opportunity to be triggered into exothermic reactions and gasify
+so fast that usually explosions result. One example is nitroglycerine (liquid), used
+extensively in solid propellant industry.
+
+In solids too there are several cases where molecules have both oxidizer and fuel
+elements. Ammonium perchlorate (NV H4Cl1Oy) is oxidizer rich but has both elements
+in it. It burns up by itself at relatively high pressures (on ignition). HMX is another
+example.
+
+All solid propellants are instances of premixing of fuel and oxidizer. When they
+
+103
+

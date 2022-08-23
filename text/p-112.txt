@@ -1,0 +1,49 @@
+11 Flames—Premixed or Diffusion
+
+burn at not too high a pressure, they act as though they are premixed. Premixed
+flames are affected by pressure and initial temperature significantly. This is be-
+cause chemistry plays a strong role in their combustion scheme. The final temper-
+ature they attain on combustion depends on the mixture ratio. The flame speed
+depends on the mixture ratio, the pressure and the initial temperature. They can
+be quenched and are flammable over a relatively narrow range of mixture ratios.
+
+Because pressure and initial temperature play an more important role in pre-
+mixed flames, combustion of solid propellants depends strongly on these factors.
+The burning rate of a solid propellant varies with pressure as p"'2, with my varying
+from 0.3 to 0.8 and with initial temperature as 0.2—1% per °C.
+
+11.2 Diffusion Flames
+
+Diffusion flames are generally more pollutant-generating for the fuel does not get
+enough oxidant in the right place. Not all flames soot alike though. Candle flame
+for instance, does not soot most of the time. Surely, if you introduce a relatively
+cold surface into the flame, you can collect some soot. But most soot burns off inside
+the flame. In a kerosene wick flame (meant for lighting), slightly larger in size and
+hence with taller flames, one finds heavy sooting. Yet in a kerosene stove one gets a
+blue flame. This is because the oxidant gets mixed with the fuel vapour in the right
+place, i.e., before any possible decomposition of the fuel taking place.
+
+It is quite generally thought that peak temperatures in a diffusion flame must
+be lower because the combustion is not complete. One can measure the peak tem-
+perature of a candle flame by using a fine (thin) thermocouple and find it is 1600
+°C (1873 K) just about 100 °C lower than its adiabatic temperature. In fact, in
+the thin flame approximation which is close to reality, the temperature of the flame
+is related to adiabatic flame temperature but a little short of it depending on the
+fluid mechanics of the flow. In the case of droplet combustion, the temperature is
+the same as adiabatic flame temperature. In others like stagnation point diffusion
+flame (same as opposed jet diffusion flame discussed in Chapter 9, section 9.3), it is
+lower.
+
+In the case of diffusion flame, there is no well-recognized quantity like flame
+speed to define the reactivity of fuel-oxidane mixtures. A quantity called appar-
+ent flame strength, the mass flux of oxidizer or fuel in an opposed jet/stagnation
+point flow at the condition of extinction is defined. This quantity again defines the
+reactivity of the fuel-oxidizer system.
+
+One of the most important aspects of diffusion flames is the dominance of fluid
+mechanics over kinetics with the result that the calculation of burn rates in diffu-
+sion flames is a lot less uncertain. This is because kinetic dominated phenomena
+depend on the parameters Ay, the frequency factor and F, the activation energy
+
+104
+

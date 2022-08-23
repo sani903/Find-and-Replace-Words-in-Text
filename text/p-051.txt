@@ -1,0 +1,43 @@
+5 How Does a Reaction Proceed? At What
+Rate?
+
+We saw till now what reaction products are and how to compute their mass or mole
+fractions in the mixture. The question we ask now is how fast is an equilibrium
+state attained from a given initial state. In order to compute this we should describe
+the rate of generation or destruction of a given species in a reaction system. It may
+be recalled that a hydrogen—oxygen reaction was set out as
+
+H2 + (1/2)O2 + pNy — H20 + pNo
+
+Does the reaction proceed this way? If the products contain many species like we
+found in equilibrium products, will the reaction proceed differently?
+
+The reaction does not proceed in the way indicated by simple stoichiometry. This
+is not due to the fact that equilibrium products contain many other species, for one
+can consider cases of low flame temperature with a larger inert fraction and make
+sure that no species other than the only stable product are present in any significant
+measure. Yet the reaction does not proceed along the path shown. Why is this so?
+
+To answer this we must understand as to how a reaction takes place. In a
+gaseous medium it is known that molecules are moving randomly with a range of
+velocities with a mean related to the temperature of the gas. Collisions occur during
+the random movements of molecules. These collisions are usually unproductive,
+i.e. the molecules after collision move away in different directions without any
+change in the molecular structure. Amongst these collisions, some occur at higher
+velocities. At these velocities the molecules act like bullets and when they collide,
+they end up breaking up molecules or forming bonds with other molecules. For
+instance, consider the following reactions:
+
+H2 + H2 — H+ H+ H2 (1)
+H2 +0; — H+H+02 (2)
+H2+M—H+H+M (3)
+
+HO+0O —0:+H (4)
+
+H+O+M—OH+M (5)
+
+In the first reaction, Hs collides with another H, and breaks up to form Hydrogen
+atoms. Here only one bond is broken. In reaction (2), the collision of Hs occurs
+
+43
+

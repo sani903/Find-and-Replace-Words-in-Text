@@ -1,0 +1,51 @@
+16.4 Allowed Emissions
+
+reversible reaction is included, the reaction set is termed Extended Zeldovich mech-
+anism. The two principal controlling factors that affect the formation of NO are
+temperature and oxygen fraction. Staying in the oxidizer-rich region of the stoi-
+chiometry, close to the highest temperature generates the largest NO. Allowing
+first part of the combustion to occur on the rich side and providing small residence
+time toward the oxidiser-rich side helps limit the NO generation. A simple corre-
+lation that delineates the role of the residence time and flame temperature reads
+as
+
+r
+
+NOg(g — mole/cm®) ~ 70-20) exp(—16400/TF) (16.5)
+
+where NO, is the emission at स्टोइकोमेट्रिक conditions and 7 is the adiabatic flame
+temperature at stoichiometry. 7. is the residence time interpreted as the volumetric
+throughput divided by the volume of the combustion chamber.
+
+16.4 Allowed Emissions
+
+The allowed emissions depend on the legislative measures adopted by a country.
+While it is true that in some instances the adoption of a newer more environmentally—
+benign technology has had accompanying economic benefits, in many cases, new
+investments are called for. Hence, apart from the availability of the technology, it
+is the preparedness to adopt the clean up process that matters most. In most ad-
+vanced countries the emission norms are set up after the government goes through
+a wide consultative process. The norms are revised after a periodic review and
+they are variously expressed depending on the specific application in each coun-
+try. Some countries have more stringent norms than others. In recent times these
+differenceshave been narrowing due to greater awareness. Over the last 25 years,
+when the environmental load has increased due to the increased population and
+industrialization, more and more stringent norms have been imposed using newer
+technologies that have resulted from greater understanding of the pollutant forma-
+tion in systems. The allowed emissions depend on the application — light motor
+vehicles using gasoline or diesel, heavy transport vehicles using diesel, stationary
+power generation systems, stationary thermal systems (furnaces, stoves, etc). The
+emissions for motor vehicles are expressed in terms of g/km. For stationary ap-
+plications it is expressed in terms of g/M J (or g/kWh, g/bhphr). For light motor
+vehicles, a simple equivalence may be obtained by taking, say, a 15 km/liter fuel
+performance. This implies that 1 g/km is about 0.36 g/M J. For a heavy transport
+vehicle, one can take 4 km/liter fuel performance, implying that 1 g/km is about
+0.09 g/M J.
+
+For light motor vehicles, the allowed emissions of CO, NO, and UHC were set
+at 50, 2.5, and 6.1 g/km in 1960. In 2004, these have been brought down to 1, 0.12
+and 0.08 g/km respectively. For heavy transport vehicles it is 6, 1.5 and 1.5 g/M J
+respectively. Smoke should be limited to 0.02 g/M J for heavy vehicles.
+
+157
+

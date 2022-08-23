@@ -1,0 +1,57 @@
+10 Diffusion Flames
+
+2000-2500K
+
+    
+ 
+
+300K
+2 BOUNDARY LAYER
+u T EDGE
+—> — <«~—— FLAME
+600-800 K
+
+ 
+
+(a) Fixed plate: Fluid motion
+
+BOUNDARY LAYER
+EDGE
+
+FLAME
+
+ 
+
+ 
+
+(b) Plate moving in still air
+
+Figure 10.3: Boundary layer combustion modes
+
+the front end of the surface and the viscosity of the fluid. These quantities can be
+combined to form a Reynolds number (Re = pUx/u). The thickness of boundary
+layer (4,) can be shown to vary with Reynolds number as
+
+8y/x ~ Re? (10.23)
+
+The exponent — 1/2 on Reynolds number is typical of all laminar flows.
+
+At very high speeds of the fluid flow, or large distances from the front edge,
+the flow no longer remains laminar, but becomes turbulent. Though they are not
+understood at fundamental level, yet much is known about their overall behaviour—
+certainly enough for engineers to carry out their designs pretty well. For these flows
+the boundary layer thickness varies with Reynolds number as
+
+Sy ~ Re 02 (10.24)
+
+Combustion in the boundary layer occurs when the oxidizer flows past a solid sur-
+face or a surface supplied with liquid fuel or a large liquid fuel mass.
+
+Figure 10.3 indicates the features of laminar boundary layer combustion. The
+temperature profile shows a peak temperature at the flame (2000-2500 K) and
+drops to ambient temperature on one side and relatively high surface temperature
+(600-800 K) on the other side. The zone between fuel surface and flame has fuel
+vapour and products diffusing towards this side from the flame. The zone above the
+
+96
+

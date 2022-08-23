@@ -1,0 +1,49 @@
+12 Combustion in Rocket Motors
+
+Because the fuel vapours and gaseous oxidizer (obtained from the vaporisation of
+liquid droplets) mix and burn near the boundary, it takes a long distance for the
+entire oxidizer to be properly consumed. If lengths are smaller, and they usually
+are, one gets a mixture of gases with oxidizer-rich and fue-rich pockets passing
+through. To enable good mixing between these two, circular protuberances called
+diaphragms are provided. These produce recirculation zone downstream and up-
+stream of their location and result in better mixing. In moderately-sized engines,
+one needs as much as three diaphragms to achieve complete mixing necessary to
+obtain good combustion efficiency.
+
+12.4 Overview
+
+This chapter has discussed the details of how propellants burn, at what rates,
+and what factors affect them. Solid propellant combustion is more chemistry-
+dominated. Double-base propellants show substantial effects of chemistry. Com-
+posite propellants are affected by diffusional flame structure as well. As regards
+heat released or the flame temperatures, the influence of additives is essentially
+linear, i.e., a small amount of additive causes a small change while a large amount,
+larger change. This is because thermodynamic (or more truly thermostatic) effects
+are different from chemical kinetics or rate effects. In chemical kinetics the rate
+processes can be altered significantly by relatively small amounts of additive that
+influence the burn rate by altering the rate of only the key s in a large number of
+elementary reactions occurring in the system.
+
+Controlling the propellant burn rate is thus an unenviable task. The classical
+understanding that solid propellant rocket is simple is not true. Solid propellant
+rocket looks simple; but propellant making is a very complex task and has to be
+carried out very carefully.
+
+Liquid propellant rockets in comparison look complex indeed. But a large part
+of it is mechanical-engineering based and is generally better understood. The com-
+bustion processes in the liquid rockets are diffusion dominated and though there
+are a few unresolved questions, they are also better understood. Atomisation holds
+the key to better combustion. But better combustion leads to the problem of insta-
+bility in large-sized rockets. Avoiding instability calls for using damping devices
+like baffles and acoustic cavities.
+
+Most high-thrust liquid engines use fine atomisation in the injection process for
+achieving high combustion efficiency and baffles and other stabilization devices for
+avoiding instability.
+
+The combustion mechanism of hybrid rocket engines is embedded in boundary
+layer combustion and because of this, mixing is a serious problem and in order to
+facilitate efficient of the fuel vapors and the oxidizer, devices like diaphragms are
+
+116
+

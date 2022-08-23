@@ -1,0 +1,49 @@
+15 Solid Fuels - Combustion and Gasification
+
+ture at which work is done will be lower, the conversion efficiency will be limited
+due to thermodynamic considerations. The peak conversion efficiency from solid fu-
+els to electricity in this process is about 36 — 38 % at large throughputs (hundreds
+of tonnes per hour). The expectation is that if one uses a high pressure combustion
+process as a part of the system, one can extract higher efficiency from the conver-
+sion process. One can then ask a question: why not use the hot gases directly in
+a reciprocating engine or a gas turbine. Reciprocating engines are essentially in-
+ternal combustion engines that induct fuel gas and air from the atmosphere and
+generate heat inside the cylinder at high pressure. They cannot induct the burnt
+gases, for, no purpose would be served.
+
+Gas turbine engines can utilise hot gases from a combustion system separately
+located. In this case, however, the combustion system needs to be operated at high
+pressures as indicated earlier. This would need high pressure fuel feed and ash ex-
+traction systems. Further, the hot gases will need to be cleaned for fine particulate
+matter to ensure that they do not cause erosion of the highly stressed hot blades
+of the turbine. These additional systems will occupy space, there will be heat loass
+from the bounding surface. One way of reducing the size of the clean up problem
+would be to convert the solids to gas and clean up the gas before being used in
+the combustion system. This would reduce the volume of the gas to be handled to
+about a third of that for completely burnt condition. This makes the gasification
+process attractive. There are several other benefits of the gasification process dis-
+cussed below. The gasification process can be conducted with air or oxygen. When
+the intention is to use the gas for power generation, air can be used as the oxidant.
+In this case, one generates a gas that has about 20 % each of CO and H2, 1-2 %
+CHy, 10 — 12 % CO and the remaining nitrogen. The combustibles in this case are
+CO, H2 and C H2, with CO:H> in the ratio of 1:1. This gas is called producer gas in
+literature.
+
+If one needs to generate a synthesis gas to be used subsequently to produce a
+liquid fuel, one uses oxygen and in this case, specific process design leads to a gas
+with about 45 % CO, 22 % H, 6 % C H2, about 2 % of higher hydrocarbons and 25 %
+CO. A CO:H; ratio of 2:1 is needed for producing methanol from this gas through
+a catalytic process. The several benefits of the gasification process are as follows.
+
+(a) In the case of gas turbines used at high power levels (several hundreds of
+megawatt electric, MWe), the hot combustible gas from the high pressure
+reactor is passed through a high pressure, high temperature candle filter to
+separate the particulate matter before being used in the combustion chamber
+of the gas turbine engine. A high temperature valve (~ 600 °C) controls the
+flow rate into the combustor. The open cycle efficiency of the gas turbine en-
+gine is about 35 %. The hot gases from the gas turbine are typically at 600
+K and would in turn be used in a boiler to generate high pressure steam that
+would be used in a steam turbine to generate electricity. Thus electricity is
+
+140
+

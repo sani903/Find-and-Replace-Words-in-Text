@@ -1,0 +1,47 @@
+8 Ignition
+
+to flash a flame and consume the vapours. If the ignition source is taken away,
+the flame also will disappear. Stated differently, the flame is not self-supporting at
+the flash point. At fire point, any ignition makes the flame over the pool become
+self supporting. Following ignition, the heat transferred by the flame will generate
+enough volatiles to continue burning in the gas phase. Igniting solid fuels is even
+more difficult. Consequently, if a person wants to light a wood stove, she would
+douse the ends of fire wood sticks with some kerosene and then light the piece.
+It is not always for sure that if you ignite the stick with kerosene the wood stick
+would ignite for the kerosene could burn away leaving the wood unignited. How
+ignition works with dousing of kerosene is as follows. Firstly, it must be understood
+that kerosene is the first to vaporise because its boiling point is about 150-200 °C.
+Volatiles from wood would get generated only at 300-350 °C. Hence it is kerosene
+which would burn away first. But during this process, transfer of heat by radiation
+and conduction close to the flame should begin to generate volatiles from the wood
+and then combust it. If this process becomes self-sustaining before the kerosene
+burns away, the process of ignition is successful. For instance, if you had doused
+the wood pieces with gasoline instead of kerosene, there would be less chances of
+ignition of wood. This is because gasoline would burn away faster and the chances
+that wood would generate volatiles within this time are lower. In fact many a crim-
+inal has been unsuccessful in burning away incriminating documents by dousing
+them with gasoline for he had not understood combustion principles!
+
+It is not that one needs to use kerosene for ignition. One can ignite wood by
+itself—not of course a log of large diameter. This is because the ignition source
+expectedly small, is not able to persuade regions of wood to release volatiles in a
+sustained manner. The heat transferred is shared by the larger portions in conduc-
+tion mode and the heat is simply dissipated. Therefore, one needs to use a large
+number of small-sized fibrous dry sticks and ignite them with a matchstick. The
+fibrous wood pieces, particularly the sharp-edged ones, will ignite immediately and
+the entire bunch will start burning. They can then be put on the grate of a stove
+and by suitably adding additional wood pieces of slightly larger sizes, the fire can
+be maintained. The energy utilized here will be close to 20 to 40 J.
+
+8.2 Matchstick composition and ignition
+
+The common matchstick is used in many kitchens in many countries, even though
+it has gone out-of-vogue in other countries in favor of lighters and quartz crystal
+based sparking devices. The composition used on the matchstick ignites on being
+rubbed against a special surface (as it happens in safety matches) and holds the
+flame for a time that would be needed to light a kerosene wick stove or a cigarette
+or other combustible substances. The wood used for the matchstick is chosen so
+as to be porous enough to absorb various chemicals, and rigid enough to withstand
+
+68
+

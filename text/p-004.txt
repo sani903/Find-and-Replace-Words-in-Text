@@ -1,0 +1,38 @@
+Preface
+
+ 
+
+Abbreviations
+amp Ampere
+atm Atmosphere
+AP Ammonium perchlorate
+CTPB Carboxy terminated polybutadiene
+er Equivalence ratio
+g/nm? Grams per normal cubic meter
+g/MJ Grams per Megadoule
+HMX  Cyclotetramethylene tetranitramine
+HSD High speed diesel
+HTPB Hydroxy terminated polybutadiene
+kg Kilogram
+kEWth Kilowatt thermal
+kEWe Kilowatt electric
+LDO Light diesel oil
+LPG Liquified petroleum gas
+NC Nitrocellulose
+MPa Mega Pascals
+mm Millimeter
+ms Milliseconds
+m/s Meters per second
+rpm Revolutions per minute
+NG Nitroglycerine
+ppm Parts per million
+PS Polystyrene
+PVC Polyvinyl chloride
+RDX  Cyclotrimethylene trinitramine
+TNT Trinitrotolulene
+UHC  Unburnt hydrocarbons
+
+ 
+
+iv
+

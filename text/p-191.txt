@@ -1,0 +1,75 @@
+Propagating flame, 51
+Propane, 7
+
+Pyrogen igniter, 71
+Pyrolysis, 140
+
+Quench distance, 62
+Quenching, 61
+
+RDX, 164
+
+Reaction rate, 45
+Reciprocating engines, 138
+Red Phosphorous, 68
+Regression rate, 101
+Reynolds number, 100
+RFNA, 10
+
+Smoke from stoves, 120
+
+Solid fuels and gas turbines, 138
+Solid particulate matter, 148
+Solid propellant, 104
+
+Soot, 104, 152
+
+Sooting in stoves, 120
+
+Spark ignition, 9
+
+Spark ignition engines, 69
+Specific heats, 26
+
+Stability, 105
+
+Stability of a candle flame, 80
+Stirred reactor stability, 78
+Stoichiometric ratio, 20, 22
+Stoichiometry, 17, 43
+
+Stoves, 117
+
+Structure of explosives, 167
+Sulphur dioxide, 157
+
+Sulphur oxides, 150
+Sulphuric acid, 151
+
+Swirl combustion chamber, 126
+Swirl combustion devices, 125
+
+The IISc design, 143
+
+TNT, 165
+
+Transfer number, 98, 108
+Trinitrotoulene, 166
+Turbulent diffusion flame, 88
+Turbulent premixed flames, 56
+
+Index
+
+Unburnt hydrocarbons, 148, 152, 158
+Universal gas constant, 25
+Updraft gasifier, 141
+
+Warheads, 167
+
+White phosphorous, 68
+Wood, 38
+
+Wood stove, 119
+
+183
+

@@ -1,0 +1,44 @@
+6.3 Overview
+
+An approximate expression for the ratio of diffusivities is quoted as 0.01 Re and
+SO
+S1/Su = di /d; = \/(0.01Re) = 0.1Re'/? (6.8)
+
+Thus, at high Reynolds number (~ 10%), the turbulent flame can be ten times as
+thick and propagate ten times as fast as a laminar flame. While these overall re-
+sults are quite in agreement with experimental observations, the foundations are
+by no means sound. For instance, it is not clear why the reaction rates in turbulent
+range should be the same as for laminar range. This is an area of current research
+where theoretical description is refined to predict details of flame structure in ad-
+dition to overall results.
+
+Laminar flames are often understood to be only of theoretical importance and
+that turbulent flames that are of practical relevance. This is not true. Laminar
+flames are also of practical importance. Solid propellant combustion processes occur
+at length scales of a ten to hundred microns with gas efflux velocities of a few m/s.
+With viscosity being high due to high temperatures (of 1000 to 2000 K), the effective
+Reynolds number of the flow is 10 to 100. The flows coming out of the propellant
+surface would be unsteady, but laminar. Flame quenching (see the next chapter)
+is a process that occurs at dimensions and velocities that are in the laminar flow
+regime. A new subject called micro-combustion process being evolved now occurs in
+the laminar flow regime.
+
+6.3 Overview
+
+This chapter has dealt with laminar flames. Flames propagating at constant speed
+can be treated as stationary by reversing the inflow at the speed required to main-
+tain the steady behavior. The speed at which the unburnt mixture approaches the
+steady flame is termed the burning velocity and it characterises the chemical reac-
+tivity of the mixture. The propagation speeds are weakly dependent on the pres-
+sure, but strongly on the initial temperature of the mixture. Reducing the dilution
+increases the propagation speed. Premixed combustion process behavior dominates
+the combustion of double-base propellants at all pressures and composite propel-
+lants at low pressure. The specific qualification in terms of pressure arises from
+the consideration that the propellant ingredients are in a molecularly mixed state
+in double base propellants and the length scales of combustion at low pressure are
+large compared to the particle sizes in a composite propellant. Turbulent flames
+burning in some regimes can be treated as wrinkled laminar flames. In fine scale
+highly-turbulent combustion, turbulence interacts deeply with reaction process.
+
+57
+

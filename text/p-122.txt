@@ -1,0 +1,50 @@
+12 Combustion in Rocket Motors
+
+— A,
+uU — >>1
+— A. A A
+
+ 
+
+(a)
+
+|
+|e
+>
+>
+>>
+[12
+
+ 
+
+IN
+—
+
+>|»
+
+ 
+
+ 
+
+Figure 12.4: Shapes of Liquid Rocket Engine Combustion Chambers
+
+Well then, how does one overcome instability? What one needs to do is to ar-
+range for the acoustic oscillations and energy release oscillations to be out of phase.
+One way of achieving this is to distribute the energy release over a wider region
+physically — not make it too concentrated. This will cause the energy to be put into
+other regions of the oscillating wavesuch that the amplification factor due to in-
+phase energy addition decreases. The injector holes are made little larger, pressure
+drop is reduced so that the drop size distribution is made more coarse, and thus
+combustion energy release is made broader. This method is adopted for overcoming
+the oscillations in a few cases. Another method used raises the natural frequency
+of excitable oscillations. For this purpose the injector is provided with radial and/or
+circular baffles (see Fig. 12.5). Acoustic cavities are also provided so that the reso-
+nant frequency oscillations of the chamber are absorbed and instability is avoided.
+The last two techniques are used in many American liquid engines.
+
+These methods are proved to work well by testing by what are known as bomb-
+ing techniques. When the engine is running normally, a small bomb is exploded
+into the chamber so that a small pressure spike is caused. Resulting pressure oscil-
+
+114
+

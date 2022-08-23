@@ -1,0 +1,63 @@
+14.1 Fire spread rates on thin and thick sheets
+
+This equation indicates that as the thickness of the sheet increases the propagation
+speed decreases. This has been found experimentally valid. It also shows that the
+flame propagation speed is independent of the wind speed. This is because the
+thickness over which conduction takes place from flame and along the sheet are
+taken to be of the same scale. A more rigorous analysis indicates this to be correct.
+
+As an example, consider the combustion rate of a thin paper kept horizontally.
+Typically, for bond paper and its combustion, we can set 7y=1800 K, 7p=300 K, T;,
+= 600 K, t= 0.001 m. Introducing these into the expressiona above, we get V; =
+21 m/h (~ 6 mm/s). The experimentally measured value is 18 m/h (you can do it
+yourself at your home and find the value to be around this).
+
+If fire spreading is occurring over a thick sheet, then the heat does not penetrate
+all the thickness and it is not correct to assume that temperature is uniform across
+the whole section. The extent of penetration of the heat wave can be estimated from
+
+ty, =v 20st,
+
+where oy is the thermal diffusivity of the solid and ¢ is the time where t = Az /V, =
+kq/pgcpVs. Substituting the value of ¢), in eqn. (14.2) we get
+
+Vs = Vy (TT)? ((Ty - To) /(T, - T,))?, (14.3)
+
+where I'y = pycpky, I's = ppcpks. These are called thermal responsivity or thermal
+inertia of the gas and the solid fuel.
+
+Thus in the case of a thick fuel; the propagation speed is proportional to wind
+speed and does not depend on the thickness. This result is also confirmed by exper-
+iments. The dependence on pressure appears largely through the term p, in re, a
+result again supported by experiments.
+
+The result obtained earlier can be used for estimating the rate of spread of the
+flame down thick sheets as may happen in a situation of fire. The velocity V;,, which
+would be a known velocity in case of wind flowing past, is now identified as free
+convective driven velocity and is obtained as follows.
+
+The balance between convective term and the body-force related acceleration
+due to free convection gives
+
+— Tr — Ti
+V2j2=LgP> pry, 0)
+
+(14.4)
+Pfoo To
+
+where L =the characteristic distance producing free convection. This is identified
+as L = ky/pycpgVa and it leads to
+
+(Ty — To)
+
+ky (Tr —T)
+V3 =2 9g f o
+J To
+
+a (14.5)
+PgCp To
+
+= 2a,9
+
+135
+

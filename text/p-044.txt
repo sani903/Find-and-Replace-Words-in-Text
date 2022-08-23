@@ -1,0 +1,50 @@
+4 How Much Heat? How High a Temperature?
+
+Heat of combustion = 242 kJ. This heat is absorbed by the products as
+
+(hs, 1,0(Ts) — his, 1,0(298.16)] + (1/2) [hs,0, (Ty) — hs,0,(298.16)]
++3.76[hs nv, (Ty) — hsv, (298.16)] = 242.0 k.J
+
+If we take an approximate constant value for ¢, in a temperature range of 1000—
+2000 K as 45, 32 and 34 kJ/mole K for HO, O2 and H, respectively, we can write
+the above equation as
+
+(45 + (1/2) x 32 + 3.76 x 34) (Tf — 298.16) = 242.0 k.J
+Tj — 298.16 = (242.0 x 10%)/189.0 = 1250 K
+
+Therefore 7; = 1548 K. This value is about as accurate as can be obtained from
+detailed calculations. If there were no nitrogen in the initial mixture, one would
+get
+
+(40 + 1/2 x 40)(Tf — 298.16) = 242.0 k.J
+Ty — 298.16 = 242000/60 = 4330 K, Ty ~ 4630 K.
+
+At this temperature, the product H>O will not remain undissociated. Therefore a
+fair amount of एंथलपी will be absorbed in dissociation. The products contain H5O,
+Oo, OH, O, H, etc. and the process of creating the elements and radicals makes
+lesser amount of एंथलपी available for raising the temperature. This makes the
+temperature to be about 2600 K or so.
+
+One can make detailed calculations (given the initial data) using the NASA
+programme referred to earlier. This programme is so powerful that in most cases
+one can obtain a result in less than a few seconds of computational time on any
+modern personal computer.
+
+Till now, discussions were concentrated on reactions at constant pressure be-
+cause in several practical situations like in rocket engines or diesel combustion,
+combustion occurs at constant pressure. There may be situations where combustion
+occurs at constant volume. In such cases the quantity to be used for minimization
+is Helmholtz free energy function = e¢ — T's. Using the procedure already illus-
+trated, but replacing Gibbs free energy function by Helmholtz free energy function,
+one obtains the composition and flame temperature. at constant volume conditions.
+Generally, these values will be larger than those corresponding to constant pres-
+sure by 100-200 K because there is no work output in a constant volume reaction.
+We shall take a look at some results.
+
+Table 4.7 shows the results of flame temperature and product composition for
+kerosene—air system for various air-to-fuel ratios. The स्टोइकोमेट्रिक ratio is about
+15. The flame temperature peaks around this value and drops on either side. The
+products at this condition contain about 1.2% (vol) of carbon monoxide. If we use
+
+36
+

@@ -1,0 +1,55 @@
+16.6 Overview
+
+Table 16.1: Pollutant control strategies for various combustion systems
+
+ 
+
+ 
+
+System CO SOx NOx UHC
+For coal For coal
+& liquid fuel & liquid fuel
+Incinerators Excess Switch to low Lean burn Excess air
+air S fuel, scrub mixing scheme ensure high
+with Reburn, EGR, temperature (T)
+limestone or React with
+
+Use Low S fuel Ammonia
+
+Industrial Excess Same as Same as -
+burners air above above
+Coal power - -
+stations -
+Spark-ignition use catalyst Catalyst, lean Catalyst, avoid
+engines avoid misfire burn, EGR misfire
+Diesel engines Good mixing Remove S from Good mixing Good mixing
+fine drops fuel fine droplets
+EGR
+Gas turbines Good mixing  - Lean burn Good mixing
+fine drops mixing strategy ensure high T
+
+ 
+
+16.6 Overview
+
+This chapter has considered the aspects related to gaseous emissions from combus-
+tion devices — why they are pollutants, how they are generated and how to reduce
+them. Excepting CO, which is a major product of combustion (constituting about
+15 % by volume of the products of combustion cooled to ambient conditions), most
+others are found at very low levels (parts per billion as in the case of dioxins, parts
+per million for nitric oxides, unburnt hydrocarbons and carbon monoxide). The aim
+is to reduce the total magnitude of emissions by consuming a smaller amount of fuel
+for the same job, be it a furnace or an engine and next, by reducing the pollutant
+per unit magnitude of the fuel. Both aspects are interesting, but the second one
+is more challenging. The pathways by which these small amounts of irritants are
+generated are subtly arranged by Nature and uncovering them is a fulfilling task —
+the formation of soot in these systems is a case in point.
+
+In many practical systems, turbulence in the flow becomes an important feature
+to be accounted for in the calculation of the emissions. In many systems, combining
+the chemical pathways with fluid flow provides ways of predicting the pollutants by
+computational procedures when such predictive procedures are combined with data
+from selected prototype systems.
+
+161
+

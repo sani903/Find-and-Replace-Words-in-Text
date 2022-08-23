@@ -1,0 +1,49 @@
+9.1 Stability of a Bunsen Flame
+
+In the fourth example drawn from what is known as the after-burner of an air-
+craft engine, one has a relatively high speed stream flowing through a straight duct.
+The gases flowing through the duct come from main combustion chamber and these
+are quite oxidizer rich—with almost 70-80 % of the capacity of air to oxidize (16—
+18 % oxygen as compared to 23 % oxygen in air) and at temperatures ~600-700
+K. Into this stream is supplied a fine spray of kerosene at various locations. The
+kerosene in fact may be sprayed upstream so that the mixing is good. At short dis-
+tance downstream, the mixture becomes homogeneous with fine droplets in a hot
+stream. Baffles of cylindrical or other shapes are provided in the duct to help hold
+the flame in these locations. For this reason these are called flame holders. Down-
+stream, the flame expands around each of these holders and the entire burnt gases
+mix before approaching the nozzle. Sometimes, if the speed of the stream is higher
+or the pressure lower, the flame may not be capable of being held. In this case, no
+combustion takes place in the chamber. The flame is then said to have been blown
+off. We need to investigate what conditions cause blow-off and so help design a new
+system where blow-off does not occur.
+
+We shall revert to the first question on stability now.
+
+Consider the Bunsen burner with the air valve open. This implies that what
+flows through the tube is a premixed gas of fuel and air. At one condition of the flow
+rate one obtains a conical flame. Any reduction in flow rate will reduce the height of
+the conical flame. This reduction in height will continue with reduction in flow rate
+to such an extent that below some flow rate the flame will simply move through the
+tube downward and burn up all that is in the tube. Then the flame will extinguish.
+If on the other hand the flow through the tube is continuously increased, the flame
+will move beyond the edge of the burner and the difference in height is called lift
+height. At one stage the flame will simply blow-off.
+
+This implies that beyond some flow rates the flame blows off; below some flow
+rates it flashes back; and in a region in between, the flame is stable.
+
+9.1 Stability of a Bunsen Flame
+
+The velocity profiles at the burner exit for different flow rates are shown in Fig. 9.2 (a).
+As can be seen, the profile is parabolic (for laminar flow conditions—relevant here)
+and is deeper as flow rate increases. The region near the rim is shown in an en-
+larged manner in Fig. 9.2 (b). The flame speed is nearly constant in the middle
+portion of the tube and reduces to zero near the rim because of heat loss (and
+quenching). The lines A, B, C refer to velocity profiles at different flow rates. The
+coordinate y is along a radial line normal to the wall and u is the stream velocity at
+any y. At normal flow rates (A) the two curves (A) and (S,) intersect. At large flow
+rate (B) the slope of the u vs y curve is steeper than the S, vs. y curve. At very low
+flow rates (C), the slope of u vs y is smaller than S,, vs. y near the wall. It is only in
+
+75
+

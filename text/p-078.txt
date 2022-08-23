@@ -1,0 +1,47 @@
+8 Ignition
+
+fast. The typical time available for combustion in an engine running at say
+1500 rpm, is about 2—4 ms. This requires the droplet to be very fine—which
+indeed it is. The other condition is for environmental condition to permit igni-
+tion in the time scale of the kind indicated.
+
+8.4 Ignition in Rocket Engines
+
+It has already been indicated that there exists combination of liquid fuels and ox-
+idizers which on mixing will react and burst into flame. These are the hypergolic
+combinations. When the liquids are mixed, the liquid phase reactions (between
+UDMH and NO, or NoH, and RFNA, for example) at the interface between the
+liquids is such that very reactive species are produced which enter the gas phase
+and react exothermically leading to high temperature flame. While this feature
+is true in most combustion reactions, the essential point concerns the rate of re-
+actions. The rate of reactions here is so large that the time between mixing and
+occurance of a gaseous flame is as small as 3-10 ms. This duration between start
+of mixing to burst of flame is called the ignition delay. Thus, even at extremely low
+pressures, when the gas phase reactions can be expected to be slow, the reactions
+are completed in as small a time as 20-30 ms and ignition is indeed smooth. It is
+for this reason that most rocket engines that need high reliability like the lunar
+module engine, for instance, use only hypergolic combinations.
+
+There are rocket engines based on liquid oxygen-liquid hydrogen (LOX-LH>)
+mixtures. These engines use igniters which by themselves are small rockets ignited
+by spark. Figure 8.1 shows schematically the arrangement for such an engine.
+Similar arrangements need to be made for LOX-kerosene engine. Such engines
+can also be made restartable if needed.
+
+8.5 Ignition for Solid Rocket Engines
+
+In solid rocket engines there is a solid propellant (configured geometrically prop-
+erly) which needs to be ignited. Figure 8.2 shows two arrangements of propellant
+and ignition scheme.
+
+In relatively small rockets, ignition is caused by an igniter charge which consists
+of pellets of appropriate composition—similar to the main propellant, but with more
+metal loading. A typical composition may be like 50 % ammonium perchorate (AP),
+35 % boron or titanium and 15 % polymer. The ignition is usually electrical—a fine
+wire coated with a heat sensitive explosive such as lead azide or mercuric fulminate
+causes ignition when an electrical current, typically 0.75-1 amp is passed through
+the wire. The heat sensitive material explodes and this causes the main charge to
+burn fast (in about 10-30 ms). The products are gases and hot metal and metal
+
+70
+

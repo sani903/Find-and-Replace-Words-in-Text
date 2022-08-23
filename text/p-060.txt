@@ -1,0 +1,67 @@
+6 Premixed Flames
+
+ 
+
+ 
+
+ 
+
+LASS
+) ~» FUEL + an RE
+' \__ PREMIXED PROPAGATING FLAME
+SPARKING
+ELECTRODE
+
+(a) Propagating Flame Apparatus
+
+ONE DIMENSIONAL
+
+ 
+
+ 
+
+ 
+   
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLAME
+pi FLOW
+~~ STRAIGHTENERS
+MIXER «PURGE (N, GAS)
+ROTAMETERS PEBBLES
+
+FUEL OXIDANT
+
+ 
+
+re
+
+ 
+
+(b) One dimensional Flame Apparatus
+
+ 
+
+HOLE ——
+FOR
+
+AIR
+
+ 
+
+ 
+
+Figure 6.1: Premixed flame apparatus
+
+52
+

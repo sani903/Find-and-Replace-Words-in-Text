@@ -1,0 +1,53 @@
+10 Diffusion Flames
+
+FLAME \\
+
+FREE CONVECTIVE COMBUSTION
+OF HORIZONTAL PLATE BURNING
+BOUNDARY AT BOTTOM
+LAYER
+
+FREE CONVECTIVE FLOW —
+
+ON VERTICAL PLATE
+
+ 
+
+ 
+
+STAGNATION POINT
+FLOW COMBUSTION
+
+Figure 10.4: Free convective and forced convective combustion modes
+
+temperature difference between flame and surface. This gives
+
+oo _hg(Ty Ts) phy
+ppl = 1 = 7 =B c (10.27)
+
+where B = ¢,(Ty — T)/L represents the transfer number discussed earlier. The
+heat transfer coefficient is expressed in terms of a non-dimensional number called
+Nusselt number defined by h, = Nuk,/x, where x is the characteristic length scale.
+In the case of a flat plate, vertical or horizontal, it implies the distance from the
+leading edge. In the case of a cylinder or sphere, it could refer to its diameter. Thus,
+
+k
+pi = B —L Nu (10.28)
+xcy
+In order to account for the blocking effect, the Nusselt number is first evaluated
+
+without blocking effect and then corrected for this effect through the ratio (Nu/Nuy).
+We therefore get
+
+Non-dimensionalizing both sides by dividing by (pV), the free stream mass flux,
+we get
+
+ 
+
+Ppl ky Ig Nu
+(PV )oo epltg PV oor Nug
+— B (PrRe) 'Nuy—" (10.30)
+- O Nug ’
+
+98
+

@@ -1,0 +1,32 @@
+3 Chemistry and Stoichiometry
+
+of receiving electrons, oxygen next, chlorine, bromine and iodine follow. In the fuel
+range, we have carbon, hydrogen, aluminum, magnesium, lithium, , , , , iodine,
+and potassium. Thus in a compound like F503, fluorine has the oxidising capability
+and oxygen acts as a fuel. Since fluorine is a very powerful oxidizer, it would re-
+act quickly and form stable products. Nature therefore is bestowed with relatively
+small amounts of fluorine. Oxygen, then remains the next most abundant and pow-
+erful oxidizer. The power is reduced only by dilution with inert substance namely,
+nitrogen. On the fuel side, the more reactive of the fuels are sodium and potassium.
+Given a certain amount of oxygen, in an environment of mixture of fuel elements
+like C, H, Al, or Na, it is the metal elements which get oxidized largely, then hy-
+drogen and carbon elements. The most common fuels are based on hydrocarbons.
+But metals are used as well to meet the requirements in special cases like in rocket
+engines.
+
+3.2 Overview
+
+In this chapter we have seen some elementary, but important aspects of combustion
+namely stoichiometry. We have also seen what fuels and oxidizers are and why
+they are so. Fuels are donors of electrons and oxidizers are acceptors of electrons.
+The most powerful oxidizer is fluorine; metals are very reactive fuels (though this
+quality alone does not make them most eminent all the time). Stoichiometric ratio
+refers to the amount of oxidizer required to completely oxidize the fuel to stable
+products of combustion at ambient (or more correctly standard) conditions.
+
+We shall now see what happens when reactions like the above take place. You
+may have already concluded that heat is evolved during the reaction—how much
+heat and what happens to this heat and how high the gas temperature rises?
+
+22
+

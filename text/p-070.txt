@@ -1,0 +1,63 @@
+7 Inflammability, Quenching
+
+Table 7.2: Quench distance (d,) of some gases
+
+ 
+
+ 
+
+Mixture Stoichiometry Minimum
+
+mm mm
+Hydrogen-—air 0.5 0.50
+Hydrogen—oxygen 0.2 0.18
+Methane-air 2.5 2.00
+Ethane-air 2.3 1.80
+Butane-air 3.4 1.80
+Acetylene-air 0.8 0.70
+Methyl alcohol-air 1.8 1.50
+Carbon monoxide—air 2.8 2.50
+
+ 
+
+nn
+
+If we further note that uw}'d; = (k/c,), we get
+
+ 
+
+d; =8 Cd; or dy = V8 Cdy (7.3)
+Alternately, one can state
+Const
+= 7.4
+dy Pu Su 74
+
+Experimental measurements seem to confirm the above relationship between
+quench distance and flame speed. The proportionality constant, C, varies between
+10 and 30. The dependence of quench distance on pressure and initial temperature
+is essentially through the laminar flame thickness of flame speed. This implies
+
+dg ~ pp"? and dg ~ e~F/2RTy (7.5)
+
+Typically, n ~ 2 and so d; ~ 1/p. The dependence on initial temperature is felt
+through its effect on the flame temperature. Typical values of quench distance for
+some gases are shown in Table 7.2.
+
+One can notice from Table 7.2 that the lowest quench distance is as low as 0.2
+mm. Thus it is difficult to prevent Ho—O, flame from moving across any barrier in
+ducts.
+
+What do we use the information on inflammability limits and quenching dis-
+tances for?
+
+The information on inflammability limits is useful for causing ignition as well
+as preventing fires. If a fuel-oxidant mixture needs to be ignited, it must lie within
+the limits of flammability. Thus, one simple check to determine if a mixture is ig-
+nitable is to examine the limits of flammability. There are occasions where one does
+not want a mixture to ignite. One practical instance is as follows. Most submarines
+have a device to surface fast from depths in case of an emergency. Typically, the
+time to surface from 200 m depth may be about 20-30 s. For doing this, its interior
+regions filled with water are expelled by a gas generator based on hydrazine which
+
+62
+

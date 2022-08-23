@@ -1,0 +1,49 @@
+12.2 Liquid Rocket Engines
+
+One notices from Fig. 12.4 that the ratio A./A; is lower as one moves from case
+(a) to case (c). It is known from gas dynamics that as long as the chamber pressure
+is larger than about twice the ambient pressure, the velocity at the throat is equal
+to the speed of sound at the local temperature (which is about 900-1000 m/s cor-
+responding to throat temperature of 2700-3000 K). The speeds of fluid flow in the
+combustion chamber will be larger as we move from case (a) to case (c) since the
+combustion chamber cross section becomes comparable to throat area. The higher
+speeds cause larger heat transfer to the walls and also increase the possibility of
+combustion instability.
+
+‘Combustion instability’ refers to high frequency oscillations of the chamber
+pressure around the steady pressure resulting in extraordinary heat transfer to
+specific locations of the chamber a burn-through occurs almost always. This is a
+result of the coupling between the fluid flow and acoustic oscillations. The acoustic
+oscillations, which are always present in any chamber, interact with the fluid flow
+and the heat generation mechanisms. The acoustic oscillations are accompanied by
+those of the heat generation as well. If these oscillations are in phase, then one gets
+amplification of the wave and quite often a detonation wave results. The travelling
+detonation wave causes a large rise in local heat flux to the engine walls and hence
+the burn-through.
+
+The frequency of oscillations (w) can be obtained from an analysis of the acous-
+tics in a given geometry. This leads to w = const (a/d.) where a is the local acoustic
+speed and d. is the chamber diameter. The ratio a/d. is the inverse of acoustic
+travel time and hence represents the acoustic frequency. At d. = 0.2 m (for 30-50
+kN thrust engines), w = 3.0 kHz and for d. = 0.5 m (for 500-700 kN thrust engines),
+w= 1.2 kHz (constant~ 0.6, a = 1000 m/s).
+
+Since acoustic energy varies as (frequency)?, it is more difficult to excite high
+frequencies since the energy required is large. Thus smaller thrust engines (us-
+ing smaller combustion chamber diameter) are less prone to instability than higher
+thrust engines. In fact, engines of 500-700 kN thrust almost always are beset with
+the deadly high frequency instability problem. One of the best known examples of
+this kind, namely, high frequency instability affecting the performance of the en-
+gine, in recent times, is the ARIANE launch vehicle programme of European Space
+Agency. The first stage uses engines called VIKING built by French agency pro-
+duced 700 kN vacuum thrust and had frequent occurrence of instability during its
+development. Though the team of designers was aware of the problems of instabil-
+ity when it first struck terror during the development of ATLAS engine in USA in
+the sixties, the implementation on Viking engine was made in the flight programme
+without specifically overcoming the problem in a clean manner. Alas! the second
+flight of the vehicle was struck by instability in one of the engines and the vehi-
+cle ended up in sea a short while after take-off. Hectic research and development
+efforts to overcome it have made it somewhat safe though not completely so.
+
+113
+

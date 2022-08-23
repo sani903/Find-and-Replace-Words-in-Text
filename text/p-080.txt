@@ -1,0 +1,22 @@
+8 Ignition
+
+ratio, etc. Ignition in liquids is affected by the fire point of the liquid fuel, apart
+from the ambient pressure and initial temperature. Ignition in gasoline engines
+is spark-initiated and that in diesel engines compression-initiated. The combined
+action of high temperature and pressure towards the end of the compression stroke
+causes ignition of the tiny liquid droplets Injected before the end of the compression
+stroke.
+
+In rocket engines, hypergolic combinations for liquid engines eliminate the need
+for separate ignition system. In other engines using non-self-igniting propellants,
+an ignition system is called for. These are usually based on the same propellant
+and ignition is caused in smaller chambers with spark initiation. The hot gases
+then become pilot flame for the main engine ignition.
+
+In solid rocket engines, the igniter serves the purpose of building pressure inside
+the combustion chamber and also produces hot particles of metal or metal oxides
+which impinge on the solid propellant and create many ignition sources for the
+entire propellant to ignite in a small time.
+
+72
+

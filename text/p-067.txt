@@ -1,0 +1,40 @@
+7 Inflammability, Quenching
+
+Suppose you had to light an LPG gas stove manually. You would possibly use a
+mechanical spark igniter. You would open the valve on the front and cause the
+spark a few seconds later. Unless you time the spark properly, the gas would not
+ignite. You do it a few times at various locations around the gas exit region. At
+one moment you may find that the entire gas mixture ignites. Also, if you open
+the valve and start the sparking operation too late near the gas exit region, you
+would not achieve any success. What is it that is happening? The gas will ignite
+and flame will stabilize provided the mixture is neither too rich nor too lean in the
+spark region. If you sparked too early (after you complete the operation of opening
+the valve) the gas would not have arrived at the spark region after mixing with air
+and so the mixture will possibly be too lean to ignite. If you sparked too late, the
+mixture of fuel and air issuing out of the gas outlet would possibly be too fuel-rich
+and so it would not ignite at all.
+
+To give another example, if the valve of a gas stove or gas cylinder is inadver-
+tently left open (or leaks), gas accumulation takes place in a confined area. Some-
+where around the viscinity there is a naked flame. A short while after leakage
+is noticed, and before any corrective action can be taken, the whole gas is up in
+flames. In this situation the leaked gas would be mixing with air and the mixture
+which would be moving around possibly due to ambient wind encounters an excel-
+lent ignition source and the gas (in the appropriate mixture ratio range) ignites.
+
+In both these cases, the essential feature is that the gas mixture is inflammable
+only over a limited range of mixture ratios. Inflammability limits are the range of
+fuel-oxidant mixture ratios within which a flame can propagate and beyond which
+flame cannot propagate. It is experimentally measured by a rather simple appara-
+tus. A long tube (10-12 times the diameter in length) typically of 40—60 mm diame-
+ter (diameter cannot be too small) is filled with a mixture of chosen mixture ratio. It
+is sparked at the top, middle, or bottom. If the flame propagates, then the mixture
+ratio is moved further to lean or rich side. That mixture ratio at which flame hes-
+itates to propagate (or does not just propagate) is the inflammability limit. There
+are slight differences between results of upward and downward flame propagation.
+But we will not consider these.
+
+For instance, consider the results of methane—air mixture as shown in Fig. 6.2.
+
+59
+

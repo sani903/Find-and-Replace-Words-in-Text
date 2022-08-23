@@ -1,0 +1,53 @@
+10 Diffusion Flames
+
+flame will sustain the heat transfer to the liquid surface enabling its vaporization
+before reacting with the oxidant at the flame.
+
+One can obtain from the solution procedure, Ty = HY} /sc, + To.
+
+In the above expression, s is the स्टोइकोमेट्रिक ratio (same as 1/f;) and other
+terms have the same meaning as in the previous case. If we now take similar
+numbers but include a few more needed for combustion, 7), = 800 K, T; = 300 K, k,
+=0.03 W/mK, c, = 1.2 kJ/kgK, p; = 800 kg/m3, H=42 M J/kg, s = 3.5, Yoo = 0.232,
+L = 300 kJ/kg (typical values for kerosene drop burning in air), r,o = 1 mm, we get
+tet, = 2.7.
+
+One can see that the time for combustion is much smaller than that for vapori-
+sation and this is dominantly affected by the transfer number and mean transport
+property effects.
+
+There is a minor point concerning the above results. In the case of combustion
+or vaporisation at high ambient temperatures, the liquid temperature will increase
+from ambient to a value close to the boiling point. This heat is to be included in the
+denominator of the expression for B. by replacing L with (L + mc, (dTs/dt)/m)
+
+The second term approaches zero within a short time during droplet burning.
+
+One can now ask what are the influences of free and forced convection on mass
+burn rate. One bases the answers on semi-empirical approaches as of now, since
+the problem will be two-dimensional (unlike spherical symmetry leading to one-
+dimension) and the soultion quite involved.
+
+Studies indicate that
+M free con / Mog = (1 + 0.2B;%41Gr03) (10.20)
+
+where
+Gr = Grashof number = 82, g(T} — Tp) /v*T, (10.21)
+is the ratio of gravitational to viscous forces.
+
+The extent of increase in the mass burn rate because of free convection can be as
+large as 20-40% compared to those under zero-g conditions, depending on the initial
+drop radius. This is the value of burn rate observed if one conducts experiments on
+droplets in a laboratory without any special equipment for zero-g application.
+
+In the case of forced convection (laminar)
+Th forced con 0g = (1+ 0.3Pr'/3 Rel/?) (10.22)
+
+where Re = 2p,Vrs,/ 114 is the Reynolds number.
+
+Whenever forced convection dominates the flow, Reynolds number becomes the
+parameter characterizing the flow features and it will appear as a principal variable
+(more like Re'/? for laminar flows).
+
+94
+

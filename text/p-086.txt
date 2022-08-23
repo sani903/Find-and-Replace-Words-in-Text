@@ -1,0 +1,49 @@
+9 Stability, Extinction and Blow-Off of Flames
+
+from Tj to Ty. The steady heat balance gives
+mep(Ty — To) = wi vH 9.1)
+
+where v is the volume of the reactor, c, = specific heat of the gases. One way of
+representing the overall reaction rate is as follows:
+
+wy = Age B/2RTy (Tyo _ Ty)" f(A/F)p" 9.2)
+
+Here Ay is the frequency factor, p" represents pressure term, n being the reaction
+order (~ 1.8-2.4), the exponential term due to activation energy. (Ty, — Ty) is repre-
+sentative of the mass fraction of fuel/oxidant and A/F is the air-to-fuel ratio. Since
+we are representing the reaction rate by an overall rate, the only way of accommo-
+dating the different air-to-fuel ratios of gaseous mixtures is to treat it by an overall
+function as represented above. When the temperature reaches the adiabatic tem-
+perature T's, both the reactants are completely consumed and their mass fraction
+is zero (even if one reactant goes to zero as may happen when the mixture is fuel or
+oxidizer rich, the recation rate goes to 0). m = 1 for effectively uni-molecular and m
+= 2 for bimolecular class of reactions. Thus
+
+tey(Ty — To) = Appte EPRI (Thy — Tp) f(A) F)vH (9.3)
+
+T; is a result of the heat balance noted above. We denote the left-hand side of
+the equation by LHS and the right-hand side, by RHS. We can plot both LHS and
+RHS as functions of 7 in a graph as in Fig. 9.5. The LHS plots as a straight
+line and it can be taken to represent rate of heat removal with several straight
+lines corresponding to different values of /n. RHS is a curve which is close to the
+temperature axis at the left side and goes to zero at adiabatic temperature 7’.
+RHS represents heat generation rate. The straight lines representing the heat
+removal rate intersect the heatv release rate curve at points that can be identified
+as the points of solution of eqn. (9.3). The points of intersection can be one, two
+or three. If one takes the line DA’, the solution occursat D only. This represents
+cold flow. This is the case of extinction. It occurs because the heat generation rate
+is so small that this can be dissipated at near ambient temperature. The limiting
+line DA has two solutions — one at D and another at A. The solution at A has
+flame. If we decrease rin we get a solution at points D, B, and C. The solution at
+B at an intermediate temperature can be argued to be unstable. Suppose by some
+mechanism, one disturbs the system by raising the temperature beyond B. Notice
+then that the heat generation rate is more than the heat carried away by gases
+[rep (Ty — To). This causes further increase in temperature and it goes on till point
+C is reached. If at C one raises the temperature, the heat taken away is more
+than heat generated and temperature falls back to C. And if at B one disturbs the
+temperature toward the lower side, then the additional heat carried away becomes
+more than the heat generated and temperature falls till point D is reached. Again,
+similar argument shows that A is a stable operating point. If we reduce the flow
+
+78
+

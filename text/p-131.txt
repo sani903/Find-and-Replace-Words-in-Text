@@ -1,0 +1,82 @@
+13.1 The Devices
+
+Flame
+
+iN
+=
+
+ 
+
+000O0OO0OO0OO
+
+Producer gas
+
+Receding char front
+
+ 
+
+ 
+
+Pyrolysis
+Front
+
+Biomass
+
+Combustion Air
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 13.3: A fire and forget gasification stove for a fixed amount of solid fuels - biomass
+or coal
+
+value (2.2 to 2.3 kWth). In contrast, the problem of smoking discussed earlier
+is important (for wood stove) at lower power levels, typically one quarter of
+nominal power (0.5 kWth). Thus the range of operation of a stove is 0.5-2.2
+kWth bounded by smoking and sooting tendencies respectively. This range is
+expressed by the turn down ratio, it being the rate of peak-to-minimum power
+levels (4.4 in this case).
+
+One of the problems in designing fuel-wood stoves is that the feed stock does
+not have fixed geometric and physical properties. The same stove may burn at
+a time 10 logs of 10 mm dia at a time or 2 logs of 30 mm dia. In the latter case,
+the fuel flow rate is 40% lower. This gives less power. On the other hand, if
+one has packed 30 pieces of 5 mm dia during combustion, one would have 50 %
+higher power. When using a wood stove, the user cannot be expected to keep
+track of surface area permitted for combustion (!) and therefore, a minimum
+level of sooting and possibly smoking as well is to be expected. These issues
+are taken care in gasification-based stoves discussed subsequently.
+
+Let us look at the question of stability. Anybody who has worked with wood
+stoves would know that once in a while, a well-mixed non-sooty flame is ob-
+tained a little (or much) above the wood pieces, whereas over a large part of
+
+123
+

@@ -1,0 +1,49 @@
+equations are solved completely to obtain
+
+k _
+pp = i In(1 + B) (12.5)
+
+The average of the reaction rate is taken from the surface to infinity where the
+
+conditions are adiabatic. The behaviour of wy can be written as
+
+wy ~ Apple B/2RTs
+
+and
+
+k
+ppl =~ Ar In(1+ B) p"/? e EIR; (12.6)
+
+This shows that the burn rate increases with pressure like p*/2. For bimolecular
+
+collisions n ~ 2. But for overall reactions it varies as n ~ 1.6-2. Thus,
+poi = p(08-1.0)
+
+a result consistent with the experimental observations on double-base propellants.
+That the burn rate increases with pressure can be understood in one of the two
+equivalent ways. Increase in pressure brings the flame thickness down and, hence,
+enhances the heat transfer to the surface of the burning propellant, thus increasing
+the burning rate. Alternatively, increase in pressure implies increase in average
+density of molecules which need smaller physical distance for reactive collisions and
+hence flame is brought closer to the surface and results in increased heat transfer
+rate and increased burn rate.
+
+In the case of heterogeneous propellants like ammonium perchlorate (AP) based
+composite propellants, the solid particles of Ammonium are embedded in a matrix
+of binder and when the burning takes place, the flame structure is as shown in
+Fig. 12.2. There will be a diffusion flame between the oxidizer and binder at the
+interface. Above the oxidizer particle, there will be a premixed flame due to the
+fact that AP can self-deflagrate (monopropellant) at high pressures (above 19 atm).
+The diffusion flame has a typical temperature of ~ 2800 K and the premixed flame
+above the AP particle about 1400-1500 K. The products of these flames are locally
+either fuel-rich or oxidizer-rich. They mix above the surface and burn up gener-
+ating temperatures of 2800-3200 K depending on the propellant composition and
+pressure. An approximate but complex mathematical model for the burning of the
+propellant and the burn rate as a function of pressure, particle size and other com-
+positional variables has been worked out. This shows that as pressure increases,
+the diffusion flame effects dominate simply because the flame heights become com-
+parable to the particle size of the oxidizer. And in a diffusion flame, the burn rate
+depends little on pressure. Thus the combined effects of premixed flame dominance
+
+109
+

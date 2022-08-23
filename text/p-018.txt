@@ -1,0 +1,49 @@
+2 What Do We Burn and Why?
+
+The liquids mentioned under special fuels and oxidizers in Table 2.1 are used
+in rocket engines. Rocket engines are basically designed to work independently of
+the surrounding atmosphere so that they can go out of earth’s atmosphere and still
+function. They are non-air breathing engines. As such, one can look for several
+fuels and oxidizers. Since one has to carry the oxidizer also, one does not carry air
+because 77% (by volume) of it is nitrogen which is inert and its density is too low
+(about a thousandth of that of a liquid). One can, for instance, use liquified oxy-
+gen. Alternately there are several liquids which have excess oxygen, like nitric acid
+(HNOs3), red fuming nitric acid (RFNA) that has about 12-14% dissolved nitrogen
+tetroxide in it), nitrogen tetroxide (N,O,), which is liquid at near ambient condi-
+tions (nitrogen tetroxide should be kept below 21°C for it to be a liquid). Liquid
+oxygen (03) has a boiling point of —183°C' and is called a cryogenic oxidizer since
+its storage requires special design. Very good low temperature insulation should be
+used that should itself be chilled before liquid oxygen is stored.
+
+Several liquid fuels have been listed. Hydrazine (VN, H2) is an interesting liquid—
+it can decompose by itself exothermally at higher temperatures and release heat.
+If, for instance, an insulated tube is initially heated to 600°C and hydrazine is
+sprayed into it continuously, then hydrazine decomposes to ammonia, nitrogen and
+hydrogen and releases enough heat to maintain the temperature inside the tube for
+continuous decomposition. But this is not the way hydrazine is actually used since
+what is required is that the liquid must decompose even at ambient temperatures.
+For this purpose, exotic catalysts made of iridium and molybdenum in the form of
+small pellets packed into a cylindrical chamber are used. Hydrazine is then sprayed
+on to the catalyst bed. The catalysts decompose the liquid into gases almost instan-
+taneously. Liquids which exhibit such a property are called monopropellants. They
+are used in rockets attached to satellites for producing small force (or thrust as it is
+called) required for correction of attitude and position.
+
+The next important feature of liquid fuels is what is known as hypergolic igni-
+tion. To appreciate its meaning, two containers can be taken—one having a fuel like
+unsymmetrical dimethyl hydrazine, NoH>(C Hs); (not usually available in chem-
+istry laboratories, but in rocket laboratories) and the other, an oxidizer like red
+fuming nitric acid. A pipette and a glass dish are the other accessories needed. A
+small amount of fuel is first placed in the glass dish. Then a small amount of fum-
+ing nitric acid is pipetted (not by sucking, but by just dipping the pipette into the
+liquid, closing the top of pippette and lifting off the pipette) and dropped into the
+fuel. A bright flame erupts instantly. Such reaction between liquids in the liquid
+phase, releasing gaseous components which are so exothermically reactive that the
+entire combustion process occurs in less than ten to fifteen milli seconds (0.01-0.015
+s) is called hypergolic reaction. Combinations of liquid fuel and oxidizer with this
+property are called hypergolic combinations. An important advantage of such com-
+binations is that one can dispense with the igniter. Opening the valves in the fluid
+path in a rocket engine would automatically ensure ignition even in near vacuum
+
+10
+

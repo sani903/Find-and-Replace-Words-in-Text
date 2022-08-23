@@ -1,0 +1,57 @@
+17 Explosives — Solid and Liquid
+
+heat generated because of the auto-catalytic reactions cannot be dissipated into the
+surroundings at a rate matching its generation, and hence the temperature of the
+solid begins to rise. This leads to explosion. This phenomenon can be formulated
+as an unsteady conduction—reaction balance problem, with the initial conditions
+depending on the ambient temperature and boundary conditions depending on the
+heat lost into the atmosphere or to a set temperature at the outer surface. The solu-
+tion to the problem will describe the behaviour of the temperature profiles in time.
+For some sizes, ambient temperatures (= initial temperature) and reaction parame-
+ters (like the activation energy and frequency factor) of a particular solid, the peak
+temperature, which occurs at the centre of the solid, will rise exponentially; this is
+interpreted asan explosion. Stated this way, this problem is complicated to handle
+analytically. Instead, the problem can be posed differently. Consider the steady
+state problem and ask the question whether a steady solution to the problem exists
+or not. If it exists, then there will be no explosion. If no solution exists, then it is
+a case of explosion. This approach is simple and works very well. Frank Kamenet-
+skii, in his book Diffusion and Chemical Kinetics, has outlined the procedure and
+obtained results in delightfully simple and elegant manner for solids in plane two-
+dimensional, cylindrical and spherical configurations. The governing equation is
+
+2
+ee — nat = HA,Y,exp(—E/RT), (17.10)
+where VY, is the mass fraction of the reactant. The mass fraction can be related
+to temperature using the Schvab—Zeldovich formalism as Y, = (Ty — T)/(Ty — 1p),
+where Ty and 7 are the flame and ambient temperatures respectively. The pa-
+rameter n in the second term on the left-hand side is 0 for plane geometry, 1 for
+cylindrical geometry and 2 for spherical geometry. In the case of explosion, the
+deviation in temperature from the ambient value to that required to cause explo-
+sion will not be much and therefore, the amount of reactant which is consumed is
+small and hence Y, can be treated as 1 in the analysis. One can non-dimensionalize
+various terms in the equation by
+
+E (T-Tp) HAL? E
+_ ow Wt) oo ec ~ exp(—E/RT 17.11
+RT, To kTo RTp exp (= B/RTp), ( )
+
+ 
+
+§=x/Le, 0
+
+where L. is the size of the explosive and 7; represents both the initial and the
+boundary temperature. The normalised equation assuming small departures of T’
+from 7; can be written as
+
+d’0 nd
+
+— = ——=-0 0 17.12
+
+Eid exp(0) (17.12)
+The boundary conditions can be set for 6 as §(1) = 0. Symmetry condition gives 0 =
+
+0. First, let us consider the case n = 0 (plane case). The fact that the second order
+differential equation does not have any term explicitly in £ allows reduction of the
+
+174
+

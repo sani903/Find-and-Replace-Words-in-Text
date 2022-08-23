@@ -1,0 +1,48 @@
+16 Emissions from Combustion Systems
+
+EGR: The use of exhaust gas recirculation (EGR) reduces the flame temperature for
+both premixed and non-premixed flames. There are ways of arranging EGR in
+combustion chambers in which the oxidiser and fuel jets are introduced sepa-
+rately at high velocity (50 to 100 m/s) from a base so that the burnt gases are
+entrained into the fuel and oxidiser streams. This process allows the mixing
+to occur without reaction till a stage when the fuel and the oxidiser fractions
+have been brought down to low levels while the temperature has risen to about
+1200 K. In this condition the entire system works almost like a stirred reac-
+tor. This process reduces the peak temperature by about 100 to 150 K and
+helps reduce the emission of thermal NO,.
+
+Air preheat: Use of preheated air for the same flame temperature allows very lean
+operation and hence decrease in prompt NO generation.
+
+16.5.5 UHC
+
+Release of UHC from industrial burners is not a very serious issue because ample
+residence time can usually be given to the reactants inside the combustion cham-
+ber. Meeting the UHC emission standards for diesel engines calls for fine atom-
+ization of diesel and good mixing of it with air inside the cylinders. In the case of
+spark-ignition engines the emission standard is met by fitting a catalyst, generally
+a three-way catalyst, which achieves simultaneously the oxidation of UHC, CO and
+the reduction of NO. For this to be possible, the mixture has to be very close to sto-
+ichiometric condition, which motivates partly the use of complex electronic engine
+management control systems in modern cars.
+
+The exhaust is passed over a usually precious metal surface of platinum, nickel,
+rhodium, etc, that has a very high surface area. The action of the metal is to cat-
+alyze the particular reactions related to oxidation of UHC and CO and the reduction
+of NO to N», so that its rate is high even at low temperatures (~ 400-900 K). The
+mechanism of catalysis involves the diffusion of the reactants towards the surface,
+their adsorption by the metal surface, particularly in the active sites where the re-
+actants meet to form the product. This product is then desorbed back to the gas
+phase, to be removed by mass transfer (diffusion) into the bulk stream (adsorption
+means a chemical bonding between the reactant molecule and the atom (s) on the
+metal and desorption implies the breaking of this bond). The rate of the overall
+process depends on the nature of the catalyst, the temperature, and the fluxes of
+the gas inside the catalytic bed. Catalyst can degrade with time due to impurities
+and poisoning, particularly from sulphur compounds. Hence the fuel is processed
+to remove all the sulphur in catalyst-fitted cars.
+
+Table 16.1 sets out many of the above observations to enable a quick apprecia-
+tion.
+
+160
+

@@ -1,0 +1,40 @@
+4 How Much Heat? How High a
+Temperature?
+
+Heat is intrinsically self-evident quantity which is experienced when a warm object
+is touched, or say, when a person lights a fire in an open field in a cold climate for
+warmth. To develop from this qualitative understanding of heat a scheme by which
+quantities are measured, interrelated and predictions made requires the science of
+thermodynamics. We need the major results of thermodynamics for finding the the
+temperature and the composition of combustion products when fuel and oxidizer
+burn. This subject is called chemical thermodynamics to emphasize the presence of
+many species and their chemical interaction.
+
+Thermodynamics deals with quantities of state at equilibrium — temperature,
+internal energy, एंथलपी, entropy, availability and so on. In the true sense of its
+description it is only thermostatics that attempts to answer certain questions con-
+cerning transformations, but not the rate. The question of how fast heat is trans-
+ferred from one point to another or how fast reaction takes place is outside the
+purview of classical equilibrium thermodynamics (as it is called). One needs to
+study non-equilibrium thermodynamics for this purpose. We shall presently review
+the elements of thermodynamics for understanding the way flame temperature or
+other equilibrium properties are calculated.
+
+Firstly, what does the concept of equilibrium mean? It simply means that char-
+acterizable properties do not change over space or time. For this definition to be
+useful, the definition is modified to state that the properties do not change over ap-
+propriate scales of space and time. To appreciate what this means, let us consider
+an example.
+
+It is quite often stated that the temperature of the northern hemisphere is a few
+degrees more than that of the southern hemisphere, or that the peak temperature
+at Bangalore or any other city is 25°C. Surely temperature over as large an area
+as say, Bangalore is never the same. Even in a small area the temperature can
+vary by as much as several degrees. So all that this statement implies is that in all
+regions, which are shaded from sun, the measured temperature is about the same
+as that measured at a meteorological station. However, the temperature quoted at
+the airport for instance will be a few degrees different from that at the meteoro-
+logical station. Thus one can say ‘temperature’ of Bangalore is at equilibrium over
+
+23
+

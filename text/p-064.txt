@@ -1,0 +1,58 @@
+6 Premixed Flames
+
+ 
+
+ 
+
+ 
+
+ 
+
+1x10’
+H,-0,
+1x10°=
+HYDROCARBON-AIR
+HRR 1x10°[
+MW
+1x10°[
+1x10°
+" 1 1 |
+0 0.2 0.4 0.6 0.8 1.0
+T= (T-TJ(T-T.)
+
+Figure 6.4: Heat release rate vs. non-dimensional temperature
+
+ity at different points and the extent of influence of the fluctuations at one point
+in its neighbourhood. At any level of intensity, if the scale of turbulence is large,
+it is taken that the flame is simply contorted (or more generally called wrinkled)
+and this increases the consumption rate by increasing the surface area for combus-
+tion. Following this suggestion, the ratio of turbulent to laminar flame speed is
+written as Sp/S,=area of wrinkled surface/area of cross section The area ratio is
+
+calculated from geometrical considerations using some model descriptions and one
+obtains Area ratio = 1 + (y/@/2/S,). Thus one obtains
+
+Sp = Sy + Vu? (6.6)
+
+as a result for one extreme condition. In another extreme of small scale turbulence,
+the turbulence is expected to simply enhance the diffusivity of the fluid.
+
+Su = \/ ki" Je,
+
+St/S = v (k/ 0) Turtutent / (5p) Laminar
+
+If we note
+
+it is taken that
+
+ 
+
+It also implies that the ratio of flame thicknesses of turbulent to laminar is the
+same, namely
+
+ 
+
+dr/d; = V (k/ Co) Purbutent/ (kp) Laminar (6.7)
+
+56
+

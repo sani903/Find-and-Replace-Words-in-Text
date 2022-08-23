@@ -1,0 +1,31 @@
+13.4 Overview
+
+like burners have to burn at high flow rates of fuel (and so high power) and employ
+forced draft fan which k the pressure inside the system higher than the ambient or
+use an induced draft fan which draws the air through the combustion device so that
+the pressure inside the combustion unit is below the ambient. Combustion is also
+carried out at higher pressures 2 to 20 atm so that the device can be made more
+compact. This is because higher pressures imply higher volumetric reaction rates
+(~ p?) so that the volume of the chambers for burning up at the same fuel flow rates
+
+can be reduced approximately as p—2.
+
+Swirl is another artifice for reducing the length of the combustion chambers.
+Swirling the flow implies causing tangential entry of the fluid into a cylindrical
+chamber. This reduces the axial length of the chamber even though the path length
+for combustion remains the same. Most combustion devices use it to great advan-
+tage.
+
+The turn-down ratio is typically about 4 for many combustion devices—stoves,
+burners and gas turbine combustion chambers.
+
+The knowledge of the combustion processes in high thrust/power gas turbine
+engines has led to benefits in terms of reducing the combustor size and therefore,
+its weight to almost half in about a decade and a half.
+
+The combustion chambers of reciprocating engines have also undergone a sea
+change in the last three decades through the use of high pressure turbo-superchargers
+and electronics for sensing and controllling the combustion parameters.
+
+131
+

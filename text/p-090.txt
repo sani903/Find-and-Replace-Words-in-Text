@@ -1,0 +1,52 @@
+9 Stability, Extinction and Blow-Off of Flames
+
+FLAME
+
+~—
+—
+
+= << ( >
+FUEL a
+_—
+
+OXIDANT
+RECIRCULATING ZONE
+
+Figure 9.8: Flame holders
+
+The behavior that is observed is similar both for premixed and diffusion flames. A
+typical experiment that illustrates this is the flame obtained near the stagnation
+region of the opposed jet streams with identical premixed mixtures or air and oxi-
+dant components in the case of diffusion flame. If we interpret the fluid time scale
+(length scale/stream speed) as representative of stretch i.e., increasing the speed
+reducing the fluid stay time and hence increasing the strain rate on the flame, the
+above results can be used to explain the observed flame temperatures being lower
+than the adiabatic flame temperature in complex fluid flows, a subject discussed in
+Chapter 4.
+
+9.4 Bluff body flame stabilization
+
+We shall move on to case (d). Again, the case is typical of flame stability. The time
+taken for the fluid to traverse the after-burner is t; = L/V, where L is the length
+of the after-burner and V is the mean speed. Typical speeds are about 150 m/s
+and L ~ 1.5 m. This implies ty = 10 ms. The reaction time at the conditions of
+after burner inlet (800 K) is about 10-15 ms. Since these numbers are comparable,
+the reactions will not be complete. In order to complete the reaction, the flame
+holders are introduced. The way flame holders work is shown in Fig. 9.8. The
+oncoming flow goes around the obstacle and this causes a recirculation zone, so
+much so that even if V is large, the zone behind the obstacles will have low velocities
+because the fluid will be recirculating in this zone. Because the velocities are low,
+the effective stay time of the fluids is enhanced significantly. Consequently, the
+flame will be stabilized in the recirculation zone. Again, even in the case with flame
+stabilizers, the flame would be blown off if the incoming velocity exceeds a critical
+value. The blow-off velocity can be estimated by the logic enunciated earlier. Taking
+the recirculation zone to be approximating a stirred reactor, we have
+
+mey(Ty — Tp) = if vH
+
+Here v is the volume of the recirculation zone, scaling like d3. The flow rate 7 can
+be calculated as pAV, where A is the cross-sectional area of fluid entrained in the
+recirculation zone, again scaling like d?>. Thus we can can obtain a relationship for
+
+82
+

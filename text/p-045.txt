@@ -1,0 +1,70 @@
+4.3 How Do We Obtain Flame Temperature
+
+Table 4.7: Flame temperature, equlibrium composition and other properties of kerosene—air
+system
+
+ 
+
+Kerosene: CH ga2; hy(l) = —52.6 kJ/mol
+Air: 09.149N1.56Co.0003; hy(g) = —0.118 kJ/mol
+Pressure: =0.1 M Pa
+
+ 
+
+ 
+
+ 
+
+ 
+
+A/F 10.0 12.0 15.0 20.0 30.0
+e.r 1.47 1.22 0.98 0.735 0.5
+T, K 2007 2198 2266 1949 1493
+X;
+
+H>0 0.117% 0.129 0.121 0.095 0.065
+COq 0.058 0.088 0.117 0.098 0.067
+CoO 0.114 0.065 0.012 0.0004 -
+
+Ny 0.650 0.69 0.724 0.741 0.755
+Hoy 0.0500 0.018 0.002 — —
+
+H 0.0004 0.0007 0.0004 — —
+OH 0.00009 0.0007 0.00316 0.001 —
+
+Oo — — 0.0085 0.051 0.102
+M 26.5 27.7 28.7 28.9 28.9
+cp, (J/
+
+mole K) 9.6 10.6 15.2 10.2 9.0
+
+¥ 1.26 1.24 1.17 1.24 1.28
+
+ 
+
+*Mole fractions
+
+about 30% excess air, then carbon monoxide becomes negligible. At A/F of 30 or
+beyond, the only products are H,O, CO,, Ny and excess Os. It is under these condi-
+tions that the approximations made earlier for the calculation of flame temperature
+in the example are valid.
+
+One can notice that the molecular weight of gases is lower for fuel-rich condi-
+tions and achieves the value of air at oxidizer-rich conditions.
+
+The typical values of temperature for several common fuel and oxidizer combi-
+nations are shown in Table 4.8. The flame temperature does not depend signifi-
+cantly on the nature of hydrocarbon fuel as long as the oxidizer is air. It is about
+2300+50 K. Replacing air by oxygen raises the temperature by 600-800 K. In-
+crease in initial temperature does not raise the flame temperature by the same
+increment. It is particularly true for flame temperatures beyond 3000 K, because
+most of the energy goes into dissociating the stable molecules so that the tempera-
+ture does not change much. Increase in pressure is helpful in reducing dissociation,
+thereby causing a rise in flame temperature. The change in flame temperature,
+again, beyond some pressure is very limited because the change in composition
+beyond pressures of 5.0—-8.0 M Pa is not much. Acetylene with its high heat of for-
+mation has a flame temperature with air distinctly higher than other straight chain
+hydrocarbons.
+
+37
+

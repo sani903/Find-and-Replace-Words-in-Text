@@ -1,0 +1,43 @@
+9.2 Stability of Flames in Gas Turbine Combustors
+
+A Extinction
+
+ 
+
+ 
+
+ 
+
+"
+
+Figure 9.5: Stirred Reactor Stability
+
+rate further, the temperature of the flame reaches the adiabatic flame temperature.
+This is termed ‘explosion’ to signify that the rates of heat generation are so large
+that the balance occurs near the highest possible temperature. Returning to the
+question of stability of flames in combustion chambers, the equation can be cast as
+m
+
+pr = f(A/F, Ty) (9.4)
+Experiments of stability are conducted by first establishing a flame inside the com-
+bustor at specific equivalence ratio and increasing the flow rate till the flame is
+extinguished. It is useful to appreciate that the term ‘stability’ under the circum-
+stances implies essentially stable equilibrium. A typical stability plot for a gas
+turbine combustor is shown in Fig. 9.6. There are two branches to the curve—one
+fuel-lean and another fuel-rich. The two curves meet at a region and beyond a cer-
+tain value of 1 /vp”, the flame blows off. The exponent n is about 1.8 for kerosene—
+air mixtures. One can notice that the operation of gas turbine combustor becomes
+critical at low pressures when the parameter 7 /vp™ becomes indeed large and so
+tends to blow off the flame. The volume of the chamber then has to be increased so
+that one has a reasonable stable operating range of fuel flows at worst conditions,
+namely highest altitude, lowest rpm of engine and flight velocity. Another interest-
+ing way of interpreting the above relationship, particularly in the light of blow-off,
+is as follows. The equation can be written as
+
+mv ~ wf H/cp(Ty — To) (9.5)
+
+m = pAV where pis the density, A is the representative cross-section of the chamber
+and V is the representative velocity. v can then be written as v = Ad where d is a
+
+79
+

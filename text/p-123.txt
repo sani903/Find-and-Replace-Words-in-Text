@@ -1,0 +1,50 @@
+12.3 Hybrid Rocket Engines
+
+ACOUSTIC
+
+BAFFLES CAVITY
+
+INJECTION
+
+   
+  
+
+[> BAFFLES
+
+INJECTION
+
+ 
+
+Figure 12.5: Liquid rocket stabilisation device
+
+FUEL DIAPHRAGMS
+
+ 
+
+Figure 12.6: A hybrid rocket engine
+
+lations are observed. If they die down, the engine is stable. Depending on the rate
+of the decay of the pressure, the stability of engine is rated.
+
+It sounds a bit strange; we have talked so much about stability of liquid engine
+but very little of solid rocket engine. Why?
+
+The essential elements of instability discussed above do occur in solid rocket
+engines also. But then the propellants usually have a high metal loading (~17%
+aluminium). When these particles get into gas phase and combust, they provide
+acoustic damping. The damping is to such an extent that most instabilities are
+suppressed even in large engines. This does not mean, however, that instabilities
+are absent in solid rocket engines; they are present, to a lesser extent and with
+lesser intensity.
+
+12.3 Hybrid Rocket Engines
+
+Hybrid rocket engines generally use a solid polymeric fuel and a liquid oxidizer.
+The feed system containing a tank, pressurisation unit, a valve and injector re-
+sembles a liquid rocket engine and the combustion chamber having the fuel block
+is configured like a solid rocket engine (Fig.12.6). During steady operation, com-
+bustion has to proceed close to the surface in a boundary layer. The principle of
+combustion in this engine is like the boundary layer combustion discussed earlier.
+
+115
+

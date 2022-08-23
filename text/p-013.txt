@@ -1,0 +1,37 @@
+2 What Do We Burn and Why?
+
+We burn fuels for two major purposes: (i) for generating heat for cooking, melting
+metals, heat treatment etc. and (ii) for generating power—Ilike in internal combus-
+tion reciprocating and rotating machinery or for generating work or force like in air
+breathing and rocket engines.
+
+The sensitivity of systems to the nature of fuel is much more in those cases
+where power/ work /force (like in case (ii)) is demanded than in the case of heat
+requirements (as in case (i)). Unfortunately, this fact is not greatly appreciated
+and there are several examples where fuels meant for engines are used for heating
+purposes as well.
+
+Fuels can be classified into gaseous, liquid and solid forms and some are listed
+in Table 2.1.
+
+2.1 Gaseous Fuels
+
+Liquified petroleum gas (LPG), the first of the fuels in Table 2.1 is a product of
+petroleum refining. It is used as cooking gas in most urban areas in India. It is also
+used as a transport fuel in three- and four-wheelers. Its name is a bit strange in
+that it starts with a liquid and ends in a gas. The cylinder contains a liquid which
+can be actually checked by shaking it. On opening the top valve, one gets gas. A
+cylinder of about 35 litres (which you can compute based on dimensions measured)
+contains about 15 kg of LPG (Fig. 2.1).
+
+Typically, the pressure inside the cylinder is about 0.6 M Pa (note that the at-
+mospheric pressure at sea level is approximately 0.1 M Pa; it is 0.101325 M Pa
+exactly) i.e., the pressure is about 6 times the ambient pressure. This pressure
+depends on ambient temperature. If the ambient temperature falls below —10°C,
+which is common in winter in some northern areas of India close to the Himalayas,
+the valve may be opened and one would get very little gas (after the cylinder has
+experienced the temperature for about a day or so, for it takes quite some time for
+the cold to penetrate the cylinder). A large part of the liquid may have got solidified.
+Thus, the pressure inside the gas cylinder depends on temperature much like the
+boiling point of water being dependent on pressure (readers will recall the familiar
+

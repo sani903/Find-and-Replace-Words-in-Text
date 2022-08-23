@@ -1,0 +1,48 @@
+16.3 How are the pollutants generated?
+
+The important parameters that influence the formation of soot in such flames
+are the parent fuel molecular structure, the flame temperature, the amount and
+nature of diluents either in the fuel or in the oxidizer, pressure, and the flame—
+premixed or diffusion. Diffusion flames have a greater tendency to soot, and higher
+the flame temperature greater the soot fraction. Experiments have shown, in terms
+of sooting tendency the ordering for diffusion and premixed flames as follows.
+
+Aromatics (Benzene, etc) > Alkynes (Benzene, etc)
+> Alkenes (Acetylene, etc) > Alkanes (Ethylene, etc) (Diffusionflames)
+Aromatics > Alkanes > Alkenes > Alkynes (Premixedflame)
+
+The ordering seems unsurprising with diffusion flames. However, the ordering in
+the case of premixed flames is different and seems not easy to justify. For instance,
+acetylene with a triple bond on C with a high C : H ratio, like benzene, should
+be expected to soot more than ethane. However, the reverse is the case. The criti-
+cal equivalence ratio beyond which sooting tendency is strong for acetylene (Cy H>)
+occurs at 2.0, while for a straight chain hydrocarbon like ethane (Cy Hj), it occurs
+at 1.7 and for n-octane (CgsHig) it is 1.4. This has made the investigation of the
+fundamental mechanisms of sooting very interesting. Many well-designed experi-
+ments have been conducted to elucidate the mechanisms. In premixed flames there
+are two competing processes: (a) the oxidiser (Os, in air) and some radicals like the
+hydroxyl (OH) reacting with the intermediates from the pyrolysis, and (b) the py-
+rolysis process itself. The principal reactant goes through the chain reaction and
+generates acetylene and some cyclic compounds including ring compounds. The
+poly-aromatic hydrocarbons continue to react with acetylene, producing many com-
+plex compounds that react with atomic hydrogen. This takes away hydrogen from
+the compounds till a large soot particle emerges (CsH). The two processes, (a) and
+(b) identified above are temperature-dependent; however, increased temperature
+enhances the oxidation rate more than the the pyrolysis rate. Hence increased
+temperature leads to reduced sooting tendency. If we recognize that the flame tem-
+perature of acetylene is much higher than ethane or n-octane (see Table 4.8), it is
+clear why acetylene has a higher equivalence ratio for sooting compared to ethane
+or n-octane. An interesting correlation has been developed between the sooting
+equivalence ratio and the number of carbon bonds in the fuel molecule. Ethane
+has one bond and n-octane has 7 bonds. It is expected that n-octane should have
+greater sooting tendency compared to ethane, a fact that is consistent with experi-
+mental result.
+
+Soot in a flame is not always undesirable. The multi-billion dollar carbon black
+industry spends a considerable amount of research money investigating ways to
+produce more soot with better specified characteristics. This soot eventually finds
+its way into tires, toner cartridges, and many paints. In addition, continuum radi-
+ation from soot produces the better radiant heat transfer from many non-premixed
+
+155
+

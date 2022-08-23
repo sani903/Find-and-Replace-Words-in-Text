@@ -1,0 +1,59 @@
+17.6 Explosion and Detonation - Simple analyses
+
+problem to first order equation and its solution resulting in
+
+a
+
+cosh2(b + AE)’ (17.13)
+
+exp (0) =
+
+where A = /af)/2. Invoking symmetry condition leads to b = 0.
+
+These results when combined with the boundary condition at £ = 1 leads to
+
+coshA v2
+A QF
+
+One can show from this relation that no solutions are possible for A < 1.2 or Q >
+0.88 — this comes about due to the left-hand side having a minimum value because
+either the numerator or the denominator will contribute to an increase in the value
+of the function. This leads to Ina = 1.2 and hence the maximum temperature, Tq.
+as
+
+(17.14)
+
+ 
+
+T
+Tran = To i + 1250] (17.15)
+
+For typical values of E = 180kJ/mole, Ty = 300 K, the departure of the maximum
+temperature from the ambient will be 1.6 %, which is negligible. All that this means
+is that a reactive solid at an ambient temperature will remain quiet until the tem-
+perature departs from its original value by only a few degrees. Beyond this change
+the reaction rate rises so fast that temperature reaches runaway conditions, and
+the result is an explosion.
+
+For the case of cylindrical geometry (n = 1), the length scale L. can be inter-
+preted as the radius of the explosive. In this case a transformation, y = In§, con-
+verts the differential equation to
+
+where ¢ = 60+ 2y. The solution technique is very elegant and simple and leads to the
+result that explosion occurs for all A > 2. This leads to the maximum temperature
+departing from the ambient by an expression similar to eqn. (17.15), but with the
+constant 1.2 replaced by 1.38.
+
+For the spherical case, analytical solutions are not possible. Numerical solutions
+show that the coefficient 1.2 in Eq. (17.15) replaced by 1.6 in this case. In all the
+cases, the fact that Q > Q..;; (= 0.88, 2, 3.32 for plane, cylindrical and spherical
+geometries respectively) leads to explosion implies that the same material shaped
+in one form or the other will explode.
+
+It is not to be interpreted that spherical geometry is less sensitive compared to
+cylindrical, since, in the case of spherical geometry the total material is bounded,
+whereas in other cases the material can be semi-infinite. If one were to treat a cube
+of dimension L. instead of a plane material of width L., one would get a different
+
+175
+

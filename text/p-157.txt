@@ -1,0 +1,35 @@
+16 Emissions from Combustion Systems
+
+16.1 The pollutants
+
+In discussing emissions from combustion systems, we will need to consider the
+emissions from furnaces of power plants, process industry, other industries, and
+light and heavy-duty motor vehicles. We will exclude the emissions from rocket en-
+gines even though these are not environment friendly (because exotic chemicals are
+used), since these occur infrequently and do not constitute a significant fraction of
+the emissions on an average.
+
+All the fuels that are used in combustion devices are based principally on the
+elements C, and H, with oxidant being O and ‘inert’ being N. Apart from these,
+there are other elements like S and Cl present in the ‘fuels’ in a small quantity that
+participate in the conversion process. High temperature chemical reactions are
+dominated by C and H with O and the chemical pathways inevitably involve the
+elements NN, S and Cl when these are present. The principal products of combustion
+are CO, and H50. The other products of the combustion process are (a) UHC,
+unburnt hydrocarbons including soot, (b) CO, carbon monoxide, (¢) NO, NO2, N2O,
+(oxides of nitrogen, generally termed NOX referring to NO,,, where x can be 0.5,
+1 or 2), (d) SO, and SOs, (oxides of sulfur) which emanate from sulfur present in
+some fossil fuels (some oils and coal) and to a very tiny extent from biomass, and
+(d) HCl and dioxins, the compounds of C, H, Cl, and O.
+
+The emissions are quantified usually in terms of ppm in the exhaust at a certain
+oxygen fraction (different people use different levels: 3, 5 or 10 %) and g/M J of heat
+input. The emission index is best characterized by g/M J because it is related to the
+amount of energy used in the process and hence energy efficiency is embedded in
+the index. It also rationalises the fuel because fuels of different calorific values can
+be conceived by users depending on the local fuel prices and the index will still be
+true indication of the emission. In the case of motor vehicles, the emission indicies
+are expressed in terms of g/km since it is this quantity that needs to be minimized.
+
+149
+

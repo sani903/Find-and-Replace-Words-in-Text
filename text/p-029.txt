@@ -1,0 +1,62 @@
+3.1 Fuel? Oxidizer?
+
+Table 3.2: Stoichiometric Ratio for Several Fuels
+
+ 
+
+ 
+
+ 
+
+Fuel Formula Molecular  (O/F)gst0; With
+Weight Oxygen Air
+Hydrogen H2 2.0 8.00 34.50
+Magnesium Mg 24.0 1.66 7.10
+Aluminium Al 27.0 3.80 16.40
+Methane CH, 16.0 4.00 17.20
+Butane CyHig 58.0 3.58 15.40
+Carbon monoxide CO 28.0 0.57 2.46
+Kerosene CH, 3 13.8 3.36 14.50
+Ethyl Alcohol CoHsOH 46.0 2.09 9.00
+Methyl Alcohol CH;0H 32.0 1.50 6.46
+Hydrazine NoH, 32.0 1.00 4.30
+Wood CH, 4006 23.0 1.46 6.29
+Peat CH; 3005 21.3 1.61 6.94
+CH; 9003 17.8 1.98 8.53
+
+Bituminous coal CH 9001 14.5 2.59 11.16
+Anthracite coal CHy 400.05 13.2 2.66 11.46
+
+ 
+
+Table 3.3: Volumetric and Mass O/F,;,; for biomass—based producer gas
+
+Mol (Air/Fuel) (Air/Fuel)
+Wt Volume Weight
+
+ 
+
+ 
+
+Producer gas 0.2 CO
+0.2 H, 24.4 0.95 1.12
+0.1 CO,
+0.5 Ns
+
+ 
+
+Table 3.4: Electronegativity of various elements
+
+ 
+
+F 40 B 2.0
+0 35 Be Al 15
+N,Cl 3.0 Mg 1.2
+Br 2.8 Li,Ca 1.0
+C,S,I 25 Na,Ba 0.9
+HP 21 K 0.8
+
+ 
+
+21
+

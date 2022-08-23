@@ -1,0 +1,79 @@
+10 Diffusion Flames
+
+Table 10.2: Nusselt numbers (Re=pVz/u, Gr=gz3 (Ty — T,)/ Tov; v = p/p)
+
+ 
+
+No. Situation
+
+Relationship for Nu,
+
+ 
+
+Flat plate, laminar
+Turbulent(Re > 10°)
+
+whe
+
+laminar
+
+4. Stagnation zone, laminar
+
+(Axisymmetric)
+
+5. Flow around a sphere, lam-
+
+inar
+(Re< 107%)
+
+6. Flow around a cylinder,
+
+laminar
+Re>40,000 turbulent
+
+7. Vertical plate. free convec-
+
+tion,
+Gr<10°(laminar)
+Gr>10°(turbulent)
+
+8. Horizontal Fuel plate
+
+burning face up
+Gr<107 laminar
+Gr>107 turbulent
+
+9. Horizontal fuel plate face
+
+down
+turbulent
+10. Horizontal cylinder
+(free convection)Gr>10°
+11. Sphere
+
+Stagnation zone (plane)
+
+Nu, =0.332 Rel/2pr1/3
+=0.036 Re’ 8 Pr03
+=0.57 Re'/2Pr2/3
+
+=0.93 Rel/’Pr?/3
+
+=0.37Re;
+
+=0.891 Rel/2
+
+=0.024 Re"?
+= 0.59 (Gr Pr)'/4
+
+=0.54(Gr Pr)1/4
+=0.14(Gr Pr)/3
+=0.27(Gr Pr)1/4
+=0.525(Gr Pr)!/4
+
+=2 + 0.6 Grl/4 prl/3
+
+ 
+
+100
+

@@ -1,0 +1,49 @@
+3 Chemistry and Stoichiometry
+
+The mass conservation can be stated by writing an equation like
+(Xn; M5) reactants = (313 M5) products
+
+where n; are the number of moles and .#; the molecular weight of species, i. The
+स्टोइकोमेट्रिक ratio in case (3.1) is 16/2 = 8. Thus every gram of H, requires 8
+grams of oxygen for complete combustion. If more than 8 grams of oxygen is used,
+then one gets a fuel-lean system and if less than 8 grams of O, is used, one gets a
+fuel-rich system.
+
+We now move on to reaction (3.2). If one looks for stoichiometry with respect
+to air, then it will be [16+ (79/21) x2x28]/2 = 34.4. In this reaction, nitrogen is
+treated as inert. Nitrogen is a very stable molecule with a very high energy binding
+the nitrogen atoms. If nitrogen were to enter into any reaction then this strong
+bond must be broken. It requires very high temperatures ~ 2800 — 3000 K for a
+fair fraction of the molecules of Vs to be dissociated into element nitrogen (NV). The
+temperature attained in reaction (3.2) would be of the order of 2300 K. Hence one
+finds that nitrogen is virtually an inert. In reaction (3.4), the species considered
+is CH. There is no specific species like CH; excepting as a radical which is an
+intermediate in reactions. Rather it represents an extreme case of straight chain
+hydrocarbons described by C), Hs, +2. The value n = 1 gives C' H2, methane, a gas at
+ambient conditions; n = 3 gives C3H6, propane, a gas. n = 4 gives C4Ho butane, a
+gas at ambient conditions. It is the primary constituent of liquified petroleum gas
+(LPG). C5H,, is pentane, a liquid. The series goes on like this till at CoH when
+one gets solids like waxes. Thus all the straight-chain compounds can be described
+by CH, 5/,. CH; is an approximate representative of the series. The स्टोइकोमेट्रिक
+ratio in the case (3.3) is 3.4 and in the case (3.4) is 3.4/0.232=14.7. The last number
+is very familiar. For many hydrocarbons like kerosene, diesel, gasoline, the air-to-
+fuel ratio at stoichiometry is about 15. It decreases slightly from methane (17.2) to
+about 15 for larger size fuel molecules like hexadecane (CigHsy).
+
+One should be careful about the use of stoichiometry in actual situations. At
+flame temperatures of the order of 2300 K or so, dissociation of the molecules of
+CO, and HO occurs to a reasonable extent. Consequently, one obtains some CO,
+OH, HO, and others. These are incomplete products of combustion. One, therefore,
+needs additional oxygen to oxidise these. This is one of the reasons why in many IC
+engines, 15-20% excess air is used (to make sure combustion is complete).
+
+As far as stoichiometry is concerned, for hydrocarbons the products are CO, and
+H>0. What will happen with other elements like Cl, Al etc? In the case of chlorine,
+HC! is taken as the stable product; for Al it is AloOs. Similarly, one can determine
+the stable product for other species as well.
+
+One of the useful qualities related to stoichiometry is the equivalence ratio (e.r).
+It is the ratio of fuel to oxidizer by weight in a given case to that at stoichiometry
+
+18
+

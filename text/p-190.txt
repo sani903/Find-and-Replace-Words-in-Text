@@ -1,0 +1,126 @@
+Index
+
+Fire spread rate, 131
+
+Flame blow-off, 80
+
+Flame extinction, 73
+
+Flame inhibitors, 135
+
+Flame speed, 51, 105
+
+Flame stability, 73
+
+Flame stability in gas turbines, 77
+Flame temperature, 34, 36, 37, 109
+Flame thickness, 53
+
+Flame-out, 65
+
+Flammability, 59
+
+Flammability limits, 60
+
+Flash point, 67
+
+Fluorine, 21
+
+Forced convection, 94
+
+Free convection, 96
+
+Free convection effect, 94
+Frequency of oscillations, 113
+
+Gas stove, 118
+
+Gas turbines, 138
+Gasification process, 140
+Gasifier stove, 122
+Gasoline, 9
+
+Gibbs free energy, 30
+Grassland fire, 134
+
+Heat of combustion, 29, 35
+Heat of formation, 26
+
+Heat release rate, 55, 127
+Heterogeneous propellant, 109
+HMX, 14, 19, 103, 164
+HTPB, 14
+
+Hybrid rocket engines, 115
+Hydrazine, 10, 19
+Hydrogen, 21
+
+Hydrogen peroxide, 19, 103
+Hypergolic ignition, 10, 70
+
+IGCC, 139
+
+Igniting liquid pool, 67
+Igniting solid fuels, 68
+Ignition, 65
+
+Ignition delay, 70
+
+182
+
+Ignition energy, 66
+
+Ignition in liquid rockets, 70
+Ignition in solid rockets, 70
+Ignition-extinction, 80
+Internal energy, 24
+
+Kerosene, 9
+Kerosene stove, 119
+
+Laminar flame, 57, 108
+Lignite, 13, 20
+
+Limits of propagation, 60
+Liquid hydrogen, 11
+Liquid oxygen, 10
+
+Liquid rocket engines, 112
+Liquified petroleum gas, 5
+Lithium, 21
+
+Magnesium, 21
+
+Mass conservation, 17
+
+Mass fraction, 25
+
+Matchstick composition, 68
+Measured flame temperature, 38
+Mole fraction, 25
+
+Molecular weight, 26
+
+NC, 14
+
+NG, 14, 164
+
+Nitric acid, 10, 151
+Nitrocellulose, 14, 19
+Nitrogen tetroxide, 10
+Nitroglycerine, 14, 19, 103
+Nusselt number, 98
+
+Overall reaction rate, 48
+Oxides of nitrogen, 149, 154, 158
+
+Particle size effect, 109
+Pollutants, 147
+Pollution control, 158
+Polymers, 13
+
+Polyvinyl chloride, 151
+Preheating reactants, 41
+Premixed flame, 51, 103
+Producer gas, 8, 38
+

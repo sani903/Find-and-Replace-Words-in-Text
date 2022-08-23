@@ -1,0 +1,50 @@
+13 Stoves, Burners, Combustors and Their Efficiency
+
+124
+
+the time the flame is confined around the wood pieces on the grate. It is also
+seen from experience that the non-sooty good flame above the wood pieces
+is somewhat finicky. It will be blown off easily, either by a slight wind or a
+readjustment of the wood pieces. It may also turn out on occasions that the
+flame around wood pieces on the grate is re-established. Whenever the non-
+sooty flame above the pieces blows off, smoke issues. In this case, what is
+happeningin the non-sooty flame is that the volatiles from the fuel wood and
+air taken in from various holes or fuel inlet are mixed together before flame
+is created. Hence, it is a premixed flame. The premixed flame requires good
+conditions for it to be anchored. It is difficult to anchor it in a fluid stream
+of non-constant velocity and so it tends to blow off easily. This is not so with
+the diffusion flame around the wood pieces on the grate. It is indeed diffi-
+cult to extinguish it once a few pieces are burning. This discussion implies
+that premixed flame though more efficient is more unstable. Hence one needs
+premixed flame for good combustion and diffusion flame for stability. A good
+design therefore combines both the flame structures for optimal performance.
+
+Several of these issues are addressed by using what is known as gasifier stove.
+Figure 13.3 shows the sketch of such a stove.
+
+The key point in this approach is to convert the solid fuel to a gaseous fuel and
+then burn the gaseous fuel. The process of converting the solid fuel to gaseous
+fuel is called gasification. It is also a combustion process, but conducted at
+sub-स्टोइकोमेट्रिक conditions, at an equivalence ratio of about 0.25 to 0.3, that
+corresponds to an air-to-fuel ratio of 1.7 to 1.8. In this procedure the fuel bed is
+not ignited or burnt from the bottom with fuel pieces being added periodically
+as has been done classically. Instead a prepared fuel bed of finer pieces of
+biomass in a packed bed is lit from the top with some air flowing from the
+bottom through the bed. This leads to the flame front moving through the bed
+from top to the bottom consuming the fuel rather uniformly. A hot surface
+at the top transfers heat to lower layers which ignite when the temperature
+crosses the critical temperature (of 580-620 K for biomass and 700-850 K for
+coal). At this time the solid mass releases some volatiles which get ignited
+with air flowing around. This raises the gas temperature enabling transfer of
+heat to the solid material. Hence, the temperature of the solid mass also goes
+up after all the volatiles are released and the material becomes a char. The
+flame front will move down to the bottom converting all the material to char
+first and then consuming the char as well. There are two stages of reaction
+here. The flaming sub-स्टोइकोमेट्रिक combustion leads to products CO, Ho,
+COs, H50, and higher hydrocarbons. These pass through the char bed above
+the flaming pyrolysis zone where the char reacts with H,O and CO, at high
+temperatures to produce additional CO and H,. The higher hydrocarbons
+crack down to smaller fragments and also react with surrounding gases.
+
+This process is self-regulating: changes in air flow rate (+ / -) change the gasi-
+

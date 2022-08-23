@@ -1,0 +1,40 @@
+10.2 Droplet Combustion
+
+(a) Zero-g condition ~~ (b) Under natural gravity (1 g) (c) Forced convection
+
+Figure 10.2: Liquid Droplet Combustion Modes
+
+boundary conditions. The boundaries are the surface of the droplet, r = r, and
+r — 00, the infinite outer boundary. The droplet is at temperature 7, and the outer
+region is at Tj. For vaporisation to occur, Tp must be larger than T;. Let us for the
+moment assume that the surface temperature of the droplet, T; is constant all the
+time.
+
+Thus for T(r = rs) = Ts, and T(r — oo) — Tp, the solution can be obtained. An
+additional condition is required to calculate the vaporisation rate. For this purpose,
+one needs to strike a heat balance at the liquid surface like
+
+ame =mlL, (10.9)
+rl,
+
+where L = heat of phase change. This equation states that the heat transferred
+from the outer region to the surface is balanced by the heat taken away by the
+vaporising substance/liquid. Such an equation is indeed common in the solution
+process of combustion problems.
+
+The solution of eqn. (10.8) subject to the boundary conditions noted above along
+with the condition (10.9) gives
+
+m = 4rrs(k/cp)gIn(1 + By) (10.10)
+
+The subscript ¢g on k/c, is to indicate that it is to be obtained for the gas phase. In
+the above equation, B, is expressed as
+
+By = c,(Th — Ty) /L (10.11)
+
+The quantity B, is called transfer number and it indicates the thermodynamic po-
+tential to cause vaporisation. k is the thermal conductivity (transport property) and
+cp is constant pressure specific heat of gas.
+
+91
+

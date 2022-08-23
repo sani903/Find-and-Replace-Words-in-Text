@@ -1,0 +1,50 @@
+2.1 Gaseous Fuels
+
+LPG
+Butane
+
+Vv” Propane
+Methane
+
+06-08MPa
+25-35C
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2.1: An LPG cylinder
+
+example of elementary physics where it is stated that lentil (dal) cooks well at sea
+level but poorly at high altitudes, this being related to lower boiling point at higher
+altitudes).
+
+Liquid petroleum gas is composed of a few chemical species like propane and
+butane which are composed of the chemical elements C and H. The primary com-
+ponent, butane , has a boiling point of —0.5°C' at 0.1 M Pa. Therefore it is gas at
+ambient temperature. As pressure reaches 0.6 M Pa, the boiling point is raised to
+26°C. If the ambient temperature is 20°C but the pressure 0.6 M Pa, you see that
+Butane has to be in liquid form. If ambient temperature reaches 35°C, then the
+pressure inside the cylinder will become 0.8 M Pa and both liquid and gas exist in
+equilibrium. At typical draw rates of the gas in cooking stoves—0.03-0.05 g/s (108—
+180 g/h), the cylinder is able to maintain the flow rate without any loss of pressure
+because it will compensate for the heat of vaporisation of the liquid by drawing heat
+from the ambient.
+
+However, if you draw much larger flow rates—something which can be done in a
+combustion laboratory and should be avoided at home—the cooling effect dominates
+and the pressure in the cylinder will begin to fall. Consequently, water drops form
+on the outer surface of the cylinder due to condensation of atmospheric moisture,
+reducing the gas flow drastically.
+
+The composition of LPG depends on the source of the crude used for refining and
+the effort put into refining it. Table 2.2 shows a typical composition and density of
+LPG. Notice that it is much lighter than water, in fact close to half of it.
+
+Next we take up biogas. Biogas is produced by anaerobic digestion of biomass.
+Its use has gone up significantly in the last decade, and in several parts of India,
+

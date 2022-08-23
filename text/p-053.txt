@@ -1,0 +1,47 @@
+5.1 How Fast Does a Reaction Take Place?
+
+CH,+50, — 3CO,+4H,0
+
+(PROPANE)
+H H H
+NO
+H-C-C-C-H+ 0-0 +0-0+ 0-0+ 0-0 + 0-0 —p
+sy 1
+H H H
+
+0-C-0+0-C-0+0-C-0+0 + O + 0 + 0
+/’N IN IN IFN
+H H H H H H
+
+H H
+
+Figure 5.1: Bonds in propane
+
+Thus one can see nine reversible reactions in the simplest case. The reaction system
+is called a chain reaction. One can notice a species like HO, called hydroperoxyl
+being present. It is a species present at relatively low temperature, nevertheless
+important. One can notice that the other active species and radicals are H, O,
+and OH. The various s in the chain reaction are characterized differently. The
+two initial s when active species are generated from initial reactants are called
+chain initiation s. Then we have chain branching reactions where more radicals
+and active intermediates are generated. The chain termination step is the step
+where final products get produced and radicals are used up.
+
+5.1 How Fast Does a Reaction Take Place?
+
+The reaction rate is now understood to be due to collisions—largely between two
+molecules (called bimolecular). This means the rate of reaction is proportional to
+concentration of molecules of each of the participants—higher pressure implying
+higher concentrations, linearly. Thus
+
+Reaction rate (RR) = AX; Xop? (5.1)
+
+where X;, X, are the mole fractions of colliding species.
+
+Next we examine the dependence of the reaction rate on temperature. It is to
+be recalled that energetic collisions are responsible for a reaction. It is not the
+molecules with mean energy that matter, but those with much larger energy levels.
+It implies that one can set a threshold value of energy E which must be exceeded for
+
+45
+

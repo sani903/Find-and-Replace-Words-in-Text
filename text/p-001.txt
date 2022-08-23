@@ -1,0 +1,39 @@
+Preface
+
+This is the second edition of the book "Understanding combustion". The first book
+was written in 1986-1987 time frame. When this book was published, it was not
+clear what the response of the readers would be. Fortunately, there was positive
+feed back on the readability of the book from several unexpected quarters, both
+academic and industrial. This has been the motivation to amend and add chapters
+for a slightly more comprahensive book that aims to give a reader the essence of the
+subject and enable him to launch into reading other books written in greater detail
+meant more for a professional.
+
+Even though the essentials have remained the same, much has happened in the
+subject in the intervening period — rising cost of fossil fuels has been a serious issue
+arising out of peaking of the liquid fossil fuel availability across the world. We have
+burnt up much more than we can sustainably produce. Mining has been excessive.
+Solid fuels like coal do not belong to this category yet. Efforts to develop and use
+renewable liquid fuels like biofuels and other solid fuels including urban solid waste
+brought up by indiscriminate urbanization should be on the rise. Hence, there is no
+escape from combustion either at home, in the office or during travel — on ground,
+in air or space. Conservation of the fuels with better combustion efficiency, limiting
+the emissions of undesirable intermediate chemical components with several other
+fuels have become compelling acts.
+
+Three new chapters added to this book are: Gasification of solid fuels, Emission
+of pollutants, and explosion and detonation. The developments in gasification in
+the last twenty years have been the primary motivation for including the subject of
+gasification. It is anticipated that it will come into vogue in all parts of world, more
+particularly the developing world in the coming two decades in very significant way.
+The other two subjects were missed out earlier and have therefore been included
+now to ensure greater awareness among the readers.
+
+It is useful to reiterate that this book is meant for armchair reading; only when
+some students want to do some calculations, do they need to sit at a table and look
+up hard data. It was thought that a general reader does not need to know where
+a specific knowledge really originated from; it is sufficient that one knows that the
+logic for a certain train of thought is based on experiments or a certain theory more
+complex than can be set out in a small volume like this. It is for these reasons
+that detailed referencing of original papers is not done. A list of books and sources
+

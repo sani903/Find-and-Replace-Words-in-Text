@@ -1,0 +1,39 @@
+9 Stability, Extinction and Blow-Off of
+Flames
+
+Stability is a concept used in many scientific disciplines. Invariably it means that
+the system in static or dynamic equilibrium gets restored to equilibrium on being
+displaced slightly from its original state. This interpretation is also appropriate
+for flames. There are many situations where the flame— premixed or diffusion—is
+subject to disturbances. If, innspite of these disturbances, the flame gets restored
+to the original state when the disturbances are removed, then, the flame is said to
+be stable.
+
+Let us first look at situations where the subject is relevant. Figure 9.1 shows
+several such situations. The unstable flames may move to one of the more stable
+states— the no-flame state. In this case the flame is thought to be ‘extinguished’ or
+blown off.
+
+In Fig. 9.1 (a) is shown a classical Bunsen burner used in chemical laboratories
+or glass blowing units. It is quite often run on kerosene vapour and sometimes with
+LPG. When one runs out of either of these, acetylene is used. At comparable flow
+rates one may find that the flame flashes back in the case of acetylene—air mixture
+when it would not for LPG or perhaps kerosene-vapour—air mixture. If one had
+designed the system for acetylene—air, then allowing kerosene vapour—air to flow
+through causes the flame to blow off at the same flow rate. We should understand
+why?
+
+In Fig. 9.1 (b) the combustion chamber of a gas turbine engine is indicated.
+The combustion chamber of a gas turbine engine has to function over a wide range
+of fuel-air mixture ratios and pressures (sometimes even below sea level pressure).
+The speed of the high pressure air flow through the system does not vary during the
+operation. One would like to ensure that in the operating range of the parameters,
+the flame is stable. In case (¢), we have a candle flame or a matchstick flame.
+Candle flame represents an example of a diffusion flame. The initial flame from the
+matchstick on the other hand, represents the case close to premixed flame, as it has
+oxidizer in the match composition. In both cases, a child can extinguish the flame
+by blowing air. The same fluid-air which supports combustion also can deactivate
+it. Why is it so?
+
+73
+

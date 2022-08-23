@@ -1,0 +1,66 @@
+5.1 How Fast Does a Reaction Take Place?
+
+One can write
+
+de; /dt = (a, — a;)w""
+
+. aj;
+where ww" = k lle;
+
+k is the constant = A;T” exp(— E/RT) and the symbol II refers to the product of the
+subscripted quantity over all the species. c; = species concentration (moles/volume).
+This relationship is called the law of mass action. It describes the rate of reaction
+as a function of species concentrations, and a constant dependent on temperature.
+If the reverse reaction Ya; A; = Ya, A; is involved and if one uses equation of state
+and relationships between molar and mass fractions, one gets
+
+ 
+
+ 
+
+dY; .# RT Yi; p 1% Yd; p 1%
+= TT kx | 2222 Z| kdl | HL 4
+dt 2 pn [Br Ea B54
+
+Where the first and second terms within the parenthesis sign are the rates of
+forward and backward reactions.
+
+Now if steady state or equilibrium is attained, one gets dY;/dt = 0 and so
+
+ky Villy D(a
+oH Ema) — |g) = Ko (T :
+ky ( WH wT) J p p(T) (5.5)
+
+Thus one can note that equilibrium constant is obtained in the limit of reaction
+rates in a reversible reaction going to zero. Equation 5.4 can be written as
+
+DRT, p15 1 Yd]
+= iy mh “wm 7 Rr
+
+The unknown parameters of chemical rates are A; and Ein ky = Ayexp(—E;/RT).
+These are usually determined from specially performed experiments. Since the
+reaction rates are very large and the reaction times are very small (a few micro
+seconds to a tenth of a millisecond or so), transient instrumentation techniques are
+used to obtain the data. Once ky, is known, the backward rate k;, is obtained from
+equilibrium constant which is known from thermodynamics, the data being specific
+heats and entropies.
+
+ 
+
+ 
+
+ 
+
+Some features of the reaction rate expression are interesting. Typical values of
+the activation energy FE are of the order of 100-150 kJ/mol for most hydrocarbon-
+oxygen reactions. If we examine the dependence of reaction rate on temperature,
+
+we can write
+RRr, /RRy, = e B/BT1 j= E/T (5.6)
+
+For E/R = 5000 K (note R = 8.346 J/mol K)
+
+RRs0or/RRss0i = 079% = 2.46 (5.7)
+
+47
+

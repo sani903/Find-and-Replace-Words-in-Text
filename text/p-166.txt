@@ -1,0 +1,46 @@
+16 Emissions from Combustion Systems
+
+The emissions from an engine as measured at the exhaust pipe with a range
+of fuels varies from 2 to 10 g/M J for CO, 0.05 to 0.2 g/M J for NO, and 0.01 to
+0.1 g/MJ for UHC. The measured levels can exceed the allowed values in specific
+cases and in such cases, the engines need an exhaust treatment using a three way
+catalyst or a similar system to limit the emissions to allowed levels.
+
+Limits for dioxin in various western countries expressed as tolerable daily in-
+take are typically, 1 to 10 pg per kg bodyweight (1 pg =10~'2¢). Because the toxicity
+is high even at low levels, and all improvements are related to bringing the mag-
+nitude to very low levels fine measurement systems are required to be designed to
+obtain these values accurately.
+
+16.5 Strategies for emission reduction
+
+16.5.1 Carbon dioxide
+
+The emission of CO, can be brought down only by improving the efficiency of the
+process that uses any of the fuels (reducing kg fuel per unit product output, the
+output being electricity or a certain distance moved or a physical product). Replac-
+ing fossil fuels by renewable fuels (that can be generated at least at the same rate
+as its use) so that neutrality of CO, production is achieved is another approach ac-
+tively being pursued in recent times. The argument that if we replace fossil fuels
+by biomass it is adequate to meet the obligation of CO, reduction has some subtle
+aspects. Biomass is used as the primary fuel in stoves for domestic applications.
+In most parts of the world, the stove is operated with inadequate air-to-fuel ratio
+control leading to emissions of UHC and CO. This is partly due to stoves being
+used in regions where no electricity is available, and so the ever varying and fluc-
+tuating inflow of air into the combustion space due to buoyancy is all a certainty.
+The greenhouse effect of some of these gases is substantive andit is argued that a
+well-managed fossil fuel stove would produce lesser green house gas effect in com-
+parison to poorly burning biomass stove. The key requirement then is to ensure
+a biomass stove design that delivers high combustion efficiency, something that is
+consistent with the burning of pollutants as completely as possible.
+
+16.5.2 Carbon monoxide
+
+The CO emission from industrial sources is minimized by ensuring some excess
+air and a good mixing of the fuel and the air. Increased excess air implies larger
+in-house power consumption for delivering this air. Hence, careful optimization is
+needed to allow a minimum of excess air. In the case of automobiles, one needs to
+use a catalyst to burn off the more-than-prescribed CO.
+
+158
+

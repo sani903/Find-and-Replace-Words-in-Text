@@ -1,0 +1,53 @@
+5 How Does a Reaction Proceed? At What Rate?
+
+@p
+
+H
+
+ 
+
+ 
+
+TL ee (7) see TT
+XI
+
+H
+H
+
+Jor Jeo
+
+Figure 5.2: Propane molecule
+
+©
+
+a reaction to take place. One can now ask what fraction of molecules have energy
+greater than or equal to E. The Boltzmann energy distribution law states that the
+probability of a molecule possessing energy FE is proportional to exp(—E/RT'). More
+elaborate study obtains expression for probability of molecules possessing energy
+equal to and larger than FE to be approximately exp(—E/RT). Thus, the reactants
+(in a true situation, the single step molecular event in a large number of s) have
+to have energy larger than E for reaction to be successful and the fraction of such
+molecules is exp — FE /RT. This dependence is also termed Arrhenius law. Thus, the
+reaction rate can be taken to be
+
+RR = AX) Xop?e B/ET (5.2)
+
+The quantity Ay, is called frequency factor and is a constant. It is proportional
+to collision frequency, the number of collisions per unit time. The study of chem-
+ical reactions this way is not special to combustion alone. Chemical engineers do
+deal with reaction rates but mostly isothermal. Biochemical reactions take place at
+temperatures near ambient temperature. In fact, most microorganisms die beyond
+80-90°C. It is only in combustion that temperature range of 300-3600 K is experi-
+enced in a single system like a flame. A; is estimated from kinetic theory based on
+collisions; it is molecular density and the relative orientation of the participating
+species which is given by what is known as steric factor. Consider the example of
+an H atom colliding with a propane molecule. One can notice in Fig 5.1 that there
+are several paths of approach that the H atom can take when it attacks a large
+molecule like propane. Since the bond strength between various atoms is different,
+the ability of H atom to break up the propane molecule is different along the differ-
+ent orientations shown. Hence the reaction rate will get affected by the orientation
+of the molecule in the reaction. In a complex situation, the Steric factor could be as
+small as 1072. For a general reaction,
+
+46
+

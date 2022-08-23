@@ -1,0 +1,48 @@
+2.3 Solid Fuels
+
+ambient conditions. It is for the reason of ensuring very high reliability in ignition
+that in the Apollo mission that landed a crew on the moon and got them back, the
+lunar module engine which lifted off from the lunar soil used a hypergolic combina-
+tion of Aerozine (50% hydrazine + 50% unsymmetrical dimethyl hydrazine) as the
+fuel and nitrogen tetroxide as the oxidizer.
+
+Among liquids, most amines (those substances with a chemical formula ending
+with the group N H,) are hypergolic with nitric acid and nitrogen tetroxide. Liquid
+oxygen is not hypergolic with most substances (even with kerosene). One of the
+most powerful oxidizers, namely Liquid fluorine, reacts with almost everything in-
+cluding glassware and is hypergolic with all fuels. It is also very toxic. As such, it
+is not used much in rocket applications.
+
+The last liquid without which this description is incomplete is liquid hydrogen.
+It boils at —253°C (20 K) and, hence, is a cryogenic fluid that must be stored care-
+fully, even more than liquid oxygen since its boiling point is much lower than of
+liquid oxygen. Liquid Hydrogen is an excellent fuel, has low molecular weight (2)
+and high energy. It is used with liquid oxygen in many rockets.
+
+2.3 Solid Fuels
+
+The first of these listed in Table 2.1 is biomass. The term biomass is used for the
+natural product of plants that have the ability to generate carbon by photosynthe-
+sis. Biomass includes firewood, leaves, bark, tiny branches, agricultural residues
+like rice husk, rice straw, wheat husk, wheat straw, groundnut shells, and a host
+of other plant materials. The use of biomass for combustion dates back to millions
+of years. Yet, it is less investigated than liquid petroleum fuels whose use began
+just a little more than a hundred years ago. The composition of all biomass is about
+the same on a moisture-free and ash-free basis. The ash content of most biomass
+is about 0.5-5%. But the straw, hulls of wheat and rice may have ash content as
+large as 22%. Figure 2.3 shows the different compositions of biomass. Though the
+composition of all biomass is about the same, the structure and form of availability
+is so wide, and the moisture content so wide-ranging (from the normal 8-10% up
+to 90% in the case of water lilies, hyacinth, coir pith) that their use for combustion
+calls for a consideration of these factors. There are of course technologies which
+were developed in the last century for using biomass for generating power as well
+as meeting combustion needs. These were ignored soon after petroleum fuels be-
+came naturally available. It is only the developing world which has to grapple with
+the lack of both petroleum fuels as well as biomass to meet its energy needs. As
+such there is a need to understand the combustion behaviour of biomass. Biomass
+in the form of firewood is used for combustion on grate. Its use for the generation
+of electrical power has been mentioned earlier while describing producer gas. Most
+biomass is lighter than water, with densities typically about 40-90% that of water.
+
+11
+

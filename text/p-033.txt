@@ -1,0 +1,48 @@
+and thus the एंथलपी change of the system represents the heat transfer to the sys-
+tem at constant pressure. The difference between changes in एंथलपी and internal
+energy represents work done by the system. Like internal energy, एंथलपी is also
+uniquely related to temperature in a perfect gas. To see this, we need to make
+use of the equation of state, an equation relating pressure, density (or volume) and
+temperature resulting from Boyle’s and Charle’s Laws.
+
+p= p#T = pRT | MH (4.5)
+
+or pv = mRT, where R is the universal gas constant and .#, the molecular weight
+of the gases. This gives,
+dh/dt =c, + Z = ¢ (4.6)
+
+where c, = the constant pressure specific heat.
+
+It is now the right time to discuss the properties of mixtures because we need
+to deal with situations of a number of species being together. The fundamental
+principle that applies here is the one given by Dalton who stated that in a container
+having a mixture of gases the total pressure exerted by the mixture equals the sum
+of the pressures of the gases which can be taken to exert pressure as though each
+alone is present. Such individual pressures are called partial pressures, By the
+statement of this definition, one can write
+
+piv = mT = mu ZT | MH; 4.7)
+where p; is the partial pressure of species i and m; is the mass of the species i.
+
+If we express the total pressure by pv = m#ZT = mRT/.#, we can state the
+Dalton’s Law as,
+p=2Xpi (4.8)
+
+In combustion literature, one uses molar units, one mole implying mass equiva-
+lent to molecular weight. Thus we have
+
+n; = mg) M; (4.9)
+and p;v = n; RT, pv = nRT. The ratio n;/n equals X; called the mole fraction.
+Xi; =n;/n=p;/p (4.10)
+In addition, one defines mass fraction as
+Y; =m;/m (4.11)
+
+the ratio of the mass of the species i to the total mass.
+
+Equations (4.10) and (4.11) concerning X; and Y; can be used to write Y; =
+mg/m = (n;.M;)/(n.#) and we get
+
+Yi = X; MM (4.12)
+
+25
+

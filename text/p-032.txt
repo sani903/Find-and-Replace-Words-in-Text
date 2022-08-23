@@ -1,0 +1,52 @@
+4 How Much Heat? How High a Temperature?
+
+distances of possibly several kilometers around the meteorological station, but not
+over larger scales—for instance a distance as large as that to the airport—because
+temperature is not the same over this distance. All that this implies is that equi-
+librium is said to occur over certain smaller scales in a system which by itself in
+totality, is at non-equilibrium.
+
+Consider a candle flame. The temperature measured through different parts
+of the flame is significantly different. Yet we talk of temperature at a point. This
+means that the total non-equilibrium system is split into a number of states which
+can be described by equilibrium properties—pressure, temperature etc.
+
+Thermodynamics, as distinct from mechanics, introduces an additional quantity
+of state (equilibrium) needed for specifying a system—the temperature. Zeroth law
+gives it a shape by indicating that several bodies in contact with each other are
+said to be in thermodynamic equilibrium provided they have the same temperature.
+Stated differently, a quantity called temperature has to be the same if systems in
+physical contact are to be at equilibrium.
+
+The first law summarizes the experience of life that energy can neither be cre-
+ated nor destroyed but only transformed; that one cannot continue to extract heat
+continuously without any other change in the system. Conceiving that all descrip-
+tions require a system and surroundings and interactions between them, thermo-
+dynamics distinguishes between those in which there is no mass, momentum and
+heat transfer (called isolated systems) and those in which there is no mass transfer
+but momentum and heat transfer can occur (called closed systems) and those in
+which nothing is forbidden (called open system).
+
+In the closed system one can conceive of a constant volume or constant pressure
+system to state the limits. No work will be done in the case of a constant volume
+system. Any heat transferred to this system (dg) will result in a raise in internal
+energy (de) of the system, which in perfect gas is c,dT.
+
+(dq)v=constant = de = c, dT 4.1)
+
+where c¢, is called the constant volume specific heat = de/dT. In the systems where
+pressure-volume work can be done—like a cylinder fitted with a piston at the top
+and on which one can set weights to change the pressure, the transfer of heat into
+the system causes a rise in internal energy along with the work required to move
+the piston.
+
+(dq) p=constant = de + pdv (4.2)
+
+To treat such cases a quantity called एंथलपी (h) is defined as
+h=e+ pv (4.3)
+so that at constant pressure one gets
+
+dh = de + pdv = (dq) p=constant (4.4)
+
+24
+

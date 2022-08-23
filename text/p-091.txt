@@ -1,0 +1,39 @@
+9.5 Overview
+
+the velocity of blow-off, V,; as
+
+pd®Viy pep (Ty — Tp) ~ Wf dH x Const
+H
+
+Vir ~ Const. (W} /p)d —————
+
+Since uw’ ~ p" and p ~ p, we get
+Vis =~ Const. p"~ td f(A/F) ~ S2d/p (9.7)
+
+This behaviour of the blow-off speed with pressure seen via pressure alone or through
+Sy is indeed found experimentally appropriate. The blow-off speed peaks around
+stoichiometry and falls off on either side like flame speed. It also scales like the
+characteristic dimension of the obstacle. In the after-burners, the size of the V-
+gutter is chosen as a compromise between flame stability and allowable pressure
+drop across the after-burner caused primarily by the bluff body.
+
+9.5 Overview
+
+In this chapter the elements of combustion theory relevant to flame stability and
+extinction/blow off have been examined. The ideas of laminar flame speed repre-
+senting reactivity of fuel-oxidant mixture along with quench distance are used in
+describing the stability of flames in burner. The combustion stability and blow-off
+in gas turbine combustors and bluff body flame holders are described in terms of
+well-stirred reactors. An alternate but entirely equivalent view in terms of time
+scales invoking the first Damkohler number is shown to be very effective in ex-
+tracting dependence of speed at blow off or stability limits in terms of pressure and
+geometric parameters.
+
+The extinction of diffusion/premixed flames in complex situation calls for de-
+tailed calculations and plots of maximum temperature in the field with externally
+induced velocity (or its inverse). Reversed S curves (or S curve) result from such
+calculations and one obtains branches involving flame or no flame and transition
+between them depending on the fluid speed.
+
+83
+

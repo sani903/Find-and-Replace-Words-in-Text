@@ -1,0 +1,48 @@
+4 How Much Heat? How High a Temperature?
+
+mixture H,—LOX fuel rich causes an increase in 7 /.# even though T; decreases
+because .# decreases even more when the mixture becomes more fuel-rich. This
+fact is made use of in LOX-LH> engine where the operating oxidizer to fuel ratio
+is only 4.5 to 5 even though the स्टोइकोमेट्रिक ratio is 8. The flame temperature is
+reduced, which reduces the thermal problem on the engine.
+
+4.4 Theoretical vs. measured flame temperature
+
+It is useful to examine as to what extent does theory replicate reality, for it is of-
+ten thought that theory is always very distant from reality. The word “theoretical”
+itself has several levels. The first is the adiabatic flame temperature. This does
+not involve flow aspects. The next aspect includes fluid flow effects that influence
+the flame temperature through stretch (or straining of flame surfaces). Thirdly,
+there are heat losses by the system with flame to the surroundings. Inference
+from flame temperature measurements should accpont fof these aspects. When it
+is asked whether the adiabatic flame temperature computed by the procedure out-
+lined earlier is realized in actual practice, it is to be understood that stretch effects
+are excluded. What is this quantity called stretch that we are talking of?
+
+One can expect that in a complex flow field, the fluid elements will move in
+various directions. A flame is expected to be stretched if there is change in fluid
+velocity in a direction parallel to the flame surface. One also talks of strain rates
+somewhat synonymously. This stretch can be positive or negative. Positive stretch
+makes the flame thinner. Negative stretch makes the flame thicker. When a flame
+is flat and the premixed fluid flows through the flame in a direction normal to it,
+one would have an unstrained flame. This is an ideal flame discussed in chapter 6.
+In a classical Bunsen flame, the region near the top where the flame is curved, one
+experiences negative stretch (also called compressive strain rate) and the conical
+region below this segment experiences positive stretch. In a complex flow field, the
+flame surface could move unsteadily and curve up in various directions, leading
+to various strains being imposed on the flame. If one measures the temperature
+in the burnt zone just after a flat flame, one would really measure the adiabatic
+flame temperature corresponding to the mixture ratio of premixed mixture. If one
+measures the temperatures in a conical (Bunsen) flame one will find stretch is to
+reduce the flame speed’ or the local consumption rate and at extreme stretch, there
+could be flame extinction as well. If the flame is turbulent, one could have flame
+extinguishment at several locations at different instants leading to temperature
+fluctuations from the ambient value to high temperature largely because of these
+effects.
+
+The effect of heat losses will be severe in small systems and lesser in larger
+systems - the governing factor would be a geometry which minimizes the surface
+area that contributes to heat loss but has necessary volume to release the heat.
+
+40
+

@@ -1,0 +1,49 @@
+6.2 Why are we interested so much in Flame Speeds?
+
+Let us consider the question of importance of flame speeds in combustion pro-
+cesses. Several phenomena like ignition, quenching, lifting and blow-off of diffusion
+flames, blow-off of high-speed premixed mixtures are all related to chemical reac-
+tivity of a gaseous mixture. These can therefore be directly related to the burning
+velocity of a mixture. In situations where chemical reactivity is to be treated, one
+can use the flame speed as the representative quantity. If a solid propellant is burn-
+ing in one-dimensional geometry, then the configuration is similar to the flame in
+gaseous media excepting that a solid interface is accepting the heat transfer from
+flame and burning. The quantity S,, = p,7 where p, = density of the solid and 7 the
+linear burn rate, can be treated by similar approach. If a porous bed of pieces of
+solid fuel (like bio-fuel or coal) is burning with the flow of air through the bed, the
+flame front propagates through the bed against the air flow. This process is similar
+to the propagation behavior in gaseous fuel-oxidizer mixtures.
+
+While the simple analysis described above is adequate to understand the over-
+all features, much effort is needed to elucidate the dependence of flame speed on
+pressure. This is because what is being done is to relate the pressure index of the
+flame speed to reaction rate pressure index, something which is unknown because
+the reaction proceeds in several tepss and it is not clear a-priori which of the steps
+is/are important.
+
+In order to take complex kinetics into account, one needs to solve conservation
+equations, involving mass, momentum and energy, in general. In respect of de-
+flagaration (subsonic flame propagation) it is adequate to solve species (mass) and
+energy conservation equations. The conservation equations of many species being
+formed or destroyed via various s are solved on a computer which results in flame
+speed, temperature and mass fraction profiles. Computation performed for several
+pressures will reveal the pressure index. The resulting profile can also be used to
+obtain the overall heat release rates as a function of local temperature. One can
+then determine the reactivity of the gaseous mixture. Figure 6.4 shows the plots
+for Ho—O> and hydrocarbon—air systems. It can be seen that peak heat release
+rates are as high as 10° — —107 MW /m3. Referring back to Fig 6.1, wherein various
+geometries of premixed flame are shown, it is possible that the flames could be pro-
+duced with large ducts and at reasonably high velocities as well. In such cases the
+flames no longer remain laminar. High speed pictures will show combustion zones
+randomly moving around; the flame will be noisy as well. Such flames are said to
+be affected by turbulence. Turbulence begins to play a significant role in ducts for
+Reynolds numbers larger than 2300 or so. The Reynolds numbers are calculated
+based on mass flux through the duct pu, (where p is the density and is the velocity
+of the gas mixture), duct diameter, d, and viscosity of gases issuing out of the duct
+(1) (Re = pud/p). Turbulence is characterized by intensity and scale. Intensity is
+essentially the ratio of root mean square of fluctuating velocity to mean local veloc-
+ity (y/u/?/u). Scale refers to the length scale or distance of influence of fluctuations
+at any point. It is usually defined using correlations between fluctuations of veloc-
+
+55
+

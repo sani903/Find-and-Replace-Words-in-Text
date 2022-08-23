@@ -1,0 +1,49 @@
+9.3 Stability of a Candle Flame
+
+chamber.
+
+9.3 Stability of a Candle Flame
+
+We now move on to the case (c)— candle and matchstick flames. The question here
+is: How is it that increased flow of oxidizer causes the flame blow off or extinction?
+And at what speed does it extinguish? The answer to this question has been dis-
+cussed already. The only point of difference is that the system is not so simple as we
+discussed above. As distinct from a stirred reactor model, the candle flame is a dif-
+fusion flame and mixing-controlled. The match stick flame is somewhat premixed
+flame controlled, and yet affected by local distribution of flow rates.
+
+Therefore, the changes to our earlier statements can be derived from the expres-
+sion related to time scales. In the candle flame, the distribution of local velocities,
+mass fraction of species and temperature exist and hence the distribution of reac-
+tion rates over the region. One can examine if the peak temperature in the region
+will fall rapidly as a consequence of an air stream flowing around the flame. De-
+tailed numerical calculations of this class for slightly simpler geometries like the
+one opposed jet diffusion flame (flames stabilized between two opposite jets of fuel
+and oxidizer) or premixed flame (flames stabilized between two jets of premixed
+fuel-oxidizer mixture) yield plots like shown in Fig. 9.7 for various inlet stream
+temperatures. In this figure, the peak temperature in the field (7,,..) is plotted
+against D| l= Ten/Ty With 7; = d/V where d is interpreted as the diameter of the jet
+and V is the jet speed.
+
+Assume that the system is at D at an ambient temperature of 300 K under no
+flame conditions. At this condition or between D and C, ignition causes the point to
+shift to upper branch—called equilibrium branch, i.e., say from D to A. If now the
+speed of the stream is increased, point A moves to B. The temperature falls slightly
+(say, from 2300 to 2000 K or so). At condition B, any slight increase in speed causes
+the flame to suddenly extinguish and the system takes position C. This speed is the
+maximum that can be set with flame being present in the system. Beyond C (larger
+velocities), the system will not ignite at all. In this region the heat convected away
+from any region in the flow is much larger than the energy input rate and steady
+state with no flame existing at all.
+
+The curve joining B and D can be shown to be unstable and the branches AB
+and DE are stable. Such curves are called S curves (you can see an S curve for a
+plot of T},4. vs. D1 as is usually done). The curves are not special to combustion
+alone. They occur in many nonlinear problems of dynamics like vibration of non-
+linear spring—mass systems. When the inlet stream temperature is large, say, 1200
+K, the transition process does not have any discontinuities. There is flame’ at all
+Damkéhler numbers, with small, non-insignificant reactions at temperatures little
+above the stream temperature and reasonable reactivity at higher temperatures.
+
+81
+

@@ -1,0 +1,46 @@
+17 Explosives — Solid and Liquid
+
+are many other substances which detonate easily but deflagrate with difficulty. Ni-
+trocellulose, one of the main ingredients in propellants and explosives, deflagrates
+easily, does not detonate if the nitrogen content in it is much lower than 12 %.
+Beyond this value of nitrogen, it would detonate. Ammonium perchlorate (AP),
+the mainstay of composite solid propellants, does not even deflagrate at ambient
+conditions. It requires a minimum pressure (called low pressure deflagration limit,
+LPDL) before self-deflagration is possible. It is very difficult to detonate AP. Ammo-
+nium nitrate is both a propellant ingredient as well as an explosive. When mixed
+with a binder and made into a propellant or when stored in small amounts, it is
+"docile" — it only deflagrates on initiation. However, when stored in large amounts
+as happens during transportation in ships (ammonium nitrate is also an indus-
+trially needed chemical for fertilizers), a small fire in the hold can transform into
+a detonation — a phenomenon known as deflagration-to-detonation transition al-
+ready alluded to. Among substances which can be used both as propellants as well
+as explosives are RDX [cyclotrimethylene trinitramine, C3 Hg N3(NO2)3] and HMX
+[cyclotetramethylene tetranitramine, Cy Hg N,(NO3)4]. ‘When these substances are
+made into a propellant, they can be ignited to deflagration and detonation-initiation
+procedures (like shocks) do not cause detonation since the propellants contain other
+materials which prevent excitation to detonation. However, when the substances
+are held pure, shock initiation leads to detonation (see later).
+
+In the category of detonating substances that are difficult to initiate into defla-
+gration, trinitrotoluene (TNT, C7; H;N30g) is a clear example. A blow from a deto-
+nator, or friction can initiate TNT into detonation. Further when TNT is confined
+in a tube, a strong initiation by deflagration can transition itself into detonation.
+However, lighting TNT at ambient pressure is not easy, though possible.
+
+Applications needing energetic substances usually demand only one feature -
+deflagration or detonation. All thrust generating propulsion systems for launch ve-
+hicles or missiles use propellants which deflagrate. In order to initiate combustion
+or ignition, heat sensitive explosive material is used. Detonating explosives used
+in military hardware like hand grenade, sharpnel shell, bomb, shaped charges for
+piercing armours and other applications like line mine clearing charge to clear the
+mine infested field; and in civilian requirements like underground coal mine oper-
+ations, explosive forming for cladding vessels for industrial operations, quarrying,
+seismic prospecting and others. When the requirement is of detonation, one does
+not want deflagration mode of functioning. An example of this is in mining. In an
+underground mine, if a section of the material is to be dislodged through the use of
+explosives, one must only have detonation and no deflagration. The latter is unac-
+ceptable since the atmosphere may have combustible gas like methane—air mixture
+which might lead to propagation of deflagration resulting in a gaseous explosion.
+
+168
+

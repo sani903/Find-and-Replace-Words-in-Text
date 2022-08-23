@@ -1,0 +1,39 @@
+15 Solid Fuels - Combustion and
+Gasification
+
+Solid fuels appear in various forms: biomass, coal and synthetic polymeric solids.
+Municipal solid wastes consist of bio-residues and synthetic polymeric solids. Most
+of this matter has volatiles as well as fixed carbon (excepting non-charring syn-
+thetic polymers like polyethelene). Combustion of these fuels involves two stages —
+devolatilization with gas phase combustion and char combustion. Devolatilization
+is also a gasification process, called pyrolysis. However, gasification, in a true sense,
+implies conversion of solid fuels into gaseous fuels capable of being transported for
+combustion over a distance, something not possible in the direct combustion pro-
+cess.
+
+Solid fuels are characterized by varying shapes and sizes, moisture fraction and
+ash content. Bio-residues like wood chips, coconut shells, corncobs, bagasse, and
+shells of seeds generally have a low ash content of about 1 %. Ricehusk, rice and
+other straws have an ash content up to 20 %. Australian coals have an ash con-
+tent of about 5 %. The ash content of indian coals could be as high as 50 %. Most
+green biomass has a moisture fraction up to 60 %. Thin walled biomass like sugar-
+cane leaves loose their moisture quickly. Thick-walled biomass like bio-stock takes
+weeks to loose their moisture naturally. If they need to be used for thermal conver-
+sion purposes, drying needs to be a part of the system. Thus, sizing and drying are
+prerequisites of an efficient conversion process for these solid fuels. The ash result-
+ing from the combustion process could be in fine form, and needs to be handled as
+well.
+
+Combustion of solid fuels has been discussed in Chapter 13 in connection with
+stoves and combustors. One can raise a question now: If we can burn solid fuels ef-
+ficiently with little emissions, why should there be a need for converting solid fuels
+to gaseous fuels. If solid fuels are burnt, then it is imperative that the heat be ex-
+tracted at the location of heat release. This is performed classically by burning fuels
+on the grate of the combustion system or a fluid bed combustion system built along
+with a high pressure steam boiler. The steam is subsequently used in a steam tur-
+bine to generate electricity. One of the limitations of this approach is that whereas
+the hot gases of combustion are typically at 1500-1700 K, the superheated high
+temperature steam would reach only about 650 K. Since the peak cycle tempera-
+
+139
+

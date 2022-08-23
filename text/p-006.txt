@@ -1,0 +1,69 @@
+Contents
+
+How Does a Reaction Proceed? At What Rate?
+
+Premixed Flames
+
+6.1 Propagatingflames .................. .. ......
+6.2 Why are we interested so much in Flame Speeds? ........
+
+6.3 OVerview . . . . . oo i eee
+
+Inflanlnmability, Quenching
+
+7.1 Quenching . ........... ee
+
+7.2 OVErview . . . . «oo ii i eee
+
+Ignition
+
+8.1 Ignition of a Liquid Pool and solid fuels . .............
+8.2 Matchstick composition and ignition . . ..............
+8.3 Ignition in Reciprocating Engines . . . . . . ............
+8.4 Ignition in Rocket Engines . . . . . .................
+8.5 Ignition for Solid Rocket Engines . . . . ..............
+
+8.6 OVErVIEW . . . . vi eee
+
+Stability, Extinction and Blow-Off of Flames
+
+9.1 Stability of a Bunsen Flame . . ...................
+9.2 Stability of Flames in Gas Turbine Combustors. . . . . .. . ..
+9.3 Stability of a Candle Flame . . ...................
+9.4 Bluff body flame stabilization . ...................
+
+9.5 OVErVIEW . . . «ov i ee ee
+
+10 Diffusion Flames
+
+10.2 Droplet Combustion . . . . . .....................
+10.3 Boundary Layer Combustion . ...................
+
+43
+45
+49
+
+51
+51
+53
+57
+
+59
+60
+64
+
+65
+67
+68
+69
+70
+70
+71
+
+73
+75
+76
+80
+82
+83
+

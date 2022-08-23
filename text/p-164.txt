@@ -1,0 +1,50 @@
+16 Emissions from Combustion Systems
+
+flames. This helps increased heat transfer to the walls in a boiler. Thus, soot is
+desirable under some conditions, and other times very undesirable.
+
+Diffusion dominated situations—Fuel oil burners, diesel and fuel oil combustion
+in reciprocating engine cylinders and kerosene combustion in gas turbine combustor—
+are characterized by a combustion process where fuel rich regions and oxidizer rich
+regions are inevitable. Thus the combustion process is characterized by a whole
+range of stoichiometries. Hence there is no escape from the production of several of
+the undesired intermediate compounds. What is pertinent is whether enough mix-
+ing takes place subsequently and whether the mixed conditions provide the tem-
+perature and composition structure and residence time for the burn-out of these
+undesired species. Usually, at full throughput conditions the thermal environment
+is favorable for the reduction of these pollutants to low levels. At part loads and
+accelerating conditions, however, conditions can be severe. In reciprocating engines
+the air flow rate into the cylinder is always constant and the fuel flow rate is varied
+depending on the load. Thus the air-to-fuel ratio varies from a very large value at
+no-load condition to values little above stoichiometry at full load. In fact, the full
+load is determined by the criterion that a specified air-to-fuel ratio be maintained
+to limit the emissions - UHC in the form of smoke and perhaps, oxides of nitrogen.
+
+There are several instances where a standard equipment like a burner that
+would initially be using lighter oil as a fuel with acceptable emissions would turn
+out to generate significant emissions subsequently essentially because, the costly
+lighter oil would have been replaced by a cheaper heavier one. The C : H ratio
+would be more adverse (becoming higher) making it difficult for the combustion
+process to cope with the ‘more difficult’ fuel. In such a case, it may be necessary to
+alter the equipment designed for the lighter fuel substantially or even abandon it.
+
+16.3.2 Oxides of nitrogen, NO,
+
+Of the oxides of nitrogen, the principal pollutant is NO. Other oxides of nitrogen
+form a very small fraction of NO,. Even so, nitric oxide is a necessary ingredient of
+our life cycle.
+
+The oxides of nitrogen get generated through three routes: (i) thermal route
+leading to ‘thermal NO’, (ii) hydrocarbon-fragment related route leading to ‘prompt
+NO’, and (iii) fue- bound nitrogen leading to ‘fuel-bound NO’. The thermal route is
+by far the most important route. About 90 % NO is captured by it. It involves the
+reactions as follows.
+
+O+ Na+ NO+ N (16.2)
+N+0Oy+ NO+O (16.3)
+N+OH < NO+H (16.4)
+
+The first two reversible reactions are the Zeldovich mechanism. When the last
+
+156
+

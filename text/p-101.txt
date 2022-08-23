@@ -1,0 +1,58 @@
+10.2 Droplet Combustion
+
+One can notice that this value is larger than the linear estimate indicated earlier.
+
+The treatment of the problem of droplet combustion (under zero g) is similar,
+but needs more work. A flame surrounds the droplet at a distance 10 to 15 times
+the drop radius from the centre and transfers heat to the droplet. In the treatment
+of this problem one uses a well known (to combustion theoreticians) approximation
+called the thin flame approximation. It is good to understand the features of this
+approximation because most diffusion flame treatments invoke it.
+
+In this approximation, which is based on the fact that diffusion is slower than
+reaction because the fuel and the oxidant are unmixed until the flame is reached,
+the reaction rates are taken infinitely fast compared to diffusion. Such an approxi-
+mation makes the flame infinitesimally thin. Since the oxidizer and the fuel come
+from both sides of the flame to-wards it, and reaction is very fast, it implies that the
+fuel and oxidizer are completely consumed at the flame (their mass fraction is zero
+at the flame) and no leakage past the flame can take place (fuel mass fraction is
+zero on the oxidant side and vice versa). The temperature has a peak at this flame
+location.
+
+The flame is located by assuming that the fuel and oxidizer fluxes approaching
+the flame are in स्टोइकोमेट्रिक proportions. This implies,
+
+Dor pdYyy/dr)/(DyspdYy/dr) = Stoichiometric ratio (10.16)
+f f
+
+Using this expression and other conditions, it is possible to solve the conservation
+equations in a straightforward manner. One interesting feature of these solution
+techniques is that one solves the एंथलपी and element conservation relations first
+as these are unaffected by thin flame approximation Subsequently, one obtains the
+complete solution after imposing the approximation. The solutions give
+
+te = ry) Ke. (10.17)
+where —_
+K, =F n+ Be) (10.18)
+‘p Pl
+
+It can be noted that the expression for the time of combustion (and for the mass
+
+burn rate) is similar to that of vaporisation and the only difference is in the value
+
+of transfer number B,.
+
+_ HYyo0/5 4 ¢p(Ts — Tp)
+L
+
+It can be noted that the temperature difference term in vaporization is (7p — 75)
+whereas for combustion it is (7; — Tp). It is so arranged because vaporization oc-
+curs only when the ambient temperature Tj is larger than the surface temperature
+Ts, and for combustion, the surface temperature is usually larger than the ambient
+temperature. However, it is possible for combustion to occur with the surface tem-
+perature lower than the ambient temperature because the heat released from the
+
+Be. (10.19)
+
+93
+

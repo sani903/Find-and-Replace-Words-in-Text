@@ -1,0 +1,53 @@
+3 Chemistry and Stoichiometry
+
+Table 3.1: Valencies of various elements
+Element H,F,ClI O,S N,P,AlB
+Valency 1 2 3
+
+ 
+
+ 
+
+normally encountered in combustion phenomena For H>O- the formula gives e.r =
+(2x 1)/(2 x 2) = 0.5 from which one can see it is fuel lean. Similarly
+
+(er)Ne =(6x44+7x1)/(11 x2) =1.41; (e.r)nyc = 0.94
+
+(e.r) NH, ClO, = (4 X 1)/(1 x14+4x 2) =0.44
+
+As can be noticed, the values of equivalence ratio confirm the expected feature re-
+garding fuel richness or otherwise.
+
+Tables 3.2 and 3.3 give the स्टोइकोमेट्रिक ratio for a range of fuels with oxygen
+or with air as the oxidizer. A few features are interesting to note. Those fuels which
+have oxygen as an element in their structure will need smaller amount (weight) of
+oxygen or air for combustion. Those involving greater amount of hydrogen will need
+large amount (mass basis) of oxygen/air for combustion. The स्टोइकोमेट्रिक ratios
+vary from about 2.5 to as much as 35.
+
+Another feature emerges from the observation of the data on solid fuels. The
+data with regard to solid fuels show that the composition of the fuels changes from
+wood to anthracite coal by successive carbonization. The actual amount of oxy-
+gen and hydrogen stripped from the starting material depends on the process that
+occurs at high pressure and temperature inside earth. The net result is that the
+oxygen-to-fuel ratio continues to rise from wood to coal as shown in Table 3.2. The
+implications of स्टोइकोमेट्रिक ratio to combustion are very significant. If one were to
+observe a flame from a burner which issues fuel gas into an otherwise undisturbed
+atmosphere, one would find that a hydrogen flame at the same mass flow rate is
+thirteen to fourteen times as long as that for carbon monoxide in the laminar range
+of flow rates. (See Chapter 10 for further details). If in a confined atmosphere,
+leakage takes place in the presence of a very hot spot, smaller amount of hydrogen
+will consume up all air available in comparison to hydrocarbons.
+
+3.1 Fuel? Oxidizer?
+
+Till now we have been talking of fuels and oxidizers as though we know what they
+are. Indeed how can we say what is oxidizer? Is oxygen always an oxidizer? Chem-
+ically an oxidizer is defined as one which acquires electrons and fuel as the one
+which can donate electrons. The various elements are categorized in terms of ei-
+ther their richness in donating electrons or hunger in accepting electrons. Such a
+table is called electronegativity table. Table 3.4 shows the Pauling’s electronegativ-
+ity values in decreasing order. As can be seen, fluorine has the largest capability
+
+20
+

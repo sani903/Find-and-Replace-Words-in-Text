@@ -1,0 +1,56 @@
+4 How Much Heat? How High a Temperature?
+
+Table 4.8: Flame temperature of some typical fuels
+
+ 
+
+ 
+
+Fuel Oxidizer Pressure Initial Peak
+MPa Temp K Temp K
+Methane Air 0.1 300 2210
+Methane Air 2.0 300 2270
+Methane Air 2.0 600 2500
+Methane Oxygen 0.1 300 3030
+Methane Oxygen 2.0 300 3460
+Hydrogen Air 0.1 300 2400
+Hydrogen Oxygen 0.1 300 3080
+Acetylene Air 0.1 300 2600
+Acetylene Oxygen 0.1 300 3400
+Carbon monoxide Air 0.1 300 2400
+Butane Air 0.1 300 2250
+Kerosene Air 0.1 300 2270
+Producer gas Air 0.1 300 1500
+Wood (dry) Air 0.1 300 1900
+
+ 
+
+Producer gas and wood are low-energy fuels compared to hydrocarbons. Pro-
+ducer gas has about one-tenth the heat of combustion of kerosene on weight basis.
+Since it needs little air to burn stoichiometrically, it still can raise the temperature
+to a significant value (~ 1500 K). Wood (dry) has a calorific value of about 16-20
+M J/kg, being a little more than one-third that of kerosene; it also has oxygen in it.
+It needs about six and a half times its weight of air to combust stoichiometrically
+and ideally attains a temperature of1900 K.
+
+Combustion properties of three typical examples of rocket engine systems are
+shown in Fig. 4.3(a) and 4.3(b). The figures show the plot of 7, .#, v and a quantity
+called ¢* with oxidizer/fuel for a solid propellant as well as two liquid propellant
+combinations. ¢* is called the characteristic velocity. It is given by
+
+cc" =/RT;/(AT(7)) (4.23)
+
+where I'(y) is a function of the ratio of specific heats (~1.2) and is about 0.62.
+
+Higher ¢* means better performance of a rocket propellant combination. It has
+an interestingly curious dependence on (7; /.#). This increase in performance does
+not necessarily have to take place by an increase in 7. It can also be accomplished
+by decrease in .#Z. Whereas in the case of solid propellant (not shown here) as well
+as UDMH-N,0, liquid propellant, the peak in T; corresponds roughly to peak in c*
+implying that molecular weight variation does not play a major role, in the case of
+liquid hydrogen-liquid oxygen (LH,— LOX) system, variation in .# plays a signifi-
+cant role. As can be noticed, .#y, = 2 and .#y;,0 = 18; the average molecular weight
+varies between 8 and 18 in the figure. Since this variation is large, making the
+
+38
+

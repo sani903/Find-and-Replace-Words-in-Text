@@ -1,0 +1,17 @@
+15.2 Overview
+
+Updraft gasifier is tolerant to the variation in fuel quality, but generates a com-
+bustible gas with high levels of tar. It is usually used for raising steam or other
+thermal applications. Fluid bed gasification system also generates a gas with sub-
+stantial amounts of tar. Downdraft gasifiers, on the other hand, provide good per-
+formance including very low levels of tar, but the feed stock must be better prepared
+in terms of size and with minimum moisture (sundry condition usually implies 8 to
+12 % moisture). This burden on fuel preparation for use in downdraft gasifiers pays
+off by little additional maintenance on end-use devices like engines. Fixed bed sys-
+tems respond to change on demand at the downstream end (through the opening
+of a valve in the pipe carrying the gas, say) without any additional action. Fluid
+bed systems, however, need to control the fuel feed and air flow rates as soon as the
+change in demand is sensed.
+
+147
+

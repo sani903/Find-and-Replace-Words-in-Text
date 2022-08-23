@@ -1,0 +1,67 @@
+4 How Much Heat? How High a Temperature?
+
+Table 4.1: Contd... Heats of Formation (hy;, kJ/mole)
+
+ 
+
+ 
+
+Species Formula hi, kJ/mole
+Octane (1) CsHig —208.4
+Kerosene (1) CHi 84 —-51.6
+Acetylene CoH, 226.9
+Benzene Cs Hg 82.9
+Methyl alcohol CHsOH —201.0
+Methyl alcohol (1) CH;OH —238.6
+Ethyl alcohol CyH;OH —239.0
+Ethyl alcohol (1) CyHsOH —277.4
+Nitrogen No 0.0
+Elemental Nitrogen N 471.0
+Ammonia NH; —46.2
+Hydrazine (1) NoHy 50.4
+Nitric acid (1) HNO; —171.8
+Chlorine Clq 0.0
+Chlorine atom Cl 121.4
+Hydrogen chloride HCI -92.1
+Ammonium Nitrate (s) NH4NOs —-365.3
+Ammonium perchlorate (s) NH4CIO4 —290.5
+UDMH (1) (CH3)2NoH, 88.4
+Ethyl amine (1) CoHsN 91.0
+Nitrogen Tetroxide non 9.63
+Nitrogen dioxide NO, 33.9
+Nitric Oxide NO 90.4
+Nitromethane (1) CH3NO, —-113.1
+Aluminium (s) Al 0.0
+Alumina (s) Als03 —-167.0
+Magnesium (s) Mg 0.0
+Magnesium Oxide (s) MgO —601.5
+HMX (s) (H2CNNO32)4 +75.0
+NC (s) (b=1.0)! C1.90Hs 01425 Np —292.5
+NG 1) C3H5(ONO3)3 -370.0
+
+ 
+
+and A; refers to species, and
+
+Heat of combustion = (a; — aj)[hy; + he(T) —
+
+hs; (298.16)]
+
+For any reaction Xa; A; — Ya’ A;, where a, and a! are स्टोइकोमेट्रिक coefficients
+y ’ ’ i
+
+(4.19)
+
+As an example, we can calculate the heat of combustion for reaction (A) at 298.16
+K. For this reaction we identify various coefficients as A; = CHy, As = Oo, As,=
+
+COy, Ay=Hs0 anda; =1,a2=2,a3=0,a4=0,a} =0,a,=0,a5=1, ay = 2.
+
+H. = —74.5+ 394.0 + 2 x 242 = 803.5k J
+
+ 
+
+'b=0.75-1.2 depends on Nitrogen content
+
+28
+

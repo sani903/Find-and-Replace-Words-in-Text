@@ -1,0 +1,49 @@
+10.4 Overview
+
+For turbulent free convective flows it varies as
+
+pp = CoB™ (ky/ cpg) (GrPr)t/3 (10.36)
+
+The constant Cy may take different values in each of the above cases. The de-
+pendence on Reynolds number and Grashoff number shown above are observed in
+several complex situations where flows are laminar or turbulent. The value of the
+exponent m on B was thought to be about 0.25 till the nineties. This small value for
+the exponent coupled with the variation of B by a factor of 1.5 over the fuels gave
+rise to the conclusion that the regression rate is about the same no matter what
+fuel you choose. Experiments showed otherwise — differences in regression rate be-
+tween different fuels were much higher. This was explained in the nineties when
+the blocking effect was examined more carefully. It was uncovered that the blocking
+effect depended on the density profile through the boundary layer. For instance, in-
+jecting carbon dioxide (molecular weight of 44) or gaseous species with even higher
+molecular weight differed from the results of experiments with air. In boundary
+layer combustion, most fuels have much higher molecular weight, more particu-
+larly polymeric fuels whose fragments in the gas phase have a molecular weight of
+several hundred. Consequently, a theory that was developed accounting for these
+effects showed a complex expression that could be approximated to m = 0.5 in most
+cases. This explained the observed dependence of regression rate on fuels.
+
+The above relations explain an interesting fact which one experiences in every-
+day life. Take firewood logs burning in stoves. The varieties of fire-wood available
+differ in density (p, over a wide range 300 to 1000 kg/m?). It is observed that lighter
+woods burn faster. This is consistent with the equation above, which expresses the
+mass flux of fuel (density times linear burn rate) in terms of flow, thermodynamic
+and transport properties. And other parameters remaining same (as they usually
+do for similar sized logs), lighter fuels must burn proportionately faster. This also
+explains the observed ‘long’ combustion times for coal. Coal has a high density—
+1300 kg/m? and has much lower volatile content (~ 30 %). Hence, if one used a
+wood burning stove to operate on coal, one would find that coal would burn for
+nearly twice as long or more after the coal started burning—the effects of higher
+density and larger fraction of char in coal.
+
+Typical regression rates vary from 0.02-0.4 mm/s for most solid/ liquid fuels
+with air, the precise value depending on the fuel, flow rates and size. These re-
+gression rates are very small and are essentially due to the diffusion nature of the
+flame.
+
+10.4 Overview
+
+Diffusion flames have been described as the largest class of flames encountered in
+nature. These flames usually appear yellow in colour. They are also tall because
+
+101
+

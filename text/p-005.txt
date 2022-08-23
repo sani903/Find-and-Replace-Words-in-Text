@@ -1,0 +1,32 @@
+Contents
+
+Preface
+Preface . . . . . ee
+
+Symbols . . . . . eee
+
+1 Why Should One Attempt to Understand Combustion?
+
+1.1 OVErvIEW . . vv vv tt et ee ee ee
+
+2 What Do We Burn and Why?
+2.1 GaseousFuels . ....... LL
+22 LiquidFuels . .......
+2.3 SolidFuels . . ....
+
+2.4 OVErVIEW . . . ov oe eee
+
+3 Chemistry and Stoichiometry
+3.1 Fuel? Oxidizer? . . ..... . ee
+
+3.2 OVErVIEW . . . «oo ot eee
+
+4 How Much Heat? How High a Temperature?
+4.1 TheSecond Law . . . . . .....
+4.2 How Do We Compute the Composition? . .................
+4.3 How Do We Obtain Flame Temperature . . ................
+4.4 Theoretical vs. measured flame temperature . . .............
+4.5 Can we raise the peak temperature from a given reactant set? . . . . .
+
+4.6 OVErVIEW . . . tv vt i te eee
+

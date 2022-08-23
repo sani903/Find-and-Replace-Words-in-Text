@@ -1,0 +1,65 @@
+15 Solid Fuels - Combustion and Gasification
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Air[[ L]] Open
+top
+Insulation HH Biomass
+EH Oxidative pyrolysis
+Reburn, HH zone
+5 _
+zone >
+Air H
+] Combustible
+gases
+Reduction 1 with little tar
+zone
+with char —
+A Sn Fb
+
+Figure 15.3: Open top reburn downdraft gasification system— IISc design
+
+these variations. Problems of tar generation are far more serious with bio-fuels
+compared to coal since the volatile content in bio-fuels is very much higher.
+
+The hot gas has to be cooled and cleaned for use in advanced combustion systems
+and engines. The typical demand of high throughput engines in terms of tar and
+particulate matter is that they should be less than a few ppm in order that the
+engines operate on producer gas just as well as with natural gas.
+
+15.2 Overview
+
+This chapter has considered the thermal conversion processes for solid fuels. The
+recognition that solid fuels are generally of varying shapes and sizes with different
+moisture and ash content is important for designing a combustion system that is
+expected to be efficient with minimum gaseous emissions. One general principle
+is to convert the solid fuels into gaseous fuels so that combustion control is better
+exercised. Also, when the solid fuels are converted to clean gaseous fuels, it is
+possible to use them for mechanical power generation (and thereby, electricity) as
+well as for high grade heat.
+
+Combustion devices looked at in this chapter are moving grate system, bubbling
+and circulating fluid beds. Fluid bed systems allow better thermal and emission
+control.
+
+Gasification devices are fixed bed systems, bubbling and circulating fluid bed
+systems. Fixed bed gasifiers can be updraft or downdraft.
+
+146
+

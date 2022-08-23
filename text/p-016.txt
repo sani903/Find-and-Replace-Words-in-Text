@@ -1,0 +1,57 @@
+2 What Do We Burn and Why?
+
+Table 2.2: Composition of fuels (HHC = Higher hydrocarbons)
+
+ 
+
+ 
+
+Substance Density Composition (%)
+
+kg/m? (Volumetric)
+LPG (liquid) 540-560 C3H6 = 18, C,H;( = 80, HHC-rest
+Biogas 1.1-1.2 CH, =60-80, CO, = 40-20
+
+Producer gas (wood) 0.9-1.2 CO = 16-20, H, = 16-18, CO, = 8-
+10, HHC—trace, Ny—rest
+
+Blue water gas 0.65 H, = 50, CO = 40, CO, = 6, N, and
+others—rest
+Coke oven gas 0.40 H, =54, CH, =24,CO =8, CO, = 6,
+
+(HHC + Ny)-rest
+
+ 
+
+large rural households now have biogas plants based on cow dung. The cow dung,
+which has several microbes in it, is mixed with water and allowed to settle in a
+sealed container with space above the liquid for the gas to collect. The microbes
+attack the biomass and generate a gas composed largely of methane and carbon
+dioxide. A typical composition of biogas is given in Table 2.2.
+
+The gas stoves that run on biogas are similar to the LPG gas stoves used for
+cooking purposes. Biogas can also be used to run gasoline (spark ignition) engines
+as well as diesel (compression ignition) engines in a dual fuel mode, i.e., in a mode
+in which both gasoline diesel and biogas are used as fuels (largely biogas).
+
+Producer gas is a product of oxidation — reduction reactions of air with biomass.
+Oxidation results in products of combustion like carbon dioxide and water. This
+is because biomass is chemically composed of elements C, H, O and some N. The
+molecules of Os, in air, augmented by bound oxygen oxidises C' and H, to produce
+these products. The gases that are at high temperature due to partial oxidation
+pass through a bed of charcoal (which is produced because of oxidation reaction it-
+self) and the reduction reaction of these gases with carbon leads to carbon monoxide
+and hydrogen. Nitrogen gas can be treated as inert in all these situations except
+for the generation of pollutants like oxides of nitrogen.
+
+There are other variants of combustible gases called blue water gas, coke oven
+gas, coke producer gas and blast furnace gas all produced as a result of oxidation —
+reduction reactions of coal or coke with air (and steam sometimes).
+
+2.2 Liquid Fuels
+
+In the second group of fuels listed in Table 2.1 we have liquid fuels. The first
+five liquids, namely gasoline, HSD, LDO, furnace oil and kerosene are products of
+petroleum distillation. They are composed of C and H in various proportions. They
+are not pure compounds. They contain a mixture of what are known as straight
+

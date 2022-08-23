@@ -1,0 +1,72 @@
+7.1 Quenching
+
+Table 7.1: Flammability limits (0.1 M Pa, 300 K)
+
+ 
+
+ 
+
+Fuel Oxidiser Lean Limit Rich Limit O/Fg,;
+9% (Volume % %
+of fuel)
+Hydrogen Air 4.0 75.0 29.5
+Hydrogen Oxygen 4.0 95.0 66.0
+Methane Air 4.5 14.0 9.5
+Ethane Air 3.0 12.4 5.6
+Propane Air 2.1 9.1 4.0
+Butane Air 1.8 8.4 3.1
+Acetylene Air 2.5 100.0 7.8
+Methyl alcohol Air 6.7 36.0 12.2
+Carbon monoxide Air 12.0 76.0 29.5
+(Moist)
+
+ 
+
+is called the quenching diameter and half of it is called quenching distance. Why
+does a quenching distance exist at all?
+
+The answer lies in the fact that the heat production or release rate of the flame
+is not adequate enough to overcome the heat losses and propagate. Another way
+of stating this result is that the flame speed k decreasing from adiabatic value to
+lower values depending on the extent of heat loss and it becomes zero when heat
+loss rate is a significant fraction of the heat generation rate.
+
+The heat generation rate is calculated by multiplying the volumetric reaction
+rate by the heat of combustion and volume of combustion zone given by the cross
+sectional area of the duct and flame thickness. Therefore
+
+Heat generation rate = H wf’ (mddy/4) (7.1)
+
+Heat loss can occur by conduction or by radiation. For propagation through
+tubes, which is being considered at present, it is the loss by conduction to the walls
+that matters. This heat loss is estimated by stating
+K(T; — Tp)
+
+(d/2)
+If heat generation rate is comparable to heat loss rate, then quenching may be
+considered to occur (d = d, is the quench diameter).
+
+d? d —
+4 (dg/2)
+
+Heat loss rate = Flux x Area =
+
+(md dy)
+
+ 
+
+dg dy
+
+where C is a constant.
+We note that H = ¢, (Ty — T,) and obtain
+k 1
+
+1
+
+2 _
+d2=8C
+
+(7.2)
+
+61
+

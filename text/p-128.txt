@@ -1,0 +1,46 @@
+13 Stoves, Burners, Combustors and Their Efficiency
+
+NN i PREMIXED FLAME
+QO
+
+    
+
+D
+
+FUEL JET
+
+Figure 13.1: LPG Gas stove combustion design
+
+Cost It is important that one does not ignore the cost of the system. Be it the
+aircraft gas turbine engine or a domestic stove, cost factors drive the designer
+to make more optimal choices.
+
+13.1 The Devices
+
+The various combustion devices commonly used are gas stove, kerosene stove, wood
+burning stove, gas burner, liquid fuel burners for furnaces, special purpose burners,
+coal combustion devices and gas turbine combustor.
+
+Some of these have been discussed in earlier chapters; but we will examine them
+briefly here.
+
+Gas Stove In gas stoves, the jet of fuel issuing from the tiny hole entrains air and
+moves up, comes out of the head where it is ignited (Fig.13.1). Once ignited,
+the flame is stable and largely bluish over the range of flow rates permitted
+by the valve. The process of entrainment is not complete or satisfactory as
+may happen if the internal passage carrying the fuel-air mixture is somewhat
+blocked. In such a case, the fuel flow rate is not affected but the flow rate
+of air entrained will not be adequate. In this case, the fuel-air mixture will
+be slightly fuel-rich and one may end up with yellow tongued flames. One
+will also have the problem of sooting locally if the mixture is largely fuel-rich.
+Combustion efficiencies in these stoves is close to 96-98 % in most situations.
+The efficiency of energy utilization controlled by heat transfer efficiency is
+about 75 % in the best situation. This efficiency is dependent on vessel shape
+and size. Flat bottomed vessels of diameter of about three times the diameter
+of the flame give the highest possible efficiencies.
+
+Kerosene Stove In the case of kerosene stove, it must be said that the design using
+perforated cylindrical sheets is ingenious and deceptively simple, as stated
+
+120
+

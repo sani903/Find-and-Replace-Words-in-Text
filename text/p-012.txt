@@ -1,0 +1,24 @@
+1 Why Should One Attempt to Understand Combustion?
+
+It gives an insight into the way things work and hence significantly reduces the
+dependence on the trial and error technique.
+
+1.1 Overview
+
+Fuels and oxidizers can be in gaseous, liquid, solid form. They undergo exothermic
+reactions under a variety of conditions — from those at near ambient pressure and
+those at very high pressures. They result in high temperature gases that travel at
+low speeds (called deflagrations) or at very high speeds (called detonations).
+
+The main aim of combustion is to release the energy of the fuels by reacting with
+suitable oxidizers into sensible heat such that the efficiency of combustion as high
+as possible (close to 100 % in many instances) and the undesirable emissions are
+at a minimum. The broad spectrum of conditions under which combustion is per-
+formed calls for a fundamental understanding of various effects. In this endeavour,
+both fluid mechanics and chemical thermodynamics are needed. To signify this, the
+field of combustion is some times referred to as aero-thermo-chemistry.
+
+To achieve an understanding of the subject, experimental data and analytical
+tools of varying complexity are needed. This book addresses the simplest of the
+approaches to the understanding of the phenomena.
+

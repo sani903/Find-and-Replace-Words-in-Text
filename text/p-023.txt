@@ -1,0 +1,28 @@
+2.4 Overview
+
+Satellite Launch Vehicle (PSLV) has hundred and twenty-five tonnes of composite
+propellant cast into its first stage alone. Since solid propellants have their own
+oxidizer and fuel, they can be ignited by chance thereby posing a serious fire hazard.
+As such, great care is taken in handling propellants for rocket applications. More
+about the way propellants burn and the way to control them will be discussed later.
+
+2.4 Overview
+
+There are natural fuels and synthetic fuels and natural and synthetic oxidizers.
+The most abundant fuels are biomass or biomass-related. Synthetic fuels are used
+for special applications like rocket propulsion. Most fuels are based on carbon,
+hydrogen, with some oxygen and nitrogen. They are available in gaseous, liquid
+and solid forms.
+
+The most natural oxidizer is oxygen present in air. Examples of synthetic oxi-
+dizers are liquid oxygen, or specially prepared inorganic liquid or solid compounds.
+
+There are many properties of the fuels/oxidizers which matter in their selection
+for a specific purpose. The most important property is the energy content of the
+substance. It decides how high the combustion temperature will be. It is also im-
+portant to know the quantity of oxidizer required to be mixed with a given amount
+of fuel in order to obtain peak combustion temperature. This is called stoichiometry
+and is discussed next.
+
+15
+

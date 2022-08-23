@@ -1,0 +1,54 @@
+5 How Does a Reaction Proceed? At What Rate?
+
+with Os and dissociation of Hs takes place. This feature is generalized in the third
+reaction. Here H> reacts with AM giving Hydrogen atoms and M. M represents any
+molecule in the field. In reaction (4), HO reacts with O to give O, and H. Here one
+bond is broken and another made. It is a little more difficult than a simple event of
+breaking or making of a bond. In reaction (5) three species meet at a single location
+leading to products. These reactions, called three body reactions, are not usual at
+low or reasonable pressures. The density of the gas has to be very high in order
+for the molecules to be, on an average, close to each other so that three species can
+meet at a point at the same time. Now we can see why a reaction like
+
+C3H6 + 509 — 3C02 + 4H20 (propane oxidation)
+
+cannot take place in one step. Notice that propane molecule is very large with eight
+hydrogen atoms attached at various points. For the reaction to take place, five
+oxygen molecules have to meet one propane molecule at the same time, break it up
+such that all eight molecules are pulled out and the carbon atoms separated from
+each other to form three molecules of CO; and four molecules of HO. In effect,
+15 bonds are to be broken and 14 bonds are to be made. An obviously impossible
+task considering the fact that in a normal situation, one or two bonds are broken or
+made. What actually happens is that C5Hg, reacts with some energetic atom like
+H or O which will first break a bond to form C3H7; and Hs or OH. Such a process
+will continue till very small molecules are formed (like CH for instance). Most of
+these species like C3H7, C3H6 are all short-lived unstable configurations and end
+up quickly as small molecules which will get oxidized to products.
+
+What is clear from this discussion is that chemical reaction proceeds along
+molecular events. The making or breaking of a bond is the simplest event. The
+next complex event is the making of two bonds, breaking of two bonds or making of
+a bond and breaking of another. This is followed by the event in which three bonds
+being made/ broken (or some combination of these happenings).
+
+The reaction paths for a simple reaction system like H2 O2, are many. Typically
+they are as follows:
+
+H2+M — H+ H+ M Chain initiation
+O2+M—->0+0+M
+
+H2 +O — OH + H Chain branching
+
+Oy + H — OH +O Chain branching
+H+0Oy4+M— HO; + M
+
+HO + Oy — HOy + O Chain branching
+
+HO+O+ M — HOy+ M Chain carrying
+
+HO+ H+ M — HO + M Chain termination
+
+H+O+M — HO + M Chain termination
+
+44
+

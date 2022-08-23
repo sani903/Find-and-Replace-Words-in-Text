@@ -1,0 +1,70 @@
+14 Fire Spread and Fire Prevention
+
+RADIANT
+HEAT
+TRANSFER
+
+FLAME
+
+~~ | NL
+\ " Th TY
+
+CONDUCTIVE HEAT /
+HEAT PENETRATION
+TRANSFER THICKNESS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 14.1: Flame spreading mechanism
+
+ahead will volatalise and thus enable ignition. This helps continued propagation of
+the flame. The flame spread rate can be estimated by first writing a heat balance
+equation on the surface of the sheet at the point closet to the flame (we can identify
+such a location by = = 0 — see Fig. 14.1),
+
+or or
+ky i. = ppVytnep EA (r=y=0) (14.1)
+
+The left-hand side is the heat flux transferred from the flame. The right hand side
+is the heat received at the surface ahead of the flame. It is obtained by multiplying
+the convective flux per unit distance by the thickness of the sheet across which the
+temperature is taken to be uniform.
+
+It is important to estimate the gradients (07'/0y) and (07 /0x) at y = 0.
+
+or _(Iy-T) or _(T,-T)
+oy Ay ox Az
+
+where Tt, T,, and Tj are the flame, surface vaporisation and ambient temperatures
+respectively. The characteristic distance Ay and Ax are identified with distance for
+heat to be transferred from flame to the surface and along the sheet from the flame
+to the point of ignition. The characteristic physical features describing the distance
+are thermal diffusivity (k,) and velocity of the in gas phase (of the local wind, say).
+Thus Ay = Ax = ky/pgcpuy, Where ug, is the speed of the wind against which the
+flame may be spreading. With these we get
+
+(Ty - 0)
+(Ty, - To)
+ky l (Ty - Ty)
+
+Vi= 2 — 1 2 (14.2)
+ppcp th (Tv — To)
+
+PpVstncp = kg
+
+or
+
+134
+

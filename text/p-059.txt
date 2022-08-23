@@ -1,0 +1,39 @@
+6 Premixed Flames
+
+Premixed flames are those generated when the fuel and the oxidizer are mixed be-
+fore letting them into the combustion zone. They are not common in nature because
+if they were, there would have been serious fire hazards.
+
+6.1 Propagating flames
+
+In Fig. 6.1 (a), a glass tube is initially filled with premixed gaseous mixture of fuel
+and oxidizer, say air, and sparked by using a high voltage source. After the mixture
+is sparked, a flame will propagate through the mixture. The flame will be plane in
+the early stages and becomes curved as it passes further. The flame becomes curved
+because of the viscous effect of the glass tube. The speed at which the flame would
+propagate into the mixture if it is one dimensional is called flame speed ( S,).
+
+In Fig. 6.1 (b), the apparatus contains rotameters to measure the flow rate, and a
+mixer to mix the fuel and air and pass the mixture so that it attains uniform velocity
+at the exit. If the mixture is sparked, a flame which is plane and thin would remain
+nearly stationary. The velocity of the unburned fuel-air mixture entering the flame
+when it is stationary is the flame speed denoted normally by S,, the subscript u
+referring to the unburnt condition. This situation is similar to the one described
+earlier excepting that in (a) the gases are quiescent and flame propagates and in (b)
+flame is stationary and gases are moving in. In apparatus (b), the fuel and air flow
+rates can be varied so that the air-to-fuel ratio can be varied and the flame speed
+measured (one can also vary the air-to-fuel ratio in Fig. 6.1 (a); it is not shown
+here). At mixture ratios far from stoichiometry, the flame speed reduces to very
+small values and eventually at very lean and very rich mixtures, the flame does not
+propagate at all. These lean and rich mixture ratios are called flammability limits.
+Figure 6.1 (c) represents flame over a Bunsen Burner. As the flow rate increases,
+the flame becomes a deeper conical one. The velocity of incoming gases along a
+direction normal to the flame is the flame speed. If the flow rate is increased, the
+flame adjusts itself such that the speed of incoming gases normal to the flame will
+still be the flame speed.
+
+Typical flame speeds are about 0.30-0.5 m/s for hydrocarbon-air fuels, about 2.0
+m/s for Ho—air and 10 m/s for Ho—O, flames near stoichiometry. The peak flame
+
+51
+

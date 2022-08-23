@@ -1,0 +1,47 @@
+16 Emissions from Combustion Systems
+
+16.2 Why are they the pollutants and what are their health
+hazards
+
+16.2.1 Carbon dioxide
+
+COs is a major product of combustion. Every kg of methane, gasoline and diesel
+burnt produces 2.8, 3.1, 3.3 kg of CO, respectively. In India, about a hundred
+million tonnes of liquid fossil fuels and five hundred million tonnes of coal are used
+every year and these amount to the emission of CO; of about a billion tonnes.
+
+COs is called a greenhouse gas as it absorbs the long wavelength radiation re-
+flected by earth at 300 K into space (at 0 K). It is now established that the emis-
+sion of CO, leads to global warming, and in recent times. substantial evidence has
+been brought out by the important international agency, IPCC (Intergovernmental
+Panel on Climate Change). The problems of global warming are vividly brought out
+by the changes noted in the surface temperature of earth which had not changed
+for a thousand years till about 1900 after which there has been a sharp rise by a
+degree in the next hundred years. This change has been very clearly related to in-
+dustrialization. Increasing concentrations of greenhouse gases are likely to further
+accelerate the phenomenon of climate change. It is expected that the average global
+surface temperature could rise by 2.5 °C in the next fifty years, and by 6 °C in the
+next century, with of course, some regional variations. Evaporation will increase as
+the climate warms, which will increase average global precipitation. Soil moisture
+is likely to decline in many regions, and intense rainstorms are likely to become
+more frequent. Sea level is likely to rise by as much as 0.6 m leading to inundation
+of coastal cities and the possibility of Tsunami like activity.
+
+16.2.2 Unburnt hydrocarbons, soot and solid particulate matter (SPM)
+
+These are connected pollutants and are generally found as emissions from light mo-
+tor vehicles running on gasoline as well as heavy motor vehicles running on diesel.
+Particulate matter or suspended particles are a complex mix of organic and inor-
+ganic substances in suspension in the air. Some of these are produced through
+the combustion process. Oxidation of gaseous emissions such as sulphur dioxide
+and nitrogen dioxide form acids in the air, which will then combine with ammo-
+nia to form ammonium salts such as ammonium sulphate and ammonium nitrate.
+Both these particular salts exist as solid particles at low humidity or as solution
+droplets at higher humidity. Airborne particulate matter is usually described as
+SPM (suspended particulate matter) and TSP (total suspended particulate matter).
+The particulate matter which exists in the air as a result of combustion, though
+smaller in concentration as a proportion of TSP, is of greater consequence to hu-
+man and environmental health. The fine particulate matter emitted from engines
+
+150
+

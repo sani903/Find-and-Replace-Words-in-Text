@@ -1,0 +1,48 @@
+complex. The requirement are to burn the fuel and oxidizer under lean conditions
+(fuel fraction less than the correct proportion for combustion to be complete) at high
+pressure to provide a relatively uniform high temperature profile at the exit cross-
+section of the combustion chamber and limit the emissions of undesirable products
+of combustion, namely, unburnt hydrocarbons, carbon monoxide and oxides of nitro-
+gen. Minimizing the volume and weight of the system form the additional demands.
+That all these requirements have been met with in the last four decades with in-
+creasing index of performance is an evidence to progress in the understanding of
+the processes and the use of all the advanced design tools.
+
+The liquid fuels, in some situations, vaporise and combust with air as in kerosene
+stoves. In some others, like in a furnace or gas turbine combustor, the liquid fu-
+els are sprayed through injectors and the fine droplets burn up in an oxidizer-rich
+environment. In solid propellants, wherein oxidizer and fuel are in close proxim-
+ity, combustion takes place at high pressure. The propellant components react in
+condensed phase (solid/liquid), vaporise and react exothermally in gas phase, and
+transfer heat back to the condensed phase to sustain the combustion process.
+
+At the very root of these processes is the fact that a flame is produced because
+the flowing system has the fuel vapour and oxidizer mixing in the right propor-
+tions, chemically reacting to release heat which becomes the sustaining element for
+continued reactions. In some instances the fuel and oxidizer are mixed before reac-
+tions take place. These are termed ‘premixed flames’ (e.g., kerosene wick stove). In
+others, the fuel and the oxidizer are unmixed until combustion takes place at the
+flame. These are diffusion flames (e.g., candle flame). The entire range of flames is
+essentially either of the two extremes or a combination. There is therefore a need
+to understand the interaction between the fluid flow and the chemical reaction un-
+der various conditions of temperature, pressure, and ways of mixing the fuel and
+the oxidizer to appreciate and design various devices — wood stove, a reciprocating
+engine combustion system, a gas turbine combustor, or a rocket engine combustor.
+
+The motivation for understanding combustion to design combustion systems
+arises from two considerations: (i) the systems are too complex to be understood
+easily and trial and error techniques of design simply do not work and (ii) the sys-
+tems are so large that trial and error techniques are far too expensive to practice.
+
+One important approach to understanding is dimensionless analysis. Much has
+been said about dimensionless numbers in engineering literature. The most power-
+ful and simple tool to understand, explain and predict the behaviour of engineering
+systems including chemical systems is the method of dimensionless analysis.
+
+There are more powerful methods which involve the solution of conservation
+equations of mass, momentum, energy and species which lead to accurate predic-
+tions of behaviour of chemical-engineering systems. However, useful information in
+many cases can be extracted from dimensional analysis referred to above.
+
+A better understanding does not always imply generation of a design procedure.
+

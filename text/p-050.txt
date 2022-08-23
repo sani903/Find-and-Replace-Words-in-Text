@@ -1,0 +1,28 @@
+4 How Much Heat? How High a Temperature?
+
+atmosphere. By putting up a heat exchanger to heat the air for combustion, such
+industries would have derived enormous financial benefit and would have saved the
+planet considerable fuel! Of course, they can effect the changes even now.
+
+4.6 Overview
+
+We have discussed in this chapter the essential elements of chemical thermodynam-
+ics. The science of this area is well developed and understood. Powerful computer
+programmes for the calculation of adiabatic flame properties are available. The
+measured temperatures of flames in actual situations is lower due to stretch effects
+as well as heat loss. Increasing the peak combustion temperatures can be achieved
+by using a separate combustor to preheat the reactants if the process concerned
+does not have an exhaust (waste) stream at high temperature.
+
+Equilibrium adiabatic flame temperature sets the upper limit of observed flame
+temperature for most systems—gaseous oxidizer, fuel; solid propellant, liquid bipro-
+pellants. There is one important exception in some liquid monopropellants—one ex-
+ample being hydrazine. In this case, the measured decomposition temperature ex-
+ceeds the adiabatic flame temperature. The reason lies in the fact that ammonia—
+one of the products decomposes endothermically very slowly to Ny and Hs. Thus in
+an actual system decomposition is partial and not complete. This leads to a slightly
+better performance in terms of 7, and c* in the actual system compared to equilib-
+rium conditions.
+
+42
+

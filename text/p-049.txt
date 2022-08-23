@@ -1,0 +1,72 @@
+4.5 Can we raise the peak temperature from a given reactant set?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Main Process “600K
+Unit A
+I
+|
+of -————— a —
+po! gr «— [uel
+400 - 700 K
+AI «— Air
+Heat |
+Up to 700K increment Exchanger
+in Tadiot y
+Fuel Air
+300K
+
+Figure 4.4: Schematic of an arrangement to raise the peak temperature of a fuel-oxidizer
+combination
+
+Such a geometry is essentially a sphere. Increasing the combustion throughput or
+power in such a spherical combustor reduces the role of heat loss in determining
+the peak temperature achieved in the combustor. The heat losses can contribute to
+the observed reduction in temperature by a few hundred Kelvin.
+
+Thus, both the above factors can reduce the observed temperatures in actual
+systems by several hundred Kelvin.
+
+4.5 Can we raise the peak temperature from a given
+reactant set?
+
+This question becomes relevant in industries that use low quality fuels but intend
+to perform thermal operation requiring high temperature like the glazing opera-
+tion on ceramic material or melting of iron. In the former case at least 1350 K
+is required and in the latter at least 1600 K is required. If we are using a fuel—
+oxidant mixture that generates 1100 K, how can we achieve the objectives noted
+above? Figure 4.4 shows the schematic of how this can be achieved. The fuel-
+oxidant mixture is burnt in two locations, with the hot gas from the first location
+being used in a heat exchanger to preheat the oxidant alone or the fuel as well be-
+fore being used in the second combustion system. Since the entry conditions for the
+second combustion system have reactants at sufficiently high temperature (even up
+to 800 K depending on the quality of the heat exchanger), it is possible to raise the
+temperature even up to 1700 K. In many practical situations, the waste heat from
+the process itself can be used for preheating the reactants, either in part or com-
+pletely. This is true for many metal melting industries designed and built at a time
+when fuel was considered cheap and the burnt gases were simply sent up into the
+
+41
+

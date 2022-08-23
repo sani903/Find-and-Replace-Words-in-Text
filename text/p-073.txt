@@ -1,0 +1,40 @@
+8 Ignition
+
+It is a matter of experience that a fuel gas can be ignited in an easier manner than
+a kerosene wick which in turn is easier than a solid fuel in stoves using these fuels.
+Since ignition implies a flame in gaseous phase, one has to generate fuel vapours
+from liquid/solid before ignition can take place. This is why it is easier to ignite a
+gaseous fuel. It is more difficult to vaporise a solid compared to a liquid and that is
+the reason for greater difficulty in igniting solid fuels.
+
+Aircraft engines use kerosene as a fuel. Kerosene is usually injected as a fine
+spray into the combustion chamber. Ignition is performed by a spark source. It
+must be noted that the flow velocities in the combustor are by no means small,
+typically 20-50 m/s. Hence it is quite difficult to re-ignite under these conditions.
+Let us assume that ignition has taken place and the aircraft has flown into cruise
+altitude. Suppose the aircraft moves into a zone of heavy rain and water ingestion
+causes a ‘flame-out’ as it is called. It should be possible to re-ignite the system at
+this altitude and at reasonable flight speeds. This is a tough task and if achieved,
+makes the engine qualify for acceptance by aircraft as a propulsion system. To
+find how much must be the energy of the spark to cause ignition in such conditions
+and where to locate the spark in the flowing fluid requires an understanding of the
+processes of ignition.
+
+We begin now to try and understand the processes during ignition. There are
+two methods of ignition— (i) high energy spark, (ii) a naked flame. The high en-
+ergy spark is created between two electrodes kept at some distance away from each
+other. Generating a high voltage across the electrodes (typically of the order of 10
+kV) causes a breakdown of the resistance in the gaseous atmosphere and the re-
+gion between the electrodes is filled with ions and high energy species. The local
+temperatures are also high. These high energy species diffuse to the surroundings,
+recombine at a distance and generate heat. The chemical reactions begin in the en-
+tire region around the spark. Whether these reactions decay away or sustain into
+a propagating flame will depend on the relative levels of energy generated locally
+to that which is diffused away. The minimum energy required can be estimated
+by calculating the energy of a flame with thickness equal to flame thickness and a
+cross-section of a dimension equal to quench distance. The logic for this comes from
+the following observation. If the energy of the spark is restricted to the cross-section
+equal to or less than the quench distance corresponding to the gas—air mixture, the
+
+65
+

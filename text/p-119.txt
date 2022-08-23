@@ -1,0 +1,52 @@
+12.1 How Do We Understand the Effects of Burn Rate Modifiers?
+
+12.1 How Do We Understand the Effects of Burn Rate
+Modifiers?
+
+Catalysts as understood in elementary chemistry are substances which alter the
+rate of reaction without actually getting consumed. But in combustion processes,
+the catalysts get consumed, yet serving the purpose of altering the rates of reaction.
+Hence, it is more appropriate to call these catalyst-like substances as burn rate
+modifiers.
+
+Burn rate modifiers affect both the gas phase and condensed phase reaction
+paths and also cause physical changes near the burning surface. There are many
+inorganic compounds that produce certain products which melt and spread over the
+surface and reduce heat transfer to the surface. Some will enhance the rate of reac-
+tion in the gas phase near the surface so that the flame is drawn nearer to the sur-
+face causing added heat transfer. In a few cases, it may be a combination of events
+which leads to changes in burn rate vs pressure behaviour. A remarkable feature of
+these burn rate modifiers is that even small amounts, typically 0.5% or less, affect
+the burn rates by more than 10-50%. These features are difficult to model and as
+yet not much progress has been made in understanding these dramatic effects.
+
+The pressure in the chamber of a rocket engine is due to the balance between
+mass production rate and mass flow rate through the nozzle. While the former
+has already been described, the latter can be calculated from fundamentals of gas
+dynamics to be
+
+Mnozzle = (PeAt)/c", c= (RTy/ A )/T (7) (12.7)
+where c* is the characteristic velocity, a function of flame temperature 7’, molecular
+weights of products of combustion and a function I'(y) (0.6-0.64) which depends on
+
+ratio of specific heats, v (~1.1-1.25). Equating the mass production rate and mass
+outflow rate through nozzle we get:
+
+Mproduction = Pp Apr = Mnpozzle = peAt/c* (12.8)
+
+with 7 = a1p}?, a1 = aexp(To — 17). Here Tj is the reference ambient temperature.
+From this equation, we get
+
+4 Yan)
+Pe = ipa (12.9)
+
+This is a very revealing result. If you take a double-base propellant with n = 0.8,
+then
+pe ~ (Ap/Ar)>° (12.10)
+
+If the mechanical integrity of the propellant (it implies the ability of the solid pro-
+pellant as a structural entity to withstand the pressures and loads) is not sat-
+isfactory or the preparation of the propellant with the rocket motor is such that
+
+111
+

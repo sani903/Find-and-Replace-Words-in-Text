@@ -1,0 +1,50 @@
+16 Emissions from Combustion Systems
+
+Nitric oxide reacts with ozone (O3) in the atmosphere in the presence of ultravi-
+olet light from the sun and generates nitrogen dioxide.
+
+NO + O3 <> NOs + Oo (16.1)
+
+In the presence of certain hydrocarbons (complex oxygenated hydrocarbons pro-
+duced because of incomplete combustion in vehicles) the equilibrium that would be
+established as per the relation (16.1) would be disturbed and more of NO; and Os
+are found in the near-earth atmosphere.
+
+Because ozone has limited solubility in water, the upper respiratory tract is not
+as effective in scrubbing ozone from inhaled air. Consequently, majority of the in-
+haled ozone reaches the lower respiratory tract and dissolves in the thin layer of
+epithelial lining fluid (ELF) throughout the conducting airways of the lung. In the
+lungs, ozone reacts rapidly with a number of biomolecules, following an exposure up
+to 8 hours, leading to reductions in forced expiratory volume in one second (FEV1)
+and some or all of the following respiratory symptoms like cough, pain on deep in-
+spiration, and shortness of breath. These effects are reversible, with improvement
+and recovery time varying from a few hours to 48 hours.
+
+At high altitudes there is protective Ozone layer that filters the harmful high
+energy radiation which includes the ultraviolet radiation, limiting its penetration
+to the surface layers of the earth. When an aircraft flying at a high altitude (like
+Concorde during its service) releases oxides of nitrogen into the atmosphere, the
+reactions noted above will work the other way and lead to reduction in the ozone
+fraction and thereby to conditions where more harmful radiation reaches the earth’s
+surface.
+
+The release of these gases as well as those containing chlorine and bromine
+through various human activities, particularly chlorofluorocarbons in aerosols, has
+caused a gradual depletion of the ozone layer over North America, a large part of
+South America and Asia, nearly the whole of Europe, Australia and New Zealand.
+Consequently, harmful UV radiation that filters through these regions is known to
+cause dryness and wrinkling of the skin and an increase in the incidence of skin
+cancers.
+
+16.2.4 Sulphur dioxide and halogens
+
+The main sources of sulphur contaminated fuel are Coal, lignite and heavy fuel
+oils. From an automotive point of view, high speed diesel is the largest contributor
+of sulphur dioxide to the atmosphere. For petrol vehicles the quantity is around
+0.02% by mass sulphur, whereas it is more like 0.2 % by mass for diesel fuel. Oxides
+of sulphur are known to be so corrosive that its undesirable effects were known
+earlier than those posed by oxides of nitrogen. Inhaled sulphur dioxide is highly
+soluble in the aqueous surfaces of the respiratory tract, much more than the oxides
+
+152
+

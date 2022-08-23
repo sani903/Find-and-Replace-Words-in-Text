@@ -1,0 +1,65 @@
+8 Ignition
+
+Table 8.1: Ignition energies (I.E) at 0.1 M Pa
+
+ 
+
+ 
+
+Fuel Oxidizer I.E
+mJ
+Hydrogen Air 0.01
+Hydrogen Oxygen 0.003
+Methane Air 0.003
+Ethane Air 04
+Butane Air 0.3
+Acetylene Air 0.03
+Methyl alcohol Air 0.2
+Carbon monoxide Air 0.05
+
+ 
+
+energy will simply be diffused away or lost by conduction through the surrounding
+medium. The energy of the flame is the product of the sensible एंथलपी per unit
+mass of the gas taken from the ambient to the flame temperature and the mass of
+the gas confined within the quench diameter and flame thickness. As long as the
+ignition energy (I.F) is larger than this value, ignition will take place.
+
+LE = ¢)(Ty — To) (nd; /4)d pu) (8.1)
+
+This states that the ignition energy is equal to the product of the sensible एंथलपी
+per unit mass multiplied by the mass of the gas. If we note that d, ~ 10d; from
+Eq.(7.3) we get
+
+I.E = 100pucy(Ty — To)d} (8.2)
+
+This expression correctly describes the qualitative behaviour of ignition energy with
+pressure and initial temperature through p, and d;. Again, recalling the relation-
+ship between d; and the flame speed (Eq. 6.3), we get an alternate expression for
+ignition energy as,
+
+E3 (Try — T, Tr —T,
+(Ty — To) — 10002" r — To)
+
+I.E =100
+E0253 5
+
+(8.3)
+
+where «a, = gas thermal diffusivity = (k/pucp)g
+
+If we set S, ~ p"/?>7!, p, ~ p' and k/c, as independent of pressure for a perfect
+gas, LE. ~ p~2 if n=2.
+
+Thus as pressure decreases the ignition energy becomes larger by a factor p—2.
+
+This is a steep dependence on pressure. Let us look at some typical values for vapors
+of kerosene or natural gas in air — k = 0.04W/mK, Ty —T, = 2000 K, ¢, = 1.3kJ /kgK,
+S. = 0.4m/s, p, ~ 1.2kg/m3. These values lead to an ignition energy of 0.11 m.J.
+This value is in the right range of values determined experimentally, noting that
+this is an upper estimate of the limit. Some of these values are shown in Table 8.1.
+Note that these values are for a quiescent atmosphere. If pressure is a third of the
+sea level pressure, as it happens for a flying aircraft, the ignition energy will be
+
+66
+

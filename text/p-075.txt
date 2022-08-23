@@ -1,0 +1,49 @@
+8.1 Ignition of a Liquid Pool and solid fuels
+
+about thirty times this value, 1-2 mJ. If now we superpose the effect of flowing
+stream at velocities ~20-50 m/s, the energy goes up substantially. While actual
+calculations can indeed be made, the typical ratio of ignition energies with flow
+compared to that at quiescent conditions, is about 100 or so. This brings the ignition
+energy in the range of 0.1 J or so. Typical values of ignition energies in spark
+igniters of aircraft engines are about 1-2 J and this is consistent with the fact that
+in aircraft engines, ignition is of kerosene spray (of fine droplets) and not gaseous
+fuel.
+
+Ignition by a naked flame is always easier than a spark. This is because the
+flame has a copious amount of active radicals at reasonably high temperature and
+even a match stick flame carries with it energy of as much as 20-50 J. Thus the
+energy available for ignition is very large. Of course, one will not be able to use
+a simple flame in relatively high speed streams because the flame gets quenched
+(why? See Chapter 9 on extinction and stability of flames). A spark is a very stable
+source of energy especially since it is tiny and can be arranged easier. This does not
+mean pilot flame ignition is not used in practice. It is indeed used even in rocket
+engines. The pilot flame is spark ignited and it becomes the ignition source for a
+much larger system.
+
+8.1 Ignition of a Liquid Pool and solid fuels
+
+Under unforeseen contingencies it may happen that liquid pool gets formed. A
+typical instance could be the breaking up of a fuel tanker at sea. The entire liquid
+fuel spreads on the sea surface. During the breaking up, should an unwanted fire
+get created, the entire liquid pool could go up in flames or be not in a position
+to be burnt-up, a condition less desired under such circumstances, because of the
+environmental hazards. So we ask a question: Under what conditions does a pool
+of liquid ignite?
+
+Suppose one were to take a burning matchstick near a pool of kerosene. You
+may find that the kerosene will not ignite at all. You may then take the burning
+stick near a small pool of gasoline and be surprised by the speed of ignition. You
+might further provoke the kerosene pool by simply inserting the cinder of burning
+stick into the pool to find a few whitish vapours on a gasoline pool,escaping into the
+atmosphere. Then even a small flame brought near the pool would quickly ignite
+and burn away the vapours obtained a little earlier. What do all these mean? For
+ignition one needs fuel vapours. In the case of kerosene the boiling point is high
+and so vapours are found in small quantities in the region above the pool. On the
+other hand, one will find more vapours on a gasoline pool even at temperatures
+of 20-25°C. Therefore, bringing any tiny source of ignition is adequate to cause
+ignition. These aspects are covered under the concepts of flash and fire points.
+
+Flash point is the temperature of the liquid at which an ignition source is able
+
+67
+

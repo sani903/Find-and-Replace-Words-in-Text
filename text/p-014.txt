@@ -1,0 +1,56 @@
+2 What Do We Burn and Why?
+
+Table 2.1: Fuels, Oxidisers and Uses (LH, =Liquid hydrogen, LO, = Liquid oxygen, RFNA
+= Red fuming nitric acid
+
+ 
+
+ 
+
+Fuels Oxidizers Uses
+I. Gaseous fuels, Oxidiser
+1. Liquified Petroleum Gas air Domestic purposes, furnaces
+(LPG)
+2. Biogas air Domestic purposes, engines
+3. Producer gas air Engines (Reciprocating), fur-
+naces
+4. Acetylene Oxygen (O03) Gas welding/gas cutting appli-
+cations
+5. Basic fuel Species, Basic Oxidising all combustion
+Methane, propane, Bu- Species, O; (N, is
+tane, Carbon monoxide, generally an inert)
+Hydrogen
+II. Liquid Fuels-Oxidiser
+1. Gasoline Air Spark ignition engines, aircraft
+piston engines
+2. High Speed Diesel (HSD) Air Compression ignition engines,
+Furnaces
+3. Light Diesel Oil, furnace Air Furnaces
+oil
+4. Kerosene (wide cut) Air Aircraft gas turbines, ramjet,
+domestic applications (wide cut)
+5. Alcohols Air Engines
+6. Hydrazine, Unsymmetrical Nitrogen tetroxide Liquid Rocket Engines,
+dimethyl Hydrazine, tri- (N20,4), RFNA, LO,
+ethyl Amine, LH,
+7. LH,, kerosene Air Scramjet
+III. Solid Fuels-Oxidiser
+1. Biomass like firewood, Air Domestic heat, Furnaces, En-
+sawdust, rice husk, gines with gasifiers
+groundnut shells, coffee
+husk, charcoal
+2. Coal, Coke Air, Oy Furnaces (Blast furnace-to
+make steel) (Boilers for power
+generation), Domestic heat
+3. Polymers like polybutadi- Ammonium perchlo- Composite solid propellant
+ene, with hydroxyl ter- rate
+mination and aluminium
+powder
+4. Nitrocellulose (NC) + oth- Nitroglycerine (NG) Double-base solid propellant
+ers
+5. Aniline formaldehyde, rub- N,O,, LO, Hybrid rockets
+
+ber
+
+ 
+

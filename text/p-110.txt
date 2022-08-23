@@ -1,0 +1,32 @@
+10 Diffusion Flames
+
+their height depends on diffusion and diffusion rates are small. Laminar gas dif-
+fusion flame heights increase with velocity. Turbulent flames scale with diameter
+of jet. Diffusion flame heights and heat transfer are relatively independent of pres-
+sure.
+
+Liquid fuel droplet combustion in oxidising environment occupies a premier po-
+sition in industrial and automotive engine combustion situations. Droplet combus-
+tion times scale with square of initial diameter in zero-g conditions. Usually, d’>—
+law, as the basic relation is called, is obeyed even with free convection or moderate
+forced convection. The thermal properties of the liquid fuel do not have a signifi-
+cant influence on the burn rate. Drop combustion times are two to ten times smaller
+than vaporisation times under similar ambient conditions. Corrections to burn rate
+because of velocity of oxidizer or free convection arc made by semi-empirical means
+through the use of Re!/2 or Grl/* as the appropriate terms (in the laminar range).
+
+Boundary layer diffusive combustion is another major combustion mode. It is
+relevant in hybrid rockets and fire in a variety of situations. A general analysis
+technique shows that the mass burn rate (or mass flux to be precise) varies with
+transfer number (to account for thermodynamic effects) and Nusselt number (to ac-
+count for flow effects). The inter-relation between flow and thermodynamic effects
+occurs because of the blocking effect—the effect of reduction in heat transfer due
+to enhancement of mass efflux from the surface. A general statement of these rela-
+tions is possible so that a variety of physical flow conditions can be accounted. Lam-
+inar flow situations can be analysed exactly—sometimes using a computer. Turbu-
+lent flow situations need modelling of turbulence-reaction interactions. This area is
+not fully understood yet. For engineering needs, correlations can be developed and
+these are indeed satisfactory in many cases.
+
+102
+

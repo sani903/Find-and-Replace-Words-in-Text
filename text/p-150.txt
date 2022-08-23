@@ -1,0 +1,51 @@
+15 Solid Fuels - Combustion and Gasification
+
+15.1 Pyrolysis, Combustion and Gasification process
+
+Biomass has about 75 % volatiles and coal about 30 %. The processes that occur in
+the conversion process are described as follows:
+
+1. Solid (with moisture) — dry solid — char (at ~ 350°C") + volatiles
+
+2. Solid (with moisture) + air — char + products of flaming combustion at sub-
+स्टोइकोमेट्रिक conditions — ash + some unconverted carbon (with oxidant, like air)
+
+If the aim is to obtain liquid fuel from the solids, one needs to heat the solids in
+the absence of air like in option 1 above. When this is done, the biomass will release
+moisture including bound moisture at a temperature less than 150 °C and volatiles
+at temperatures of about 350 °C. After the devolatilization process is complete, one
+obtains solid char (up to 30 %), some liquid components (3 to 50 %) and remain-
+ing non-condensible gases like CO, COs, H2, CH; and higher hydrocarbons. If the
+heating rate is low, there is enough time for reactions between various volatilized
+components which lead to a small fraction of liquid components (about 3 to 5 %).
+If the heating rate is very high (about 1000 °C per second), a large fraction is lig-
+uid and if this is condensed immediately, one gets what is known as pyrolytic oil
+that contains combustibles with 20 % water that forms azeotropic mixtures with
+other liquids. The high heating rate demands that the solid be pulverized to fine
+size. The liquid obtained from this process has a calorific value about half of liquid
+fossil fuels. This liquid is difficult to ignite and its use therefore is limited to con-
+tinuous combustion systems. While combustors meant for stationary applications
+can accept the fuel without difficulty, to operate internal combustion engines like
+gas turbines a higher degree of purification to eliminate fine char in the liquid is
+required.
+
+The thermal conversion process of coal or biomass with air to lead to a com-
+bustible gas (gasification process) can be arranged in one of the several ways — fixed
+bed, moving bed or fluid bed. In a fixed bed one can have the relative movement of
+air and the solids in co-current, counter-current and cross-draft mode. The fuel in
+a fixed bed moves down by gravity.
+
+In combustion systems with a moving grate, solids are transported at the re-
+quired rate over the grate and air is passed from underside of the grate partly and
+over the grate partly. Air can be blown into the combustion system or drawn by
+induction through a induced-draft fan located downstream, close to the chimney.
+
+At relatively large throughputs, one uses a fluid bed combustion system. In this
+system, the fuel is fed into a bed of sand that is maintained in a suspended condition
+with bubbles of air moving up in a random way. The fuel is fed in the specified size
+range into the bed. The fuel constitutes no more than 15 % of the bed material.
+Because of intense movement of the solids and air, the bed temperature becomes
+uniform and it is possible to maintain it in a narrow range by a suitable control of
+
+142
+

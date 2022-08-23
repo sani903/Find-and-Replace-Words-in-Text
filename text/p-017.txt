@@ -1,0 +1,99 @@
+2.2 Liquid Fuels
+
+ 
+
+300:
+NCE |
+
+200 [ 7 |
+Pad | DIESEL
+
+© 100 | A KEROSENE
+- /
+|
+
+o [— GASOLINE FREEZING POINT
+| Lr”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-100
+
+ 
+
+700 800 900
+
+kg/m’
+
+Figure 2.2: Boiling and freezing range vs Density of petroleum based liquid fuels
+
+chain compounds (like the family of methane, ethane, propane, etc.) and aromat-
+ics (like benzene, toluene etc.). Figure 2.2 shows the boiling ranges and densities
+of these fuels. One can see clearly that gasolines vaporise better than kerosenes,
+a fact which is easily known because, one can smell gasoline more than kerosene
+under ambient conditions. One may wonder what smelling has to do with boiling
+point. If something does not vaporise easily, its molecules are not found in the at-
+mosphere and cannot be smelt. The fact that you cannot smell diesel as easily as
+gasoline implies that gasoline vaporises better than diesel.
+
+Kerosenes come in a wide range. They include those used at home as well as
+those meant for the gas turbines of aircraft, called aviation turbine fuel (ATF). The
+ATF is a refined kerosene, obtained by particularly eliminating Sulphur so that
+the life of turbine blades (which experience the combusted hot gases of fuel — air
+mixture) is extended.
+
+Gasoline is most extensively used in reciprocating spark ignition (SI) engines.
+They vaporise easily and are mixed with air in right proportions before their entry
+into the combustion chamber.
+
+Diesel fuels are used in compression ignition (CI) engines where no spark is
+needed to intitiate the combustion process. These engines work at much higher
+compression ratio than gasoline engines. The fuel is injected in the form of spray
+into hot compressed air. The fuel ignites and combustion follows.
+
